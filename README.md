@@ -9,4 +9,4 @@ When preparing a text file for import, it is recommended that all line lengths s
 
 After importing you may use the D and F keys to quickly edit the text strips.
 
-![Text Strip Editing](http://i.imgur.com/MHyz7Dr.gifv)
+![Text Strip Editing](http://i.imgur.com/MHyz7Dr.gif)

@@ -6,7 +6,7 @@ from bpy_extras.io_utils import ImportHelper
 class ImportTXT(bpy.types.Operator, ImportHelper):
     bl_label = 'Import Text'
     bl_idname = 'sequencerextra.import_txt'
-    bl_description = ''.join(['Import .txt as text strips.\nEach line will be a text strip. \nLimit your line lengths to 74 characters.'])
+    bl_description = 'Import .txt as text strips.\nEach line will be a text strip. \nLimit your line lengths to 74 characters.'
     
     filter_glob = bpy.props.StringProperty(
             default="*.txt",

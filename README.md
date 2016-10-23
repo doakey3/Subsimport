@@ -7,6 +7,6 @@ A panel is added to the right of the sequencer. Set the channel where the subtit
 
 When preparing a text file for import, it is recommended that all line lengths should be 74 characters or less.
 
-After importing you may use the D and F keys to quickly edit the text strips.
+After importing you may use the **D** and **F** keys to quickly edit the text strips.
 
 ![Text Strip Editing](http://i.imgur.com/MHyz7Dr.gif)

@@ -62,6 +62,9 @@ class ShiftFrameEnd(bpy.types.Operator):
                     i > 0):
                         text_strips[i-1].frame_final_end = current_frame
                         return {"FINISHED"}
+                    elif i == len(text_strips) - 1:
+                        text_strips[i].frame_final_end = current_frame
+                        return {"FINISHED"}
                         
                 return {"FINISHED"}
             else:

@@ -53,13 +53,14 @@ class ShiftFrameEnd(bpy.types.Operator):
                     text_strips.append(strip)
             if not len(text_strips) == 0:
                 for i in range(len(text_strips)):
-                    if (text_strips[i].frame_final_start < current_frame and 
+                    if i == 0 and text_strips[i].frame_final_start > current_frame:
+                        return {"FINISHED"}
+                    elif (text_strips[i].frame_final_start < current_frame and 
                     text_strips[i].frame_final_end > current_frame):
                         text_strips[i].frame_final_end = current_frame
                         return {"FINISHED"}
                     elif (text_strips[i].frame_final_start >= current_frame and 
-                    text_strips[i].frame_final_end > current_frame and
-                    i > 0):
+                    text_strips[i].frame_final_end > current_frame):
                         text_strips[i-1].frame_final_end = current_frame
                         return {"FINISHED"}
                     elif i == len(text_strips) - 1:

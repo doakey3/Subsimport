@@ -2,7 +2,7 @@ bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 0, 0),
+    "version": (1, 0, 1),
     "blender": (2, 7, 8),
     "wiki_url": "",
     "tracker_url":"",
@@ -12,7 +12,6 @@ import bpy
 from .import_srt import ImportSRT
 from .import_lrc import ImportLRC
 from .import_txt import ImportTXT
-from .export_lrc import ExportLRC
 from .shortcut_functions import ShiftFrameStart
 from .shortcut_functions import ShiftFrameEnd
     
@@ -35,8 +34,6 @@ class subsimport_UI(bpy.types.Panel):
         lrow.operator('sequencerextra.import_lrc',icon="LONGDISPLAY")
         trow = layout.row()
         trow.operator('sequencerextra.import_txt',icon="TEXT")
-        exrow = layout.row()
-        exrow.operator('sequencerextra.export_lrc',icon="GO_LEFT")
             
 def register():
     bpy.utils.register_module(__name__)

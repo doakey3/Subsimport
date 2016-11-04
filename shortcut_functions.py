@@ -74,3 +74,14 @@ class ShiftFrameEnd(bpy.types.Operator):
             return {"FINISHED"}
             
         return {"FINISHED"}
+
+class ShiftBoth(bpy.types.Operator):
+    bl_idname = "sequencerextra.shift_both"
+    bl_label = "Shift Frame End then Frame start of next"
+    bl_description = "A combo of the D and F key shortcuts in a single key"
+    
+    def execute(self, context):
+        bpy.ops.sequencerextra.shift_text_frame_end()
+        bpy.ops.sequencerextra.shift_text_frame_start()
+        
+        return {"FINISHED"}

@@ -37,6 +37,13 @@ def add_segments(scene, segments):
     """Given a list of segments, adds them to the sequencer"""
     fps = scene.render.fps/scene.render.fps_base
     
+    try:
+        
+        for strip in scene.sequence_editor.sequences_all:
+            strip.select = False
+    except AttributeError:
+        pass
+    
     for i in range(len(segments)):
         if not segments[i].topline == '':
             line = segments[i].topline +' \n' + segments[i].bottomline
@@ -58,7 +65,7 @@ def add_segments(scene, segments):
             channel=scene.subtitle_channel,
             type="TEXT",)
         all_strips = list(sorted(
-            bpy.context.scene.sequence_editor.sequences_all,
+            scene.sequence_editor.sequences_all,
             key=lambda x: x.frame_start))
         text_strips = []
         for x in range(len(all_strips)):

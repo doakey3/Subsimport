@@ -2,7 +2,7 @@ bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 0, 1),
+    "version": (1, 0, 2),
     "blender": (2, 7, 8),
     "wiki_url": "",
     "tracker_url":"",
@@ -51,6 +51,7 @@ def register():
     km = kc.keymaps.new(name="Sequencer", space_type="SEQUENCE_EDITOR")
     kmi = km.keymap_items.new("sequencerextra.shift_text_frame_start", "D", 'PRESS')
     kmi = km.keymap_items.new("sequencerextra.shift_text_frame_end", "F", 'PRESS')
+    kmi = km.keymap_items.new("sequencerextra.shift_both", "S", 'PRESS')
     
 def unregister():
     bpy.utils.unregister_module(__name__)
@@ -61,7 +62,8 @@ def unregister():
     km = kc.keymaps["Sequencer"] 
     for kmi in km.keymap_items:
         if kmi.idname in ["sequencerextra.shift_text_frame_start",
-                          "sequencerextra.shift_text_frame_end"]:
+                          "sequencerextra.shift_text_frame_end",
+                          "sequencerextra.shift_both"]:
             km.keymap_items.remove(kmi)
 
 if __name__ == "__main__":

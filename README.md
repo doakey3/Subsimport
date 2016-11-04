@@ -10,3 +10,7 @@ When preparing a text file for import, it is recommended that all line lengths s
 After importing you may use the **D** and **F** keys to quickly edit the text strips.
 
 ![Text Strip Editing](http://i.imgur.com/MHyz7Dr.gif)
+
+Update: Now pressing the S key is equivalent to pressing F then D.
+This is very useful when you know the timing of a song and don't need
+to stop frequently.

@@ -2,38 +2,30 @@ bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 0, 2),
+    "version": (1, 1, 0),
     "blender": (2, 7, 8),
-    "wiki_url": "",
-    "tracker_url":"",
+    "wiki_url": "https://github.com/doakey3/subsimport",
+    "tracker_url":"https://github.com/doakey3/subsimport/issues",
     "category": "Sequencer"}
 
 import bpy
-from .import_srt import ImportSRT
-from .import_lrc import ImportLRC
-from .import_txt import ImportTXT
+from .import_subtitle import ImportSubtitle
 from .shortcut_functions import ShiftFrameStart
 from .shortcut_functions import ShiftFrameEnd
+from .shortcut_functions import ShiftBoth
     
 class subsimport_UI(bpy.types.Panel):
     bl_space_type = "SEQUENCE_EDITOR"
     bl_region_type = "UI"
-    bl_label = "Subtitles"
+    bl_label = "Subsimport"
     
     def draw(self, context):
         layout = self.layout
-        channel = layout.row()
-        channel.prop(context.scene, 'subtitle_channel',
-            text='Subtitle Channel')
-        font_size = layout.row()
-        font_size.prop(context.scene,'subtitle_font_size',
+        row = layout.row()
+        row.prop(context.scene,'subtitle_font_size',
             text='Subtitle Font Size')
-        srow = layout.row()
-        srow.operator('sequencerextra.import_srt',icon="WORDWRAP_ON")
-        lrow = layout.row()
-        lrow.operator('sequencerextra.import_lrc',icon="LONGDISPLAY")
-        trow = layout.row()
-        trow.operator('sequencerextra.import_txt',icon="TEXT")
+        row = layout.row()
+        row.operator('sequencerextra.import_subtitle',icon="TEXT")
             
 def register():
     bpy.utils.register_module(__name__)

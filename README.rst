@@ -20,7 +20,7 @@ Usage
 
 The user interface
 
-.. image:: http://i.imgur.com/gjyu4Fk.png
+.. image:: http://i.imgur.com/47nzgsr.png
 
 Set the font size of the text that will be imported. Click the import
 button and navigate to the .txt/.lrc/.srt file you would like to import

@@ -282,6 +282,4 @@ def addSegments(scene, segments):
         strip.text = line
         strip.font_size = scene.subtitle_font_size
         strip.use_shadow = True
-
-    for strip in text_strips:
         strip.select = True

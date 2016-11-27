@@ -1,5 +1,4 @@
 import bpy
-from .funcs import parse_txt, parse_srt, parse_lrc, add_segments
 from bpy_extras.io_utils import ImportHelper
 import datetime
 
@@ -145,6 +144,8 @@ def parseLRC(file):
     lines = f.readlines()
     f.close()
     lrc_segs = []
+    max_characters_per_line = 37
+    
     for i in range(len(lines)):
         try:
             given_time = lines[i].split(']')[0][1::]
@@ -160,7 +161,7 @@ def parseLRC(file):
         except ValueError:
             # The line doesn't start with [mm:ss.xx] format, skip it
             pass
-    lrc_segs.sort(key=lambda x: x.time, reverse=False)
+    lrc_segs.sort(key=lambda x: x.time)
 
     srt_segments = []
     for i in range(len(lrc_segs)):
@@ -171,8 +172,9 @@ def parseLRC(file):
             if i < len(lrc_segs) - 1:
                 srt_segments[-1].end_time = lrc_segs[i+1].time
             else:
-                srt_segments[-1].end_time = srt_segments[-1].start_time
-            if len(lrc_segs[i].line) > 37:
+                end = srt_segments[-1].start_time + 10
+                srt_segments[-1].end_time = end
+            if len(lrc_segs[i].line) > max_characters_per_line:
                 split = lrc_segs[i].line.split(' ')
                 line1, line2 = find_even_split(split)
                 srt_segments[-1].topline = line1

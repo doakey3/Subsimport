@@ -29,5 +29,5 @@ and click import.
 Use the D key to set the start of a text strip, the F key to set the
 end, and the S key to do both at once.
 
-.. image http://http://i.imgur.com/MHyz7Dr.gif
+.. image:: http://i.imgur.com/MHyz7Dr.gif
 

@@ -46,8 +46,6 @@ def register():
     kmi = km.keymap_items.new("sequencerextra.shift_both", "S", 'PRESS')
     
 def unregister():
-    bpy.utils.unregister_module(__name__)
-    
     del bpy.types.Scene.subtitle_channel
     
     kc = bpy.context.window_manager.keyconfigs.addon
@@ -57,6 +55,8 @@ def unregister():
                           "sequencerextra.shift_text_frame_end",
                           "sequencerextra.shift_both"]:
             km.keymap_items.remove(kmi)
+
+    bpy.utils.unregister_module(__name__)
 
 if __name__ == "__main__":
     register()

@@ -41,7 +41,7 @@ class Segment():
 
 def parseTXT(path, scene):
     """Read a .txt file, split lines where necessary"""
-    f = open(path, 'r')
+    f = open(path, 'r', encoding='utf-8', errors='replace')
     lines = f.readlines()
     f.close()
 
@@ -73,7 +73,7 @@ def parseSRT(file):
     """
     Open an srt file and convert its sections into a list of segments
     """
-    f = open(file, 'r')
+    f = open(file, 'r', encoding='utf-8', errors='replace')
     lines = f.readlines()
     f.close()
 
@@ -140,7 +140,7 @@ def parseLRC(file):
     """
     Open an lrc file and convert it's sections into srt segments
     """
-    f = open(file, 'r')
+    f = open(file, 'r', encoding='utf-8', errors='replace')
     lines = f.readlines()
     f.close()
     lrc_segs = []

@@ -1,3 +1,9 @@
+import bpy
+from .import_subtitle import ImportSubtitle
+from .shortcut_functions import ShiftFrameStart
+from .shortcut_functions import ShiftFrameEnd
+from .shortcut_functions import ShiftBoth
+
 bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
@@ -7,12 +13,6 @@ bl_info = {
     "wiki_url": "https://github.com/doakey3/subsimport",
     "tracker_url": "https://github.com/doakey3/subsimport/issues",
     "category": "Sequencer"}
-
-import bpy
-from .import_subtitle import ImportSubtitle
-from .shortcut_functions import ShiftFrameStart
-from .shortcut_functions import ShiftFrameEnd
-from .shortcut_functions import ShiftBoth
 
 
 class subsimport_UI(bpy.types.Panel):

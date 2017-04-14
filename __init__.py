@@ -1,8 +1,20 @@
 import bpy
-from .import_subtitle import ImportSubtitle
+from bpy_extras.io_utils import ImportHelper
+import sys
+import os
+
 from .shortcut_functions import ShiftFrameStart
 from .shortcut_functions import ShiftFrameEnd
 from .shortcut_functions import ShiftBoth
+
+modules_path = os.path.dirname(__file__)
+
+if not modules_path in sys.path:
+    sys.path.append(os.path.dirname(__file__))
+
+import pysrt
+import subsutils
+import pylrc
 
 bl_info = {
     "name": "Subsimport",
@@ -27,6 +39,48 @@ class subsimport_UI(bpy.types.Panel):
                  text='Subtitle Font Size')
         row = layout.row()
         row.operator('sequencerextra.import_subtitle', icon="TEXT")
+        
+
+class ImportSubtitle(bpy.types.Operator, ImportHelper):
+    bl_label = 'Import Subtitle'
+    bl_idname = 'sequencerextra.import_subtitle'
+    bl_description = ''.join(['Import subtitles as text strips.'])
+
+    filter_glob = bpy.props.StringProperty(
+            default="*.srt;*.lrc;*.txt",
+            options={'HIDDEN'},
+            maxlen=255,
+            )
+
+    def execute(self, context):
+        scene = context.scene
+        path = self.filepath.replace('\\', '/')
+        
+        if path.endswith('.lrc'):
+            lrc_file = open(path, 'r', encoding='utf-8', errors='replace') #surrogateescape?
+            text = ''.join(lrc_file.readlines()).rstrip()
+            lrc_file.close()
+            
+            subs = pylrc.parse(text)
+            text = subs.toSRT()
+        
+        elif path.endswith('.srt'):
+            srt_file = open(path, 'r', encoding='utf-8', errors='replace')
+            text = ''.join(srt_file.readlines()).rstrip()
+            srt_file.close()
+        
+        else:
+            txt_file = open(path, 'r', encoding='utf-8', errors='replace')
+            text = ''.join(txt_file.readlines()).rstrip()
+            txt_file.close()
+            
+            text = subsutils.text2srt(text)
+        
+        srt = pysrt.from_string(text)
+        
+        subsutils.addSubs(scene, srt)
+        
+        return {"FINISHED"}
 
 
 def register():

@@ -47,7 +47,7 @@ def text2srt(text):
     for i in range(len(lines)):
         seg = str(i) + '\n'
         start = sec2timecode(sec_time)
-        sec_time += 1
+        sec_time += 0.9
         end = sec2timecode(sec_time) 
         seg += start + ' --> ' + end + '\n'
         

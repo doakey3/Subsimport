@@ -26,8 +26,25 @@ Set the font size of the text that will be imported. Click the import
 button and navigate to the .txt/.lrc/.srt file you would like to import
 and click import.
 
-Use the D key to set the start of a text strip, the F key to set the
-end, and the S key to do both at once.
+Ensure the subtitle edit channel is set to the channel where your text
+strips have been imported.
+
+Keyboard Shortcuts
+------------------
+
+* D set the start of a text strip
+* F set the end of a text strip
+* S (like pressing F, then D rapidly)
+* W (like pressing D, then F rapidly)
 
 .. image:: http://i.imgur.com/MHyz7Dr.gif
+
+Use the Split words function to split words so they can be timed 
+individually.
+
+Use the Combine words function to recombine highlighted words into 
+sentences. (for making enhanced SRT). For now, combining only works as
+enhanced SRT, but other options are coming.
+
+The Export LRC function does not work at this point, but coming soon.
 

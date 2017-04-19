@@ -15,7 +15,7 @@ bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 1, 3),
+    "version": (1, 1, 4),
     "blender": (2, 7, 8),
     "wiki_url": "https://github.com/doakey3/subsimport",
     "tracker_url": "https://github.com/doakey3/subsimport/issues",
@@ -43,9 +43,9 @@ class subsimport_UI(bpy.types.Panel):
             text='')
         row = layout.row()
         row.operator('sequencerextra.combine_words')
-        row.prop(context.scene, 'subtitle_combine_method', text="")
-        row = layout.row()
-        row.operator('sequencerextra.export_lrc', icon="GO_LEFT")
+        #row.prop(context.scene, 'subtitle_combine_method', text="")
+        #row = layout.row()
+        #row.operator('sequencerextra.export_lrc', icon="GO_LEFT")
 
 
 def register():

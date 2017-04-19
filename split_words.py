@@ -82,6 +82,9 @@ class SplitWords(bpy.types.Operator):
         sub_list = []
         index_count = 1
         
+        if len(text_strips) == 0:
+            return {"FINISHED"}
+        
         for strip in text_strips:
             start = strip.frame_final_start / fps
             end = strip.frame_final_end / fps

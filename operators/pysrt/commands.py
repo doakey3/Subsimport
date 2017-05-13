@@ -12,7 +12,9 @@ import argparse
 from textwrap import dedent
 
 from chardet import detect
-from pysrt import SubRipFile, SubRipTime, VERSION_STRING
+from .srtfile import SubRipFile
+from .srttime SubRipTime
+from .version.VERSION_STRING
 
 
 def underline(string):

@@ -22,7 +22,7 @@ class ShiftFrameStart(bpy.types.Operator):
                 for i in range(len(text_strips)):
                     if (text_strips[i].frame_final_start < current_frame and
                             text_strips[i].frame_final_end > current_frame):
-                        if not text_strips[i].name.startswith('[locked start]'):
+                        if not '[locked start]' in text_strips[i].name:
                             text_strips[i].frame_final_start = current_frame
                             return {"FINISHED"}
                         else:
@@ -30,7 +30,7 @@ class ShiftFrameStart(bpy.types.Operator):
                     elif (text_strips[i].frame_final_start >= current_frame and
                             text_strips[i].frame_final_end > current_frame and
                             i < len(text_strips)):
-                        if not text_strips[i].name.startswith('[locked start]'):
+                        if not'[locked start]' in text_strips[i].name:
                             text_strips[i].frame_final_start = current_frame
                             return {"FINISHED"}
                         else:
@@ -69,7 +69,7 @@ class ShiftFrameEnd(bpy.types.Operator):
                     elif (text_strips[i].frame_final_start < current_frame and
                             text_strips[i].frame_final_end > current_frame):
                         
-                        if not text_strips[i].name.startswith('[locked end]'):
+                        if not '[locked end]' in text_strips[i].name:
                             text_strips[i].frame_final_end = current_frame
                             return {"FINISHED"}
                         else:
@@ -78,14 +78,14 @@ class ShiftFrameEnd(bpy.types.Operator):
                     elif (text_strips[i].frame_final_start >= current_frame and
                             text_strips[i].frame_final_end > current_frame):
                         
-                        if not text_strips[i - 1].name.startswith('[locked end]'):
+                        if not '[locked end]' in text_strips[i - 1].name:
                             text_strips[i - 1].frame_final_end = current_frame
                             return {"FINISHED"}
                         else:
                             return {"FINISHED"}
                     
                     elif i == len(text_strips) - 1:
-                        if not text_strips[i].name.startswith('[locked end]'):
+                        if not '[locked end]' in text_strips[i].name:
                             text_strips[i].frame_final_end = current_frame
                             return {"FINISHED"}
                         else:

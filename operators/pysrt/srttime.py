@@ -5,9 +5,9 @@ SubRip's time format parser: HH:MM:SS,mmm
 import re
 from datetime import time
 
-from pysrt.srtexc import InvalidTimeString
-from pysrt.comparablemixin import ComparableMixin
-from pysrt.compat import str, basestring
+from .srtexc import InvalidTimeString
+from .comparablemixin import ComparableMixin
+from .compat import str, basestring
 
 
 class TimeItemDescriptor(object):

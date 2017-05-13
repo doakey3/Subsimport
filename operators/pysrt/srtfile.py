@@ -11,9 +11,9 @@ except ImportError:
 from itertools import chain
 from copy import copy
 
-from pysrt.srtexc import Error
-from pysrt.srtitem import SubRipItem
-from pysrt.compat import str
+from .srtexc import Error
+from .srtitem import SubRipItem
+from .compat import str
 
 BOMS = ((codecs.BOM_UTF32_LE, 'utf_32_le'),
         (codecs.BOM_UTF32_BE, 'utf_32_be'),

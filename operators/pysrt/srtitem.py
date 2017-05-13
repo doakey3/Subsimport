@@ -3,10 +3,10 @@
 SubRip's subtitle parser
 """
 
-from pysrt.srtexc import InvalidItem, InvalidIndex
-from pysrt.srttime import SubRipTime
-from pysrt.comparablemixin import ComparableMixin
-from pysrt.compat import str, is_py2
+from .srtexc import InvalidItem, InvalidIndex
+from .srttime import SubRipTime
+from .comparablemixin import ComparableMixin
+from .compat import str, is_py2
 import re
 
 

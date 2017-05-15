@@ -135,6 +135,22 @@ class SubRipFile(UserList, object):
         self.sort()
         for index, item in enumerate(self):
             item.index = index + 1
+    
+    @property
+    def is_enhanced(self):
+        """
+        Checks if the subs is an enhanced srt
+        """
+        enhanced_count = 0
+        for sub in self:
+            if sub.text.startswith('<font color="'):
+                enhanced_count += 1
+
+        if enhanced_count / len(self) >= 1 / 3:
+            return True
+
+        else:
+            return False
 
     @property
     def text(self):

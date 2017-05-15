@@ -1,9 +1,9 @@
 import bpy
 import os
 
-from .common.get_text_strips import get_text_strips
-from .common.subtitles_to_sequencer import subtitles_to_sequencer
-from .common.remove_punctuation import remove_punctuation
+from .tools.get_text_strips import get_text_strips
+from .tools.subtitles_to_sequencer import subtitles_to_sequencer
+from .tools.remove_punctuation import remove_punctuation
 
 from .pysrt.srtitem import SubRipItem
 from .pysrt.srtfile import SubRipFile
@@ -68,8 +68,6 @@ def form_items(scene, strip, pieces):
     fps = scene.render.fps/scene.render.fps_base
     start = strip.frame_final_start / fps
     end = strip.frame_final_end / fps
-    duration = strip.frame_final_duration / fps
-    piece_duration = duration / len(pieces)
     
     text = strip.text
     lines = text.split('\n')
@@ -93,10 +91,11 @@ def form_items(scene, strip, pieces):
         string = string + empty_text[len(string)::]
         new_pieces.append(string)
     
+    new_pieces = list(reversed(new_pieces))
     sub_list = []
     for i in range(len(new_pieces)):
-        start_time = start + (piece_duration * i)
-        end_time = start_time + piece_duration
+        start_time = end - ((1 / fps) * (i + 1))
+        end_time = start_time + (1 / fps)
         
         sub_item = SubRipItem()
         

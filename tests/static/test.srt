@@ -1,0 +1,31 @@
+1
+00:00:17,016 --> 00:00:17,193
+Woo ooh ooh ho ooh ooh hoo...
+
+2
+00:00:17,193 --> 00:00:17,423
+<font color="#ff0000">Woo</font> ooh ooh ho ooh ooh hoo...
+
+3
+00:00:17,423 --> 00:00:17,821
+<font color="#ff8000">Woo ooh</font> ooh ho ooh ooh hoo...
+
+4
+00:00:17,821 --> 00:00:17,932
+<font color="#ff8000">Woo ooh ooh</font> ho ooh ooh hoo...
+
+5
+00:00:17,932 --> 00:00:18,075
+<font color="#ff8000">Woo ooh ooh ho</font> ooh ooh hoo...
+
+6
+00:00:18,075 --> 00:00:18,489
+<font color="#ff8000">Woo ooh ooh ho ooh</font> ooh hoo...
+
+7
+00:00:18,489 --> 00:00:18,812
+<font color="#ff8000">Woo ooh ooh ho ooh ooh</font> hoo...
+
+8
+00:00:18,812 --> 00:00:19,948
+<font color="#ff8000">Woo ooh ooh ho ooh ooh hoo...</font>

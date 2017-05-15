@@ -1,3 +1,10 @@
+.. image:: https://img.shields.io/badge/Donate-PayPal-green.svg
+    :target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QA2T7WG47UTCL
+
+==========
+Subsimport
+==========
+
 .. contents::
 
 Tutorial Video

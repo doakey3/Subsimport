@@ -5,7 +5,7 @@ import os
 class SaveSyllables(bpy.types.Operator):
     bl_label = 'Save'
     bl_idname = 'sequencerextra.save_syllables'
-    bl_description = "Add the syllables default syllable dictionary"
+    bl_description = "Add the syllables to the default syllable dictionary"
     
     @classmethod
     def poll(self, context):
@@ -33,9 +33,10 @@ class SaveSyllables(bpy.types.Operator):
         
         values = sorted(list(dictionary.values()))
         
-        addon_path = os.path.dirname(__file__)
+        module_path = os.path.dirname(__file__)
         dic_path = os.path.join(
-            addon_path, 'hyphenator', 'default_dictionary.txt')
+            module_path, 'hyphenator', 'dictionaries', 
+            scene.syllabification_language + '.txt')
         
         f = open(dic_path, 'w')
         f.write('\n'.join(values))

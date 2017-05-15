@@ -1,20 +1,24 @@
 import os
 
-def get_dictionary(dic_path=None):
+def get_dictionary(dic_path=None, lang='es-us'):
     """Collect the words from the default dictionary"""
     
     if dic_path == None:
-        addon_path = os.path.dirname(__file__)
-        dic_path = os.path.join(addon_path, 'default_dictionary.txt')
+        module_path = os.path.dirname(__file__)
+        dic_path = os.path.join(module_path, 'dictionaries', lang + '.txt')
     
     dictionary = {}
     
-    f = open(dic_path, 'r')
-    lines = f.readlines()
-    f.close()
+    try:
+        f = open(dic_path, 'r')
+        lines = f.readlines()
+        f.close()
+        
+        for line in lines:
+            word = line.rstrip().replace(' ', '')
+            dictionary[word] = line.rstrip()
     
-    for line in lines:
-        word = line.rstrip().replace(' ', '')
-        dictionary[word] = line.rstrip()
+    except FileNotFoundError:
+        dictionary = {}
     
     return dictionary

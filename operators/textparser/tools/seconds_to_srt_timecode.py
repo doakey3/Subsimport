@@ -1,4 +1,4 @@
-def seconds_to_timecode(sec_time):
+def seconds_to_srt_timecode(sec_time):
     """
     Converts time (in seconds) into a timecode with the format 
     23:59:59,999

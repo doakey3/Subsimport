@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,000
+This is a line of text
+
+2
+00:00:01,000 --> 00:00:02,000
+Here is another line of text
+
+3
+00:00:02,000 --> 00:00:03,000
+
+
+4
+00:00:03,000 --> 00:00:04,000
+Spaces should make a blank
+
+5
+00:00:04,000 --> 00:00:05,000
+This is a really long line of
+text and will be split in half.

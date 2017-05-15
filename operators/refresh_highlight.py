@@ -1,5 +1,6 @@
 import bpy
-from .common.get_text_strips import get_text_strips
+
+from .tools.get_text_strips import get_text_strips
 
 class RefreshHighlight(bpy.types.Operator):
     bl_label = ""

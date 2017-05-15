@@ -1,5 +1,6 @@
-from .classes import Lyrics, LyricLine
-from .utilities import validateTimecode, unpackTimecode
+from .lyricline import LyricLine
+from .lyrics import Lyrics
+from .tools.timecode import is_timecode, unpack_timecode
 
 def parse(lrc):
     
@@ -33,8 +34,8 @@ def parse(lrc):
             lyrics.version = lines[i].rstrip()[4:-1].lstrip()
         
         elif len(lines[i].split(']')[0]) >= len('[0:0:0]'):
-            if validateTimecode(lines[i].split(']')[0] + ']'):
-                while validateTimecode(lines[i].split(']')[0] + ']'):
+            if is_timecode(lines[i].split(']')[0] + ']'):
+                while is_timecode(lines[i].split(']')[0] + ']'):
                     timecode = lines[i].split(']')[0] + ']'
                     text = ''.join(lines[i].split(']')[-1]).rstrip()
                     lyric_line = LyricLine(timecode, text=text)
@@ -45,7 +46,7 @@ def parse(lrc):
     lyrics.extend(sorted(items))
     
     if not lyrics.offset == "":
-        offset_mins, offset_secs, offset_millis = unpackTimecode(lyrics.offset)
+        offset_mins, offset_secs, offset_millis = unpack_timecode(lyrics.offset)
         for i in range(len(lyrics)):
             lyrics[i].shift(minutes=offset_mins, seconds=offset_secs, 
                 milliseconds=offset_millis)

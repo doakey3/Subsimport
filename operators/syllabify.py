@@ -1,9 +1,13 @@
 import bpy
 from bpy_extras.io_utils import ExportHelper
+
+import os
+
 from .hyphenator.hyphenator import Hyphenator
 from .hyphenator.get_dictionary import get_dictionary
-from .common.get_text_strips import get_text_strips
-from .common.remove_punctuation import remove_punctuation
+
+from .tools.get_text_strips import get_text_strips
+from .tools.remove_punctuation import remove_punctuation
 
 def collect_words(scene):
     """Collect, clean, and alphabetize the words in the subtitles"""
@@ -30,6 +34,17 @@ def collect_words(scene):
     
     return words
 
+def get_patterns(lang):
+    """Get language patterns for the given language"""
+    module_path = os.path.dirname(__file__)
+    pat_path = os.path.join(
+        module_path, 'hyphenator', 'patterns', lang + '.txt')
+    f = open(pat_path, 'r', encoding='utf-8')
+    patterns = f.read()
+    f.close()
+    
+    return patterns
+        
 
 class Syllabify(bpy.types.Operator, ExportHelper):
     bl_label = 'Syllabify'
@@ -58,7 +73,8 @@ class Syllabify(bpy.types.Operator, ExportHelper):
         
         found_words = []
         if scene.use_dictionary_syllabification:
-            dictionary = get_dictionary()
+            dictionary = get_dictionary(
+                lang=scene.syllabification_language)
             for i in range(len(words)):
                 try:
                     words[i] = dictionary[words[i]]
@@ -68,6 +84,9 @@ class Syllabify(bpy.types.Operator, ExportHelper):
                     
         if scene.use_algorithmic_syllabification:
             hyphenator = Hyphenator()
+            patterns = get_patterns(scene.syllabification_language)
+            hyphenator.patterns = patterns
+            hyphenator.setup_patterns()
             for i in range(len(words)):
                 if not words[i] in found_words:
                     words[i] = hyphenator.hyphenate_word(words[i])

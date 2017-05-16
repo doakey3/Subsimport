@@ -7,12 +7,6 @@ Subsimport
 
 .. contents::
 
-Tutorial Video
-==============
-
-.. image:: http://i.imgur.com/WFNCAWA.png
-    :target: https://www.youtube.com/watch?v=9pmGHIDaMwA&feature=youtu.be
-
 Installation
 ============
 
@@ -21,6 +15,8 @@ Installation
 3. Go to File > User Preferences > Addons
 4. Click "Install From File" and navigate to the downloaded release
 5. Check the box next to "Subsimport"
+
+You will see the user interface on the right side of the sequencer.
 
 Usage
 =====
@@ -44,7 +40,7 @@ Keyboard Shortcuts
 * S (like pressing F, then D rapidly)
 * W (like pressing D, then F rapidly)
 
-.. image:: http://i.imgur.com/MHyz7Dr.gif
+.. image:: http://i.imgur.com/t9ahMhV.gif
 
 Use the Split words function to split words so they can be timed 
 individually.

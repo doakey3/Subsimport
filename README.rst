@@ -22,11 +22,7 @@ Usage
 
 The user interface is located to the right side of the video sequencer.
 
-.. image:: http://i.imgur.com/he5yfp4.png
-    :align: left
-
-.. image:: http://i.imgur.com/0vIHtfE.png
-    :align: right
+.. image:: http://i.imgur.com/nNchW3Z.png
 
 Set the font size of the text that will be imported. Click the import
 button and navigate to the .txt/.lrc/.srt file you would like to import

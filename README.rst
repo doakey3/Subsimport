@@ -20,10 +20,9 @@ Installation
 1. Download the repository. 
 2. Open Blender. 
 3. Go to File > User Preferences > Addons
-4. Click "Install From File" and navigate to the downloaded release
+4. Click "Install From File" and navigate to the downloaded zip file and 
+   install.
 5. Check the box next to "Subsimport"
-
-You will see the user interface on the right side of the sequencer.
 
 Usage
 =====
@@ -79,7 +78,7 @@ Subsimport also supports "Enhanced" .srt and .lrc files. These are
 special subtitles that highlight parts of the subtitles at a time.
 
 FPS 1000
---------
+~~~~~~~~
 
 .srt files support time data down to the millisecond. However, strips
 added to the sequencer must conform to the scene's FPS value. Thus,
@@ -116,11 +115,15 @@ Blender for matching the lyrics to the song.
 Exporting
 ---------
 
+.. image:: http://i.imgur.com/MzNk9S6.png
+
 Export the subtitles from the "Subtitle Edit Channel" as either .lrc
 or .srt file.
 
 Syllabify
 ---------
+
+.. image:: http://i.imgur.com/sjKYWt8.png
 
 After subtitles have been imported, you can separate words by syllables.
 Before splitting the syllables, you should create a syllabification
@@ -144,6 +147,8 @@ encounters them.
 Split
 -----
 
+.. image:: http://i.imgur.com/XKJfMb3.png
+
 After defining how words should be separated, you can split them apart
 and create individually colored text strips that will highlight
 sequentially as your audio plays. You can set the timing of each 
@@ -154,6 +159,8 @@ refresh button to the right.
 
 Combine
 -------
+
+.. image:: http://i.imgur.com/4LJ3fQe.png
 
 After synchronizing the syllables to the music, you can recombine
 the strips into enhanced strips prior to exporting the subtitles.

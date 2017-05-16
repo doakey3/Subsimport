@@ -35,15 +35,19 @@ The user interface is located to the right side of the video sequencer.
 Subtitle Edit Channel
 ---------------------
 
+.. image:: http://i.imgur.com/fgXDH1C.png
+
 The sequencer channel where The addon will have effect. Keyboard 
 shortcuts, duration changing, exporting, syllabifying, splitting, and
 combining subtitles all depends on this value.
 
 Importing, splitting, and combining subtitles will automatically adjust
-the sutitle edit channel.
+the subtitle edit channel.
 
 Subtitle Font Size
 ------------------
+
+.. image:: http://i.imgur.com/PNFAW5x.png
 
 The font size that will be applied to imported strips. You may change
 this value and refresh using the button to the right. (Changes only
@@ -62,12 +66,12 @@ long.
 .lrc files are used with programs like MiniLyrics_ for displaying 
 subtitles with music.
 
-.. _MiniLyrics:: http://www.crintsoft.com/
+.. _MiniLyrics: http://www.crintsoft.com/
 
 .srt files are the standard subtitle filetype for movies. They work well
 with the VLC_ media player.
 
-.. _https://www.videolan.org/vlc/index.html
+.. _VLC: https://www.videolan.org/vlc/index.html
 
 Subsimport also supports "Enhanced" .srt and .lrc files. These are 
 special subtitles that highlight parts of the subtitles at a time.
@@ -88,7 +92,7 @@ modifier to the video clip and adjust it (I recommend using Bligify's_
 FPS Adjust Tool), or you can simply uncheck the FPS 1000 box and import
 subtitles at the frame rate you desire.
 
-.. _Bligify:: https://github.com/doakey3/Bligify
+.. _Bligify: https://github.com/doakey3/Bligify
 
 Dur x 2 and Dur / 2
 -------------------
@@ -103,7 +107,7 @@ When making subtitles for music, I like to use Audacity_ to slow the
 music down by 50% and export it as a .wav file. I then use this in 
 Blender for matching the lyrics to the song.
 
-.. _Audacity:: http://www.audacityteam.org/
+.. _Audacity: http://www.audacityteam.org/
 
 Exporting
 ---------

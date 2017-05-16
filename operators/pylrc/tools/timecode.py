@@ -1,4 +1,5 @@
 from datetime import datetime
+import math
 
 def is_timecode(timecode):
     """Checks if a string is a proper lrc timecode"""
@@ -51,7 +52,14 @@ def timecode_to_srt(timecode):
     hours = "00"
     minutes = "%02d" % int(secs / 60)
     seconds = "%02d" % int(secs % 60)
-    millis = ("%03d" % ((secs % 1) * 1000))
+    millis = "%03d" % (round(secs - int(secs), 2) * 1000)
     
     return ''.join([hours, ':', minutes, ':', seconds, ',', millis])
 
+if __name__ == '__main__':
+    print(is_timecode('[05:40.99]'))
+    print(timecode_to_seconds('<01:00.99>'))
+    print(unpack_timecode('<01:00.99>'))
+    print(seconds_to_timecode(200.800, '<>'))
+    print(timecode_to_srt('<03:59.29>'))
+    

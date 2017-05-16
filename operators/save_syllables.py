@@ -19,8 +19,9 @@ class SaveSyllables(bpy.types.Operator):
     
     def execute(self, context):
         scene = context.scene
-        dictionary = get_dictionary()
-        
+        dictionary = get_dictionary(
+                lang=scene.syllabification_language)
+
         path = bpy.path.abspath(scene.syllable_dictionary_path)
         f = open(path, 'r')
         words = f.readlines()

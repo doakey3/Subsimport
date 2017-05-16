@@ -18,10 +18,10 @@ def subtitles_to_sequencer(context, subs):
 
     for i in range(len(subs)):
         start_time = subs[i].start.to_millis() / 1000
-        strip_start = start_time * fps
+        strip_start = 1 + start_time * fps
         
         end_time = subs[i].end.to_millis() / 1000
-        strip_end = end_time * fps
+        strip_end = 1 + end_time * fps
         
         sub_name = str(open_channel) + '_' + str(i + 1)
         try:

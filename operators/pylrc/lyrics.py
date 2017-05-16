@@ -75,7 +75,7 @@ class Lyrics(list):
                     time = time.replace('[', '<').replace(']', '>')
                     text = text + time
                 
-                if not text[0:10].replace('[', '<').replace(']', '>') == self[i].lrc_time:
+                if not text[0:10].replace('<', '[').replace('>', ']') == self[i].lrc_time:
                     start = self[i].srt_time
                     end = timecode_to_srt(text[0:10])
                     body = base_text
@@ -107,17 +107,17 @@ class Lyrics(list):
                         pass
                             
                     body = ''.join(
-                        ['<font color="FF8800">', growing, '</font>', 
+                        ['<font color="#ff8800">', growing, '</font>', 
                          base_text[len(growing)::]])
                          
                     segment = ''.join(
                         ['0\n', start, ' --> ', end, '\n', body, '\n'])
                     sub_list.append(segment)
                 
-                if not text[0:10].replace('[', '<').replace(']', '>') == self[i + 1].lrc_time:
+                if not text[0:10].replace('<', '[').replace('>', ']') == self[i + 1].lrc_time:
                     start = timecode_to_srt(text[0:10])
                     end = self[i + 1].srt_time
-                    body = '<font color="FF8800">' + base_text + '</font>'
+                    body = '<font color="#ff8800">' + base_text + '</font>'
                     
                     segment = ''.join(
                         ['0\n', start, ' --> ', end, '\n', body, '\n'])

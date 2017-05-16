@@ -77,7 +77,7 @@ class LyricLine():
     def lrc_time(self):
         mins = "%02d" % self.minutes
         secs = "%02d" % self.seconds
-        millis = ("%02d" % self.milliseconds)[0:2]
+        millis = ("%03d" % self.milliseconds)[0:2]
             
         timecode = ''.join([
             '[', mins, ':', secs, '.', millis, ']'])

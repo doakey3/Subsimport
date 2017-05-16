@@ -105,9 +105,9 @@ def form_items(scene, strip, pieces):
         
         sub_item.name = ''
         if i == 0:
-            sub_item.name = '[locked start]'
+            sub_item.name = '[locked end]'
         if i == len(new_pieces) - 1:
-            sub_item.name += '[locked end]'
+            sub_item.name += '[locked start]'
         
         sub_list.append(sub_item)
     

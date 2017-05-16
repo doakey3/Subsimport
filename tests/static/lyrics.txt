@@ -1,5 +1,0 @@
-This is a line of text
-Here is another line of text
-
-Spaces should make a blank
-This is a really long line of text and will be split in half.

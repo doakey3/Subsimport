@@ -1,5 +1,6 @@
 from .srtfile import SubRipFile
 from .srtitem import SubRipItem
+import re
 
 def get_all_bases(temp_subs):
     """Get the bases (whole sentences) from the enhanced subs"""
@@ -10,27 +11,49 @@ def get_all_bases(temp_subs):
                 index = temp.index, start=temp.start, end=temp.end, 
                 text=temp.text)
         subs.append(sub)
+        
+    sub_items = []
+    
+    while len(subs) > 0:
+        
+        if subs[0].text == subs[0].text_without_tags:
 
-    subs[0].text = subs[0].text_without_tags
-    sub_items = [subs[0]]
-    subs.pop(0)
-
-    i = 0
-    while i < len(subs):
-        subs[i].text = subs[i].text.split('</font>')[0]
-        subs[i].text = subs[i].text_without_tags
-
-        base_text = str()
-        strip_text = str(subs[i].text)
-        if sub_items[-1].text.startswith(subs[i].text): 
-            sub_items[-1].end = subs[i].end
-            i += 1
-            
-        else:
             sub_items.append(subs[0])
             subs.pop(0)
+            if len(subs) > 0:
+                go = True
+                while go:
+                    lesser = subs[0].text.split('</font>')[0]
+                    lesser = re.compile(r'<[^>]*?>').sub('', lesser)
+                    if (len(lesser.rstrip()) <= len(sub_items[-1].text) and 
+                            lesser in sub_items[-1].text):
+                        sub_items[-1].end = subs[0].end
+                        subs.pop(0)
+                    else:
+                        go = False
+                    
+        if len(sub_items) == 0:
+            sub_items.append(subs[0])
+            sub_items[-1].text = sub_items[-1].text.split('</font>')[0]
+            sub_items[-1].text = sub_items[-1].text_without_tags
+            subs.pop(0)
+        
+        if len(subs) > 0:
+
+            subs[0].text = subs[0].text.split('</font>')[0]
+            subs[0].text = subs[0].text_without_tags
+
+            if subs[0].text.startswith(sub_items[-1].text): 
+                sub_items[-1].end = subs[0].end
+                sub_items[-1].text = subs[0].text
+                subs.pop(0)
+            
+            else:
+                sub_items.append(subs[0])
+                subs.pop(0)
 
     bases = SubRipFile(sub_items)
+    bases.clean_indexes()
     return bases
 
 def get_base(sub, bases):
@@ -38,15 +61,13 @@ def get_base(sub, bases):
     
     start = sub.start.to_millis()
     end = sub.end.to_millis()
-
+    
     for base in bases:
         b_start = base.start.to_millis()
         b_end = base.end.to_millis()
 
         if b_start <= start and b_end >= end:
             return base
-            
-    print(start, end, b_start, b_end)
 
 def get_all_tops(subs, bases):
     """Get the top subs (syllable/word splits)"""
@@ -81,7 +102,7 @@ def get_all_tops(subs, bases):
         sub_items.append(subs[i])
 
     tops = SubRipFile(sub_items)
-    
+    tops.clean_indexes()
     return tops
 
 def empty_text(text):
@@ -110,6 +131,7 @@ def convert_enhanced(subs):
     Convert an enhanced SRT to 2 standard SRT files
     One on top and the other on bottom
     also retrieves the color of the enhancement
+    
     """
     
     color = retrieve_color(subs)

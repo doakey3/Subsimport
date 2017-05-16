@@ -35,13 +35,13 @@ class ExportLRC(bpy.types.Operator, ExportHelper):
         lyric_list = []
         for i in range(len(text_strips)):
             strip = text_strips[i]
-            if (strip.frame_start / fps)  >= 3600:
+            if (strip.frame_final_start / fps)  >= 3600:
                 message = ".lrc files cannot store subtitles longer than 59:59.99"
                 self.report(set({'ERROR'}), message)
                 return {"FINISHED"}
             
-            start = seconds_to_timecode(strip.frame_start / fps)
-            
+            start = seconds_to_timecode(strip.frame_final_start / fps)
+
             text_lines = strip.text.split('\n')
             text = ''
             for line in text_lines:
@@ -60,7 +60,6 @@ class ExportLRC(bpy.types.Operator, ExportHelper):
                 lyric_list.append(LyricLine(start, ""))
         
         output = Lyrics(lyric_list).to_LRC()
-            
         outfile = open(self.filepath, 'w')
         outfile.write(output)
         outfile.close()

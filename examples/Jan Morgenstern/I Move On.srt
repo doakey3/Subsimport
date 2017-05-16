@@ -1,0 +1,731 @@
+1
+00:00:27,294 --> 00:00:27,642
+<font color="#ff8000">Come</font> take my journey
+
+2
+00:00:27,642 --> 00:00:28,072
+<font color="#ff8000">Come take</font> my journey
+
+3
+00:00:28,072 --> 00:00:28,456
+<font color="#ff8000">Come take my</font> journey
+
+4
+00:00:28,456 --> 00:00:28,874
+<font color="#ff8000">Come take my jour</font>ney
+
+5
+00:00:28,874 --> 00:00:30,189
+<font color="#ff8000">Come take my journey</font>
+
+6
+00:00:30,189 --> 00:00:31,375
+<font color="#ff8000">In</font>to night
+
+7
+00:00:31,375 --> 00:00:31,810
+<font color="#ff8000">Into</font> night
+
+8
+00:00:31,810 --> 00:00:33,211
+<font color="#ff8000">Into night</font>
+
+9
+00:00:33,211 --> 00:00:33,944
+<font color="#ff8000">Into night</font>
+
+10
+00:00:33,944 --> 00:00:34,443
+<font color="#ff8000">Come</font> be my shadow
+
+11
+00:00:34,443 --> 00:00:34,827
+<font color="#ff8000">Come be</font> my shadow
+
+12
+00:00:34,827 --> 00:00:35,233
+<font color="#ff8000">Come be my</font> shadow
+
+13
+00:00:35,233 --> 00:00:35,652
+<font color="#ff8000">Come be my shad</font>ow
+
+14
+00:00:35,652 --> 00:00:36,493
+<font color="#ff8000">Come be my shadow</font>
+
+15
+00:00:36,493 --> 00:00:36,862
+<font color="#ff8000">Come be my shadow</font>
+
+16
+00:00:36,862 --> 00:00:38,200
+<font color="#ff8000">Walk</font> at my side
+
+17
+00:00:38,200 --> 00:00:38,537
+<font color="#ff8000">Walk at</font> my side
+
+18
+00:00:38,537 --> 00:00:39,363
+<font color="#ff8000">Walk at my</font> side
+
+19
+00:00:39,363 --> 00:00:40,360
+<font color="#ff8000">Walk at my side</font>
+
+20
+00:00:40,360 --> 00:00:40,624
+<font color="#ff8000">Walk at my side</font>
+
+21
+00:00:40,624 --> 00:00:41,014
+<font color="#ff8000">And</font> when you see
+
+22
+00:00:41,014 --> 00:00:41,409
+<font color="#ff8000">And when</font> you see
+
+23
+00:00:41,409 --> 00:00:41,816
+<font color="#ff8000">And when you</font> see
+
+24
+00:00:41,816 --> 00:00:43,292
+<font color="#ff8000">And when you see</font>
+
+25
+00:00:43,292 --> 00:00:43,554
+<font color="#ff8000">And when you see</font>
+
+26
+00:00:43,554 --> 00:00:44,108
+<font color="#ff8000">All</font> that I have seen
+
+27
+00:00:44,108 --> 00:00:44,317
+<font color="#ff8000">All that</font> I have seen
+
+28
+00:00:44,317 --> 00:00:44,689
+<font color="#ff8000">All that I</font> have seen
+
+29
+00:00:44,689 --> 00:00:45,119
+<font color="#ff8000">All that I have</font> seen
+
+30
+00:00:45,119 --> 00:00:46,560
+<font color="#ff8000">All that I have seen</font>
+
+31
+00:00:46,560 --> 00:00:46,890
+<font color="#ff8000">All that I have seen</font>
+
+32
+00:00:46,890 --> 00:00:47,328
+<font color="#ff8000">Can</font> you tell me
+
+33
+00:00:47,328 --> 00:00:47,665
+<font color="#ff8000">Can you</font> tell me
+
+34
+00:00:47,665 --> 00:00:48,037
+<font color="#ff8000">Can you tell</font> me
+
+35
+00:00:48,037 --> 00:00:48,581
+<font color="#ff8000">Can you tell me</font>
+
+36
+00:00:48,581 --> 00:00:49,402
+<font color="#ff8000">Love</font> from pride?
+
+37
+00:00:49,402 --> 00:00:50,280
+<font color="#ff8000">Love from</font> pride?
+
+38
+00:00:50,280 --> 00:00:51,960
+<font color="#ff8000">Love from pride?</font>
+
+39
+00:00:51,960 --> 00:00:52,312
+<font color="#ff8000">Love from pride?</font>
+
+40
+00:00:54,004 --> 00:00:54,401
+<font color="#ff8000">I</font> have been waiting
+
+41
+00:00:54,401 --> 00:00:54,761
+<font color="#ff8000">I have</font> been waiting
+
+42
+00:00:54,761 --> 00:00:55,180
+<font color="#ff8000">I have been</font> waiting
+
+43
+00:00:55,180 --> 00:00:55,645
+<font color="#ff8000">I have been wait</font>ing
+
+44
+00:00:55,645 --> 00:00:56,653
+<font color="#ff8000">I have been waiting</font>
+
+45
+00:00:56,653 --> 00:00:56,943
+<font color="#ff8000">I have been waiting</font>
+
+46
+00:00:56,943 --> 00:00:58,041
+<font color="#ff8000">all</font> this time
+
+47
+00:00:58,041 --> 00:00:58,494
+<font color="#ff8000">all this</font> time
+
+48
+00:00:58,494 --> 00:00:59,897
+<font color="#ff8000">all this time</font>
+
+49
+00:00:59,897 --> 00:01:00,521
+<font color="#ff8000">all this time</font>
+
+50
+00:01:00,521 --> 00:01:01,024
+<font color="#ff8000">for</font> one to wake me
+
+51
+00:01:01,024 --> 00:01:01,443
+<font color="#ff8000">for one</font> to wake me
+
+52
+00:01:01,443 --> 00:01:01,861
+<font color="#ff8000">for one to</font> wake me
+
+53
+00:01:01,861 --> 00:01:02,361
+<font color="#ff8000">for one to wake</font> me
+
+54
+00:01:02,361 --> 00:01:03,497
+<font color="#ff8000">for one to wake me</font>
+
+55
+00:01:03,497 --> 00:01:04,758
+<font color="#ff8000">one</font> to call mine
+
+56
+00:01:04,758 --> 00:01:05,200
+<font color="#ff8000">one to</font> call mine
+
+57
+00:01:05,200 --> 00:01:06,002
+<font color="#ff8000">one to call</font> mine
+
+58
+00:01:06,002 --> 00:01:07,205
+<font color="#ff8000">one to call mine</font>
+
+59
+00:01:07,205 --> 00:01:07,596
+<font color="#ff8000">So</font> when you're near
+
+60
+00:01:07,596 --> 00:01:08,002
+<font color="#ff8000">So when</font> you're near
+
+61
+00:01:08,002 --> 00:01:08,468
+<font color="#ff8000">So when you're</font> near
+
+62
+00:01:08,468 --> 00:01:09,763
+<font color="#ff8000">So when you're near</font>
+
+63
+00:01:09,763 --> 00:01:10,123
+<font color="#ff8000">So when you're near</font>
+
+64
+00:01:10,123 --> 00:01:10,553
+<font color="#ff8000">all</font> that you hold dear
+
+65
+00:01:10,553 --> 00:01:10,879
+<font color="#ff8000">all that</font> you hold dear
+
+66
+00:01:10,879 --> 00:01:11,274
+<font color="#ff8000">all that you</font> hold dear
+
+67
+00:01:11,274 --> 00:01:11,739
+<font color="#ff8000">all that you hold</font> dear
+
+68
+00:01:11,739 --> 00:01:13,186
+<font color="#ff8000">all that you hold dear</font>
+
+69
+00:01:13,186 --> 00:01:13,372
+<font color="#ff8000">all that you hold dear</font>
+
+70
+00:01:13,372 --> 00:01:13,813
+<font color="#ff8000">do</font> you fear what you will find?
+
+71
+00:01:13,813 --> 00:01:14,220
+<font color="#ff8000">do you</font> fear what you will find?
+
+72
+00:01:14,220 --> 00:01:14,685
+<font color="#ff8000">do you fear</font> what you will find?
+
+73
+00:01:14,685 --> 00:01:15,092
+<font color="#ff8000">do you fear what</font> you will find?
+
+74
+00:01:15,092 --> 00:01:16,371
+<font color="#ff8000">do you fear what you</font> will find?
+
+75
+00:01:16,371 --> 00:01:16,813
+<font color="#ff8000">do you fear what you will</font> find?
+
+76
+00:01:16,813 --> 00:01:19,334
+<font color="#ff8000">do you fear what you will find?</font>
+
+77
+00:01:19,334 --> 00:01:19,691
+<font color="#ff8000">do you fear what you will find?</font>
+
+78
+00:01:19,691 --> 00:01:20,020
+<font color="#ff8000">As</font> the dawn
+
+79
+00:01:20,020 --> 00:01:20,276
+<font color="#ff8000">As the</font> dawn
+
+80
+00:01:20,276 --> 00:01:21,547
+<font color="#ff8000">As the dawn</font>
+
+81
+00:01:21,547 --> 00:01:22,281
+<font color="#ff8000">As the dawn</font>
+
+82
+00:01:22,281 --> 00:01:22,652
+<font color="#ff8000">Breaks</font> through the night
+
+83
+00:01:22,652 --> 00:01:23,093
+<font color="#ff8000">Breaks through</font> the night
+
+84
+00:01:23,093 --> 00:01:23,541
+<font color="#ff8000">Breaks through the</font> night
+
+85
+00:01:23,541 --> 00:01:25,187
+<font color="#ff8000">Breaks through the night</font>
+
+86
+00:01:25,187 --> 00:01:25,632
+<font color="#ff8000">Breaks through the night</font>
+
+87
+00:01:26,513 --> 00:01:26,722
+<font color="#ff8000">I</font> move on
+
+88
+00:01:26,722 --> 00:01:26,978
+<font color="#ff8000">I move</font> on
+
+89
+00:01:26,978 --> 00:01:28,495
+<font color="#ff8000">I move on</font>
+
+90
+00:01:28,495 --> 00:01:29,234
+<font color="#ff8000">I move on</font>
+
+91
+00:01:29,234 --> 00:01:29,483
+<font color="#ff8000">For</font>ever longing for the home
+
+92
+00:01:29,483 --> 00:01:29,925
+<font color="#ff8000">Forev</font>er longing for the home
+
+93
+00:01:29,925 --> 00:01:30,402
+<font color="#ff8000">Forever</font> longing for the home
+
+94
+00:01:30,402 --> 00:01:31,669
+<font color="#ff8000">Forever long</font>ing for the home
+
+95
+00:01:31,669 --> 00:01:32,029
+<font color="#ff8000">Forever longing</font> for the home
+
+96
+00:01:32,029 --> 00:01:33,424
+<font color="#ff8000">Forever longing for</font> the home
+
+97
+00:01:33,424 --> 00:01:33,796
+<font color="#ff8000">Forever longing for the</font> home
+
+98
+00:01:33,796 --> 00:01:35,324
+<font color="#ff8000">Forever longing for the home</font>
+
+99
+00:01:35,324 --> 00:01:35,547
+<font color="#ff8000">Forever longing for the home</font>
+
+100
+00:01:35,547 --> 00:01:35,940
+<font color="#ff8000">I</font> found in your eyes
+
+101
+00:01:35,940 --> 00:01:36,440
+<font color="#ff8000">I found</font> in your eyes
+
+102
+00:01:36,440 --> 00:01:37,158
+<font color="#ff8000">I found in</font> your eyes
+
+103
+00:01:37,158 --> 00:01:37,379
+<font color="#ff8000">I found in your</font> eyes
+
+104
+00:01:37,379 --> 00:01:40,602
+<font color="#ff8000">I found in your eyes</font>
+
+105
+00:01:40,602 --> 00:01:40,777
+<font color="#ff8000">I found in your eyes</font>
+
+106
+00:01:47,669 --> 00:01:48,057
+<font color="#ff8000">I</font> will be listening
+
+107
+00:01:48,057 --> 00:01:48,452
+<font color="#ff8000">I will</font> be listening
+
+108
+00:01:48,452 --> 00:01:48,836
+<font color="#ff8000">I will be</font> listening
+
+109
+00:01:48,836 --> 00:01:49,012
+<font color="#ff8000">I will be lis</font>tening
+
+110
+00:01:49,012 --> 00:01:49,159
+<font color="#ff8000">I will be listen</font>ing
+
+111
+00:01:49,159 --> 00:01:50,305
+<font color="#ff8000">I will be listening</font>
+
+112
+00:01:50,305 --> 00:01:50,517
+<font color="#ff8000">I will be listening</font>
+
+113
+00:01:50,517 --> 00:01:51,735
+<font color="#ff8000">for</font> the drum
+
+114
+00:01:51,735 --> 00:01:52,083
+<font color="#ff8000">for the</font> drum
+
+115
+00:01:52,083 --> 00:01:53,292
+<font color="#ff8000">for the drum</font>
+
+116
+00:01:53,292 --> 00:01:54,179
+<font color="#ff8000">for the drum</font>
+
+117
+00:01:54,179 --> 00:01:54,560
+<font color="#ff8000">to</font> call me over
+
+118
+00:01:54,560 --> 00:01:54,966
+<font color="#ff8000">to call</font> me over
+
+119
+00:01:54,966 --> 00:01:55,373
+<font color="#ff8000">to call me</font> over
+
+120
+00:01:55,373 --> 00:01:55,792
+<font color="#ff8000">to call me ov</font>er
+
+121
+00:01:55,792 --> 00:01:56,210
+<font color="#ff8000">to call me over</font>
+
+122
+00:01:56,210 --> 00:01:57,031
+<font color="#ff8000">to call me over</font>
+
+123
+00:01:57,031 --> 00:01:58,314
+<font color="#ff8000">far</font> away from
+
+124
+00:01:58,314 --> 00:01:58,720
+<font color="#ff8000">far a</font>way from
+
+125
+00:01:58,720 --> 00:01:59,522
+<font color="#ff8000">far away</font> from
+
+126
+00:01:59,522 --> 00:02:00,359
+<font color="#ff8000">far away from</font>
+
+127
+00:02:00,359 --> 00:02:00,727
+<font color="#ff8000">far away from</font>
+
+128
+00:02:00,727 --> 00:02:01,088
+<font color="#ff8000">my</font> tender youth
+
+129
+00:02:01,088 --> 00:02:01,460
+<font color="#ff8000">my ten</font>der youth
+
+130
+00:02:01,460 --> 00:02:01,844
+<font color="#ff8000">my tender</font> youth
+
+131
+00:02:01,844 --> 00:02:03,286
+<font color="#ff8000">my tender youth</font>
+
+132
+00:02:03,286 --> 00:02:03,564
+<font color="#ff8000">my tender youth</font>
+
+133
+00:02:03,564 --> 00:02:03,948
+<font color="#ff8000">and</font> the very truth
+
+134
+00:02:03,948 --> 00:02:04,308
+<font color="#ff8000">and the</font> very truth
+
+135
+00:02:04,308 --> 00:02:04,739
+<font color="#ff8000">and the ver</font>y truth
+
+136
+00:02:04,739 --> 00:02:05,111
+<font color="#ff8000">and the very</font> truth
+
+137
+00:02:05,111 --> 00:02:06,457
+<font color="#ff8000">and the very truth</font>
+
+138
+00:02:06,457 --> 00:02:06,812
+<font color="#ff8000">and the very truth</font>
+
+139
+00:02:06,812 --> 00:02:07,213
+<font color="#ff8000">show</font>ing me what I've become
+
+140
+00:02:07,213 --> 00:02:07,620
+<font color="#ff8000">showing</font> me what I've become
+
+141
+00:02:07,620 --> 00:02:08,050
+<font color="#ff8000">showing me</font> what I've become
+
+142
+00:02:08,050 --> 00:02:08,422
+<font color="#ff8000">showing me what</font> I've become
+
+143
+00:02:08,422 --> 00:02:09,701
+<font color="#ff8000">showing me what I've</font> become
+
+144
+00:02:09,701 --> 00:02:10,119
+<font color="#ff8000">showing me what I've be</font>come
+
+145
+00:02:10,119 --> 00:02:12,609
+<font color="#ff8000">showing me what I've become</font>
+
+146
+00:02:12,609 --> 00:02:12,907
+<font color="#ff8000">showing me what I've become</font>
+
+147
+00:02:12,907 --> 00:02:13,120
+<font color="#ff8000">As</font> the dawn
+
+148
+00:02:13,120 --> 00:02:13,353
+<font color="#ff8000">As the</font> dawn
+
+149
+00:02:13,353 --> 00:02:15,248
+<font color="#ff8000">As the dawn</font>
+
+150
+00:02:15,248 --> 00:02:15,396
+<font color="#ff8000">As the dawn</font>
+
+151
+00:02:15,396 --> 00:02:15,791
+<font color="#ff8000">Breaks</font> through the night
+
+152
+00:02:15,791 --> 00:02:16,186
+<font color="#ff8000">Breaks through</font> the night
+
+153
+00:02:16,186 --> 00:02:16,570
+<font color="#ff8000">Breaks through the</font> night
+
+154
+00:02:16,570 --> 00:02:18,403
+<font color="#ff8000">Breaks through the night</font>
+
+155
+00:02:18,403 --> 00:02:19,470
+<font color="#ff8000">Breaks through the night</font>
+
+156
+00:02:19,470 --> 00:02:19,647
+<font color="#ff8000">I</font> move on
+
+157
+00:02:19,647 --> 00:02:19,879
+<font color="#ff8000">I move</font> on
+
+158
+00:02:19,879 --> 00:02:21,565
+<font color="#ff8000">I move on</font>
+
+159
+00:02:21,565 --> 00:02:21,893
+<font color="#ff8000">I move on</font>
+
+160
+00:02:21,893 --> 00:02:22,332
+<font color="#ff8000">For</font>ever longing for the home
+
+161
+00:02:22,332 --> 00:02:22,716
+<font color="#ff8000">Forev</font>er longing for the home
+
+162
+00:02:22,716 --> 00:02:23,146
+<font color="#ff8000">Forever</font> longing for the home
+
+163
+00:02:23,146 --> 00:02:24,378
+<font color="#ff8000">Forever long</font>ing for the home
+
+164
+00:02:24,378 --> 00:02:24,797
+<font color="#ff8000">Forever longing</font> for the home
+
+165
+00:02:24,797 --> 00:02:26,017
+<font color="#ff8000">Forever longing for</font> the home
+
+166
+00:02:26,017 --> 00:02:26,389
+<font color="#ff8000">Forever longing for the</font> home
+
+167
+00:02:26,389 --> 00:02:27,749
+<font color="#ff8000">Forever longing for the home</font>
+
+168
+00:02:27,749 --> 00:02:28,035
+<font color="#ff8000">Forever longing for the home</font>
+
+169
+00:02:28,035 --> 00:02:28,389
+<font color="#ff8000">I</font> found in your eyes
+
+170
+00:02:28,389 --> 00:02:28,842
+<font color="#ff8000">I found</font> in your eyes
+
+171
+00:02:28,842 --> 00:02:29,482
+<font color="#ff8000">I found in</font> your eyes
+
+172
+00:02:29,482 --> 00:02:29,679
+<font color="#ff8000">I found in your</font> eyes
+
+173
+00:02:29,679 --> 00:02:31,857
+<font color="#ff8000">I found in your eyes</font>
+
+174
+00:02:31,857 --> 00:02:32,108
+<font color="#ff8000">I found in your eyes</font>
+
+175
+00:02:32,108 --> 00:02:32,938
+<font color="#ff8000">Your</font> voice
+
+176
+00:02:32,938 --> 00:02:34,066
+<font color="#ff8000">Your voice</font>
+
+177
+00:02:34,066 --> 00:02:34,536
+<font color="#ff8000">Your voice</font>
+
+178
+00:02:34,536 --> 00:02:35,021
+<font color="#ff8000">saw</font> me through the night
+
+179
+00:02:35,021 --> 00:02:35,324
+<font color="#ff8000">saw me</font> through the night
+
+180
+00:02:35,324 --> 00:02:35,800
+<font color="#ff8000">saw me through</font> the night
+
+181
+00:02:35,800 --> 00:02:36,149
+<font color="#ff8000">saw me through the</font> night
+
+182
+00:02:36,149 --> 00:02:39,539
+<font color="#ff8000">saw me through the night</font>
+
+183
+00:02:39,539 --> 00:02:40,319
+<font color="#ff8000">saw me through the night</font>

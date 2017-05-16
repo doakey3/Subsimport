@@ -1,6 +1,6 @@
 import os
 
-def get_dictionary(dic_path=None, lang='es-us'):
+def get_dictionary(dic_path=None, lang='en-us'):
     """Collect the words from the default dictionary"""
     
     if dic_path == None:

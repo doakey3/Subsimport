@@ -56,6 +56,8 @@ applied to the Subtitle Edit Channel)
 Importing
 ---------
 
+.. image:: http://i.imgur.com/x93jx4s.png
+
 3 filetypes may be imported with this addon: .txt, .lrc, and .srt files.
 
 .txt files do not contain any timing info. The text is imported so that
@@ -88,14 +90,16 @@ the scene FPS in blender to 1000 before importing subtitles.
 
 This allows the full potential of .srt files to be utilized, however
 any video clip will likely become skiwampus. You can apply a speed 
-modifier to the video clip and adjust it (I recommend using Bligify's_
+modifier to the video clip and adjust it (I recommend using `Bligify's`_
 FPS Adjust Tool), or you can simply uncheck the FPS 1000 box and import
 subtitles at the frame rate you desire.
 
-.. _Bligify: https://github.com/doakey3/Bligify
+.. _Bligify's: https://github.com/doakey3/Bligify
 
 Dur x 2 and Dur / 2
 -------------------
+
+.. image:: http://i.imgur.com/BmEDQiH.png
 
 Doubles or halfs the duration of the strips in the 
 "Subtitle Edit Channel". 
@@ -131,6 +135,11 @@ After clicking the "Syllabify" button, you'll create a .txt file
 containing all of the words of the song. Subsimport will try to split
 them up into separate syllables. You should read through the .txt file
 and make any corrections as necessary before you split your words.
+
+After syllabifying words, you may save your dictionary to the default
+dictionary that Subsimport uses. This way, any words you may have needed
+to edit will be correctly syllabified the next time Subsimport 
+encounters them.
 
 Split
 -----

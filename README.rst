@@ -52,6 +52,8 @@ The font size that will be applied to imported strips. You may change
 this value and refresh using the button to the right. (Changes only
 applied to the Subtitle Edit Channel)
 
+.. image:: http://i.imgur.com/sC6xx0n.gif
+
 Importing
 ---------
 

@@ -88,7 +88,7 @@ modifier to the video clip and adjust it (I recommend using Bligify's_
 FPS Adjust Tool), or you can simply uncheck the FPS 1000 box and import
 subtitles at the frame rate you desire.
 
-.. Bligify:: https://github.com/doakey3/Bligify
+.. _Bligify:: https://github.com/doakey3/Bligify
 
 Dur x 2 and Dur / 2
 -------------------

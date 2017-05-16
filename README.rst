@@ -8,6 +8,9 @@
 About
 =====
 
+.. image:: http://i.imgur.com/CLDXWRd.gif
+  :align: right
+
 Subs import is an addon for Blender_ that allows users to create and
 edit subtitles for movies or music. The keyboard shortcuts and automatic 
 syllable separation tools make it a very fast tool.

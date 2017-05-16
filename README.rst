@@ -59,6 +59,8 @@ Importing
 
 .. image:: http://i.imgur.com/x93jx4s.png
 
+.. image:: http://i.imgur.com/8MM08X5.gif
+
 3 filetypes may be imported with this addon: .txt, .lrc, and .srt files.
 
 .txt files do not contain any timing info. The text is imported so that
@@ -101,6 +103,8 @@ Dur x 2 and Dur / 2
 -------------------
 
 .. image:: http://i.imgur.com/BmEDQiH.png
+
+.. image:: http://i.imgur.com/ZywhLfB.gif
 
 Doubles or halfs the duration of the strips in the 
 "Subtitle Edit Channel". 
@@ -151,6 +155,8 @@ Split
 
 .. image:: http://i.imgur.com/XKJfMb3.png
 
+.. image:: http://i.imgur.com/9gAon9U.gif
+
 After defining how words should be separated, you can split them apart
 and create individually colored text strips that will highlight
 sequentially as your audio plays. You can set the timing of each 
@@ -163,6 +169,8 @@ Combine
 -------
 
 .. image:: http://i.imgur.com/4LJ3fQe.png
+
+.. image:: http://i.imgur.com/5lUFAt8.gif
 
 After synchronizing the syllables to the music, you can recombine
 the strips into enhanced strips prior to exporting the subtitles.

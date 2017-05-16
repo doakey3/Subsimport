@@ -1,9 +1,8 @@
 .. image:: https://img.shields.io/badge/Donate-PayPal-green.svg
     :target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QA2T7WG47UTCL
 
-==========
-Subsimport
-==========
+.. image:: http://i.imgur.com/8XoKdam.png
+    :align: center
 
 .. contents::
 
@@ -21,9 +20,13 @@ You will see the user interface on the right side of the sequencer.
 Usage
 =====
 
-The user interface
+The user interface is located to the right side of the video sequencer.
 
-.. image:: http://i.imgur.com/47nzgsr.png
+.. image:: http://i.imgur.com/he5yfp4.png
+    :align: left
+
+.. image:: http://i.imgur.com/0vIHtfE.png
+    :align: right
 
 Set the font size of the text that will be imported. Click the import
 button and navigate to the .txt/.lrc/.srt file you would like to import

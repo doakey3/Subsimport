@@ -63,6 +63,7 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
             scene.enhanced_subs_color[2] = color[2]
             
             subtitles_to_sequencer(context, bases)
+            
             strips = subtitles_to_sequencer(context, tops)
             
             for strip in strips:

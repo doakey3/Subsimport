@@ -35,12 +35,35 @@ strips have been imported.
 Keyboard Shortcuts
 ------------------
 
-* D set the start of a text strip
-* F set the end of a text strip
-* S (like pressing F, then D rapidly)
-* W (like pressing D, then F rapidly)
+Make sure the "Subtitle Edit Channel" property is set to the channel 
+where your subtitle strips have been imported.
+
+Note that syllabified strips are set to not respond to these 4 shortcuts 
+if it means going outside the bounds of their base strips.
+
+:D: 
+    Set the start of a text strip.
+    
+:F: 
+    Set the end of a text strip.
+    
+:S: 
+    (like pressing F, then D rapidly)
+
+:W: 
+    (like pressing D, then F rapidly)
 
 .. image:: http://i.imgur.com/t9ahMhV.gif
+
+:Z: 
+    Send top strips to the end of the base strip. Useful for resetting
+    the position of syllabified lyrics. 
+    
+    You must be within the start and end points of a base strip and the 
+    "Subtitle Edit Channel" must be set to the top strips channel for 
+    this to work.
+    
+.. image:: http://i.imgur.com/JhGzLmo.gif
 
 Use the Split words function to split words so they can be timed 
 individually.

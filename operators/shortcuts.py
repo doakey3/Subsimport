@@ -6,24 +6,19 @@ class ShiftFrameStart(bpy.types.Operator):
     bl_idname = "sequencerextra.shift_frame_start"
     bl_label = "Shift Frame Start of Next Text Strip"
     bl_description = "Shifts frame start of text strip to the current frame"
-
-    @classmethod
-    def poll(self, context):
-        scene = context.scene
-        try:
-            text_strips = get_text_strips(scene)
-        
-            if len(text_strips) > 0:
-                return True
-            else:
-                return False
-        except AttributeError:
-            return False
             
     def execute(self, context):
         scene = context.scene
+        
+        try:
+            text_strips = get_text_strips(scene)
+        
+            if len(text_strips) == 0:
+                return {"FINISHED"}
+        except AttributeError:
+            return {"FINISHED"}
+        
         current_frame = scene.frame_current
-        text_strips = get_text_strips(scene)
         base_channel = text_strips[0].channel - 1
         base_strips = get_text_strips(scene, channel=base_channel)
         
@@ -66,23 +61,18 @@ class ShiftFrameEnd(bpy.types.Operator):
     bl_label = "Shift Frame End of Next Text Strip"
     bl_description = "Shifts the frame end of text strip to the current frame"
 
-    @classmethod
-    def poll(self, context):
-        scene = context.scene
-        try:
-            text_strips = get_text_strips(scene)
-        
-            if len(text_strips) > 0:
-                return True
-            else:
-                return False
-        except AttributeError:
-            return False
-
     def execute(self, context):
         scene = context.scene
+        
+        try:
+            text_strips = list(reversed(get_text_strips(scene)))
+        
+            if len(text_strips) == 0:
+                return {"FINISHED"}
+        except AttributeError:
+            return {"FINISHED"}
+        
         current_frame = scene.frame_current
-        text_strips = list(reversed(get_text_strips(scene)))
         base_channel = text_strips[0].channel - 1
         base_strips = get_text_strips(scene, channel=base_channel)
         
@@ -148,26 +138,30 @@ class ResetChildren(bpy.types.Operator):
     bl_label = "Send the children to the final frames of the parent"
     bl_description = "Press Z while the current time indicator is on a parent and the upper strips will be sent to the end of the parent"
     
-    @classmethod
-    def poll(self, context):
+    def execute(self, context):
         scene = context.scene
+        
         try:
             text_strips = get_text_strips(scene)
             low_channel = scene.subtitle_edit_channel - 1
-            bottom_text_strips = get_text_strips(scene, low_channel)
-        
-            if len(text_strips) > 0 and len(bottom_text_strips) > 0:
-                return True
+            parents = get_text_strips(scene, low_channel)
+            current_frame = scene.frame_current
+            
+            if len(text_strips) > 0 and len(parents) > 0:
+                go = False
+                for base in parents:
+                    b_start = base.frame_final_start
+                    b_end = base.frame_final_end
+                    if current_frame >= b_start and current_frame <= b_end:
+                        go = True
+                        break
+                if not go:
+                    return {"FINISHED"}
+            
             else:
-                return False
+                return {"FINISHED"}
         except AttributeError:
-            return False
-    
-    def execute(self, context):
-        scene = context.scene
-        current_frame = scene.frame_current
-        low_channel = scene.subtitle_edit_channel - 1
-        parents = get_text_strips(scene, channel=low_channel)
+            return {"FINISHED"}
         
         for parent in parents:
             p_start = parent.frame_final_start

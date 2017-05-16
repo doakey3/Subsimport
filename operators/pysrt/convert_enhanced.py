@@ -68,6 +68,37 @@ def get_base(sub, bases):
 
         if b_start <= start and b_end >= end:
             return base
+            
+def get_children(base, tops):
+    """Get all of the children of a base"""
+    
+    children = []
+    
+    start = base.start.to_millis()
+    end = base.end.to_millis()
+    
+    for i in range(len(tops)):
+        t_start = tops[i].start.to_millis()
+        t_end = tops[i].end.to_millis()
+        
+        if start <= t_start and end >= t_end:
+            children.append(i)
+        
+        elif start < t_end:
+            return children
+    
+    return children
+
+def make_locks(tops, bases):
+    """Add [locked start] and [locked end] to appropriate tops"""
+    
+    for base in bases:
+        children = get_children(base, tops)
+        tops[children[0]].name = '[locked start]'
+        tops[children[-1]].name = '[locked end]'
+    
+    return tops
+    
 
 def get_all_tops(subs, bases):
     """Get the top subs (syllable/word splits)"""
@@ -137,6 +168,7 @@ def convert_enhanced(subs):
     color = retrieve_color(subs)
     bases = get_all_bases(subs)
     tops = get_all_tops(subs, bases)
+    tops = make_locks(tops, bases)
     
     return bases, tops, color
 

@@ -1,7 +1,7 @@
 .. image:: https://img.shields.io/badge/Donate-PayPal-green.svg
     :target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QA2T7WG47UTCL
 
-.. image:: http://i.imgur.com/8XoKdam.png
+.. image:: http://i.imgur.com/68kme19.png
     :align: center
 
 .. contents::

@@ -51,7 +51,7 @@ if it means going outside the bounds of their base strips.
 :W: 
     (like pressing D, then F rapidly)
 
-.. image:: http://i.imgur.com/t9ahMhV.gif
+.. image:: http://i.imgur.com/D38fvvU.gif
 
 :Z: 
     Send top strips to the end of the base strip. Useful for resetting
@@ -61,7 +61,7 @@ if it means going outside the bounds of their base strips.
     "Subtitle Edit Channel" must be set to the top strips channel for 
     this to work.
     
-.. image:: http://i.imgur.com/JhGzLmo.gif
+.. image:: http://i.imgur.com/XoxELtD.gif
 
 Use the Split words function to split words so they can be timed 
 individually.

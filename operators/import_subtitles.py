@@ -38,6 +38,10 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
 
         subs = SubRipFile().from_string(text)
         subs.remove_overlaps()
+        
+        scene.use_audio_scrub = True
+        scene.use_audio_sync = True
+        scene.use_frame_drop = True
 
         if scene.subs_adjust_fps:
             scene.render.fps = 100

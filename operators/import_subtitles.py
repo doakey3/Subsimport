@@ -42,10 +42,6 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
         scene.use_audio_scrub = True
         scene.use_audio_sync = True
         scene.use_frame_drop = True
-
-        if scene.subs_adjust_fps:
-            scene.render.fps = 100
-            scene.render.fps_base = 0.1
         
         try:
             all_strips = list(sorted(scene.sequence_editor.sequences,

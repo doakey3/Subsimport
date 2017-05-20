@@ -91,7 +91,8 @@ class Syllabify(bpy.types.Operator, ExportHelper):
                 if not words[i] in found_words:
                     words[i] = hyphenator.hyphenate_word(words[i])
                     words[i] = ' '.join(words[i])
-        
+        words = set(words)
+        words = sorted(list(words))
         f = open(self.filepath, 'w')
         f.write('\n'.join(words))
         f.close()

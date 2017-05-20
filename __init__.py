@@ -23,7 +23,7 @@ bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 2, 3),
+    "version": (1, 2, 4),
     "blender": (2, 7, 8),
     "wiki_url": "https://github.com/doakey3/subsimport",
     "tracker_url": "https://github.com/doakey3/subsimport/issues",
@@ -51,7 +51,6 @@ class subsimport_UI(bpy.types.Panel):
             icon="FILE_REFRESH")
         row = box.row()
         row.operator('sequencerextra.import_subtitles', icon='ANIM')
-        row.prop(scene, 'subs_adjust_fps', text='FPS 1000')
         row = box.row()
         row.operator('sequencerextra.duration_x_two', icon='PREVIEW_RANGE')
         row.operator('sequencerextra.duration_x_half', icon='RECOVER_LAST')
@@ -93,11 +92,6 @@ def register():
         description="The font size of the added text strips after import",
         default=70,
         min=1)
-    
-    bpy.types.Scene.subs_adjust_fps = bpy.props.BoolProperty(
-        description="Set FPS to 1000 on import.\n\nIf unchecked, subtitle timing will be rounded to fit the frame rate.\nTiming data may be lost and you may get errors due to overlapping strips.\n\nProbably OK to uncheck this for editing movie subtitles.",
-        default=True
-    )
     
     bpy.types.Scene.syllable_dictionary_path = bpy.props.StringProperty(
         name="Syllable Dictionary Path",
@@ -203,7 +197,6 @@ def register():
 def unregister():
     del bpy.types.Scene.subtitle_edit_channel
     del bpy.types.Scene.subtitle_font_size
-    del bpy.types.Scene.subs_adjust_fps
     del bpy.types.Scene.enhanced_subs_color
     del bpy.types.Scene.syllable_dictionary_path
     del bpy.types.Scene.use_dictionary_syllabification

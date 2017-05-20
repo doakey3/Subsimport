@@ -83,21 +83,21 @@ with the VLC_ media player.
 Subsimport also supports "Enhanced" .srt and .lrc files. These are 
 special subtitles that highlight parts of the subtitles at a time.
 
-FPS 1000
-~~~~~~~~
+On import, AV sync, scrubbing, and frame drop will be enabled.
 
-.srt files support time data down to the millisecond. However, strips
-added to the sequencer must conform to the scene's FPS value. Thus,
-.srt files may potentially lose some timing data if the user imports
-the file into a scene with a low FPS. (It may even cause errors on 
-import if strips wind up overlapping). To prevent this, subsimport sets
-the scene FPS in blender to 1000 before importing subtitles.
+It is recommended that if you're making lyrics for songs that you 
+increase the scene FPS to 100 or even 1000 frames per second before 
+importing. The reason is that .srt files support time data down to the 
+millisecond, but strips must conform to the scene's FPS value. If a low
+FPS is used, then the minimum timing difference will be limited by the
+scene FPS. 
 
-This allows the full potential of .srt files to be utilized, however
-any video clip will likely become skiwampus. You can apply a speed 
-modifier to the video clip and adjust it (I recommend using `Bligify's`_
-FPS Adjust Tool), or you can simply uncheck the FPS 1000 box and import
-subtitles at the frame rate you desire.
+Furthermore, if you attempt to import strips and one or more strips has
+a duration that is less than 1 / the scene fps, you will create an 
+error.
+
+Subimport does not allow any subtitles to overlap times and will 
+automatically remove overlaps on import.
 
 .. _Bligify's: https://github.com/doakey3/Bligify
 
@@ -213,3 +213,9 @@ if it means going outside the bounds of their base strips.
     
 .. image:: http://i.imgur.com/XoxELtD.gif
 
+Contributing
+============
+
+Pull requests, feature requests, donations, and example song .srt files
+are welcome! Also, adding syllabified words to the default dictionary is 
+encouraged.

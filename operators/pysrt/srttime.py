@@ -193,7 +193,7 @@ class SubRipTime(ComparableMixin):
         Sets the hours, minutes, seconds, & milliseconds from total 
         milliseconds
         """
-        millis_per_hour = 60 * 60 * 100
+        millis_per_hour = 60 * 60 * 1000
         millis_per_min = 60 * 1000
         millis_per_sec = 1000
         
@@ -209,4 +209,5 @@ class SubRipTime(ComparableMixin):
         self.hours = hours
         self.minutes = minutes
         self.seconds = seconds
+
         self.milliseconds = milliseconds

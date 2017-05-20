@@ -13575,6 +13575,7 @@ cha grined
 cha grinned
 cha im
 cha jet
+cha ka
 cha let
 cha lets
 cha lu pa
@@ -27879,6 +27880,7 @@ eve ry man
 eve ry one
 eve ry place
 eve ry thing
+eve ry thing's
 eve ry things
 eve ry where
 eves
@@ -58135,6 +58137,7 @@ ong pin
 ons
 ons low
 oo dles
+oo ga
 oo ley
 oo long
 oo na
@@ -66371,7 +66374,6 @@ re al ist
 re al iz a ble
 re al iz er
 re al iz ing
-re al ize
 re al ized
 re al izes
 re al lo ca tion
@@ -68280,6 +68282,7 @@ read y ing
 reade
 reads
 real estate
+real ize
 real mu to
 realm
 realms
@@ -71332,6 +71335,7 @@ sand pip er
 sand point
 sand stone
 sand storm
+sand storms
 sand strom
 sand town
 sand vig
@@ -80314,8 +80318,8 @@ swine
 swing
 swing a ble
 swing er
+swing ing
 swing ley
-swinging
 swings
 swink
 swint
@@ -82699,6 +82703,7 @@ to bu
 to by
 to by's
 to da
+to day
 to day'll
 to day's
 to days
@@ -82804,7 +82809,6 @@ tod dler
 tod dlers
 tod dy
 tod man
-today
 todd
 todt
 toe
@@ -85286,6 +85290,7 @@ un de ter mined
 un de terred
 un de vel oped
 un dem o crat ic
+un der
 un der a chiev er
 un der a chiev ers
 un der act
@@ -86297,6 +86302,7 @@ un ti di ness
 un ti dy
 un tie
 un tied
+un til
 un till a ble
 un tilled
 un time ly
@@ -86419,7 +86425,6 @@ unc tu os i ty
 unc tu ous
 unc tu ous ly
 und
-under
 ung
 unicef
 unit
@@ -86427,7 +86432,6 @@ univ
 unix
 uno
 unt ed
-until
 unz
 up
 up beat
@@ -88429,6 +88433,7 @@ walk out
 walk outs
 walk way
 walk ways
+walked
 walks
 wall
 wall board
@@ -88461,6 +88466,7 @@ wan da
 wan der
 wan der er
 wan der ers
+wan der ing
 wan der ings
 wan der lust
 wan dered
@@ -88478,7 +88484,6 @@ wan nest
 wan ton
 wan ton ly
 wand
-wandering
 wands
 wane
 waned
@@ -88743,6 +88748,7 @@ wav er
 wav i er
 wav i est
 wav i ness
+wav ing
 wav y
 wave
 wave length
@@ -88751,7 +88757,6 @@ wave let
 wave like
 waved
 waves
-waving
 wax
 wax en
 wax er

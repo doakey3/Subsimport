@@ -1,0 +1,1151 @@
+1
+00:00:00,539 --> 00:00:00,753
+<font color="#ff8000">Oo</font>ga chaka, ooga ooga
+
+2
+00:00:00,753 --> 00:00:00,974
+<font color="#ff8000">Ooga</font> chaka, ooga ooga
+
+3
+00:00:00,974 --> 00:00:01,218
+<font color="#ff8000">Ooga cha</font>ka, ooga ooga
+
+4
+00:00:01,218 --> 00:00:01,497
+<font color="#ff8000">Ooga chaka,</font> ooga ooga
+
+5
+00:00:01,497 --> 00:00:01,741
+<font color="#ff8000">Ooga chaka, oo</font>ga ooga
+
+6
+00:00:01,741 --> 00:00:01,997
+<font color="#ff8000">Ooga chaka, ooga</font> ooga
+
+7
+00:00:01,997 --> 00:00:02,264
+<font color="#ff8000">Ooga chaka, ooga oo</font>ga
+
+8
+00:00:02,264 --> 00:00:02,596
+<font color="#ff8000">Ooga chaka, ooga ooga</font>
+
+9
+00:00:02,596 --> 00:00:02,884
+<font color="#ff8000">Oo</font>ga chaka, ooga ooga
+
+10
+00:00:02,884 --> 00:00:03,093
+<font color="#ff8000">Ooga</font> chaka, ooga ooga
+
+11
+00:00:03,093 --> 00:00:03,349
+<font color="#ff8000">Ooga cha</font>ka, ooga ooga
+
+12
+00:00:03,349 --> 00:00:03,616
+<font color="#ff8000">Ooga chaka,</font> ooga ooga
+
+13
+00:00:03,616 --> 00:00:03,872
+<font color="#ff8000">Ooga chaka, oo</font>ga ooga
+
+14
+00:00:03,872 --> 00:00:04,116
+<font color="#ff8000">Ooga chaka, ooga</font> ooga
+
+15
+00:00:04,116 --> 00:00:04,360
+<font color="#ff8000">Ooga chaka, ooga oo</font>ga
+
+16
+00:00:04,360 --> 00:00:04,665
+<font color="#ff8000">Ooga chaka, ooga ooga</font>
+
+17
+00:00:04,665 --> 00:00:04,924
+<font color="#ff8000">Oo</font>ga chaka, ooga ooga
+
+18
+00:00:04,924 --> 00:00:05,215
+<font color="#ff8000">Ooga</font> chaka, ooga ooga
+
+19
+00:00:05,215 --> 00:00:05,447
+<font color="#ff8000">Ooga cha</font>ka, ooga ooga
+
+20
+00:00:05,447 --> 00:00:05,726
+<font color="#ff8000">Ooga chaka,</font> ooga ooga
+
+21
+00:00:05,726 --> 00:00:05,959
+<font color="#ff8000">Ooga chaka, oo</font>ga ooga
+
+22
+00:00:05,959 --> 00:00:06,214
+<font color="#ff8000">Ooga chaka, ooga</font> ooga
+
+23
+00:00:06,214 --> 00:00:06,470
+<font color="#ff8000">Ooga chaka, ooga oo</font>ga
+
+24
+00:00:06,470 --> 00:00:06,781
+<font color="#ff8000">Ooga chaka, ooga ooga</font>
+
+25
+00:00:06,781 --> 00:00:07,005
+<font color="#ff8000">Oo</font>ga chaka, ooga ooga
+
+26
+00:00:07,005 --> 00:00:07,249
+<font color="#ff8000">Ooga</font> chaka, ooga ooga
+
+27
+00:00:07,249 --> 00:00:07,528
+<font color="#ff8000">Ooga cha</font>ka, ooga ooga
+
+28
+00:00:07,528 --> 00:00:07,784
+<font color="#ff8000">Ooga chaka,</font> ooga ooga
+
+29
+00:00:07,784 --> 00:00:08,040
+<font color="#ff8000">Ooga chaka, oo</font>ga ooga
+
+30
+00:00:08,040 --> 00:00:08,295
+<font color="#ff8000">Ooga chaka, ooga</font> ooga
+
+31
+00:00:08,295 --> 00:00:08,539
+<font color="#ff8000">Ooga chaka, ooga oo</font>ga
+
+32
+00:00:08,539 --> 00:00:08,850
+<font color="#ff8000">Ooga chaka, ooga ooga</font>
+
+33
+00:00:08,850 --> 00:00:09,086
+<font color="#ff8000">I</font> can't stop this feeling
+
+34
+00:00:09,086 --> 00:00:09,586
+<font color="#ff8000">I can't</font> stop this feeling
+
+35
+00:00:09,586 --> 00:00:10,074
+<font color="#ff8000">I can't stop</font> this feeling
+
+36
+00:00:10,074 --> 00:00:10,644
+<font color="#ff8000">I can't stop this</font> feeling
+
+37
+00:00:10,644 --> 00:00:11,144
+<font color="#ff8000">I can't stop this feel</font>ing
+
+38
+00:00:11,144 --> 00:00:11,750
+<font color="#ff8000">I can't stop this feeling</font>
+
+39
+00:00:11,750 --> 00:00:13,044
+<font color="#ff8000">I can't stop this feeling</font>
+
+40
+00:00:13,044 --> 00:00:13,264
+<font color="#ff8000">Deep</font> inside of me
+
+41
+00:00:13,264 --> 00:00:13,787
+<font color="#ff8000">Deep in</font>side of me
+
+42
+00:00:13,787 --> 00:00:14,329
+<font color="#ff8000">Deep inside</font> of me
+
+43
+00:00:14,329 --> 00:00:14,785
+<font color="#ff8000">Deep inside of</font> me
+
+44
+00:00:14,785 --> 00:00:15,680
+<font color="#ff8000">Deep inside of me</font>
+
+45
+00:00:15,680 --> 00:00:17,217
+<font color="#ff8000">Deep inside of me</font>
+
+46
+00:00:17,217 --> 00:00:17,669
+<font color="#ff8000">Girl,</font> you just don't realize
+
+47
+00:00:17,669 --> 00:00:17,972
+<font color="#ff8000">Girl, you</font> just don't realize
+
+48
+00:00:17,972 --> 00:00:18,448
+<font color="#ff8000">Girl, you just</font> don't realize
+
+49
+00:00:18,448 --> 00:00:19,076
+<font color="#ff8000">Girl, you just don't</font> realize
+
+50
+00:00:19,076 --> 00:00:19,488
+<font color="#ff8000">Girl, you just don't real</font>ize
+
+51
+00:00:19,488 --> 00:00:20,156
+<font color="#ff8000">Girl, you just don't realize</font>
+
+52
+00:00:20,156 --> 00:00:21,037
+<font color="#ff8000">Girl, you just don't realize</font>
+
+53
+00:00:21,037 --> 00:00:21,319
+<font color="#ff8000">What</font> you do to me
+
+54
+00:00:21,319 --> 00:00:21,563
+<font color="#ff8000">What you</font> do to me
+
+55
+00:00:21,563 --> 00:00:21,749
+<font color="#ff8000">What you do</font> to me
+
+56
+00:00:21,749 --> 00:00:21,923
+<font color="#ff8000">What you do to</font> me
+
+57
+00:00:21,923 --> 00:00:22,656
+<font color="#ff8000">What you do to me</font>
+
+58
+00:00:22,656 --> 00:00:22,794
+<font color="#ff8000">What you do to me</font>
+
+59
+00:00:24,805 --> 00:00:24,996
+<font color="#ff8000">When</font> you hold me
+
+60
+00:00:24,996 --> 00:00:25,298
+<font color="#ff8000">When you</font> hold me
+
+61
+00:00:25,298 --> 00:00:25,751
+<font color="#ff8000">When you hold</font> me
+
+62
+00:00:25,751 --> 00:00:26,426
+<font color="#ff8000">When you hold me</font>
+
+63
+00:00:26,426 --> 00:00:26,925
+<font color="#ff8000">When you hold me</font>
+
+64
+00:00:26,925 --> 00:00:27,123
+<font color="#ff8000">In</font> your arms so tight
+
+65
+00:00:27,123 --> 00:00:27,425
+<font color="#ff8000">In your</font> arms so tight
+
+66
+00:00:27,425 --> 00:00:27,937
+<font color="#ff8000">In your arms</font> so tight
+
+67
+00:00:27,937 --> 00:00:28,380
+<font color="#ff8000">In your arms so</font> tight
+
+68
+00:00:28,380 --> 00:00:28,992
+<font color="#ff8000">In your arms so tight</font>
+
+69
+00:00:28,992 --> 00:00:29,241
+<font color="#ff8000">You</font> let me know
+
+70
+00:00:29,241 --> 00:00:29,485
+<font color="#ff8000">You let</font> me know
+
+71
+00:00:29,485 --> 00:00:29,718
+<font color="#ff8000">You let me</font> know
+
+72
+00:00:29,718 --> 00:00:30,596
+<font color="#ff8000">You let me know</font>
+
+73
+00:00:30,596 --> 00:00:31,121
+<font color="#ff8000">You let me know</font>
+
+74
+00:00:31,121 --> 00:00:31,348
+<font color="#ff8000">Eve</font>rything's all right
+
+75
+00:00:31,348 --> 00:00:31,592
+<font color="#ff8000">Every</font>thing's all right
+
+76
+00:00:31,592 --> 00:00:32,138
+<font color="#ff8000">Everything's</font> all right
+
+77
+00:00:32,138 --> 00:00:32,638
+<font color="#ff8000">Everything's all</font> right
+
+78
+00:00:32,638 --> 00:00:33,545
+<font color="#ff8000">Everything's all right</font>
+
+79
+00:00:33,545 --> 00:00:33,898
+<font color="#ff8000">Everything's all right</font>
+
+80
+00:00:33,898 --> 00:00:36,484
+<font color="#ff8000">I'm</font>
+
+81
+00:00:36,484 --> 00:00:36,998
+<font color="#ff8000">I'm</font>
+
+82
+00:00:36,998 --> 00:00:37,228
+<font color="#ff8000">hooked</font> on a feeling
+
+83
+00:00:37,228 --> 00:00:37,507
+<font color="#ff8000">hooked on</font> a feeling
+
+84
+00:00:37,507 --> 00:00:37,751
+<font color="#ff8000">hooked on a</font> feeling
+
+85
+00:00:37,751 --> 00:00:38,344
+<font color="#ff8000">hooked on a feel</font>ing
+
+86
+00:00:38,344 --> 00:00:39,040
+<font color="#ff8000">hooked on a feeling</font>
+
+87
+00:00:40,807 --> 00:00:41,082
+<font color="#ff8000">I'm</font> high on believing
+
+88
+00:00:41,082 --> 00:00:41,315
+<font color="#ff8000">I'm high</font> on believing
+
+89
+00:00:41,315 --> 00:00:41,524
+<font color="#ff8000">I'm high on</font> believing
+
+90
+00:00:41,524 --> 00:00:41,815
+<font color="#ff8000">I'm high on be</font>lieving
+
+91
+00:00:41,815 --> 00:00:42,349
+<font color="#ff8000">I'm high on believ</font>ing
+
+92
+00:00:42,349 --> 00:00:43,283
+<font color="#ff8000">I'm high on believing</font>
+
+93
+00:00:44,560 --> 00:00:44,774
+<font color="#ff8000">That</font> you're in love with me
+
+94
+00:00:44,774 --> 00:00:45,286
+<font color="#ff8000">That you're</font> in love with me
+
+95
+00:00:45,286 --> 00:00:45,785
+<font color="#ff8000">That you're in</font> love with me
+
+96
+00:00:45,785 --> 00:00:46,250
+<font color="#ff8000">That you're in love</font> with me
+
+97
+00:00:46,250 --> 00:00:46,738
+<font color="#ff8000">That you're in love with</font> me
+
+98
+00:00:46,738 --> 00:00:48,703
+<font color="#ff8000">That you're in love with me</font>
+
+99
+00:00:48,703 --> 00:00:49,245
+<font color="#ff8000">That you're in love with me</font>
+
+100
+00:00:50,930 --> 00:00:51,191
+<font color="#ff8000">Lips</font> as sweet as candy
+
+101
+00:00:51,191 --> 00:00:51,644
+<font color="#ff8000">Lips as</font> sweet as candy
+
+102
+00:00:51,644 --> 00:00:52,132
+<font color="#ff8000">Lips as sweet</font> as candy
+
+103
+00:00:52,132 --> 00:00:52,620
+<font color="#ff8000">Lips as sweet as</font> candy
+
+104
+00:00:52,620 --> 00:00:53,109
+<font color="#ff8000">Lips as sweet as can</font>dy
+
+105
+00:00:53,109 --> 00:00:53,613
+<font color="#ff8000">Lips as sweet as candy</font>
+
+106
+00:00:53,613 --> 00:00:53,906
+<font color="#ff8000">Lips as sweet as candy</font>
+
+107
+00:00:54,709 --> 00:00:54,933
+<font color="#ff8000">Its</font> taste is on my mind
+
+108
+00:00:54,933 --> 00:00:55,549
+<font color="#ff8000">Its taste</font> is on my mind
+
+109
+00:00:55,549 --> 00:00:55,723
+<font color="#ff8000">Its taste is</font> on my mind
+
+110
+00:00:55,723 --> 00:00:56,270
+<font color="#ff8000">Its taste is on</font> my mind
+
+111
+00:00:56,270 --> 00:00:56,700
+<font color="#ff8000">Its taste is on my</font> mind
+
+112
+00:00:56,700 --> 00:00:57,665
+<font color="#ff8000">Its taste is on my mind</font>
+
+113
+00:00:57,665 --> 00:00:58,078
+<font color="#ff8000">Its taste is on my mind</font>
+
+114
+00:00:58,940 --> 00:00:59,432
+<font color="#ff8000">Girl,</font> you got me thirsty
+
+115
+00:00:59,432 --> 00:00:59,676
+<font color="#ff8000">Girl, you</font> got me thirsty
+
+116
+00:00:59,676 --> 00:01:00,176
+<font color="#ff8000">Girl, you got</font> me thirsty
+
+117
+00:01:00,176 --> 00:01:00,653
+<font color="#ff8000">Girl, you got me</font> thirsty
+
+118
+00:01:00,653 --> 00:01:01,176
+<font color="#ff8000">Girl, you got me thirst</font>y
+
+119
+00:01:01,176 --> 00:01:01,675
+<font color="#ff8000">Girl, you got me thirsty</font>
+
+120
+00:01:01,675 --> 00:01:02,182
+<font color="#ff8000">Girl, you got me thirsty</font>
+
+121
+00:01:02,182 --> 00:01:02,476
+<font color="#ff8000">For</font> another cup o' wine
+
+122
+00:01:02,476 --> 00:01:02,732
+<font color="#ff8000">For an</font>other cup o' wine
+
+123
+00:01:02,732 --> 00:01:02,999
+<font color="#ff8000">For anoth</font>er cup o' wine
+
+124
+00:01:02,999 --> 00:01:04,137
+<font color="#ff8000">For another</font> cup o' wine
+
+125
+00:01:04,137 --> 00:01:04,428
+<font color="#ff8000">For another cup</font> o' wine
+
+126
+00:01:04,428 --> 00:01:04,718
+<font color="#ff8000">For another cup o'</font> wine
+
+127
+00:01:04,718 --> 00:01:05,928
+<font color="#ff8000">For another cup o' wine</font>
+
+128
+00:01:05,928 --> 00:01:06,954
+<font color="#ff8000">For another cup o' wine</font>
+
+129
+00:01:06,954 --> 00:01:07,195
+<font color="#ff8000">Got</font> a bug from you girl
+
+130
+00:01:07,195 --> 00:01:07,695
+<font color="#ff8000">Got a</font> bug from you girl
+
+131
+00:01:07,695 --> 00:01:08,160
+<font color="#ff8000">Got a bug</font> from you girl
+
+132
+00:01:08,160 --> 00:01:08,625
+<font color="#ff8000">Got a bug from</font> you girl
+
+133
+00:01:08,625 --> 00:01:09,125
+<font color="#ff8000">Got a bug from you</font> girl
+
+134
+00:01:09,125 --> 00:01:09,718
+<font color="#ff8000">Got a bug from you girl</font>
+
+135
+00:01:09,718 --> 00:01:10,681
+<font color="#ff8000">Got a bug from you girl</font>
+
+136
+00:01:10,681 --> 00:01:10,962
+<font color="#ff8000">But</font> I don't need no cure
+
+137
+00:01:10,962 --> 00:01:11,218
+<font color="#ff8000">But I</font> don't need no cure
+
+138
+00:01:11,218 --> 00:01:11,729
+<font color="#ff8000">But I don't</font> need no cure
+
+139
+00:01:11,729 --> 00:01:12,443
+<font color="#ff8000">But I don't need</font> no cure
+
+140
+00:01:12,443 --> 00:01:12,659
+<font color="#ff8000">But I don't need no</font> cure
+
+141
+00:01:12,659 --> 00:01:13,691
+<font color="#ff8000">But I don't need no cure</font>
+
+142
+00:01:13,691 --> 00:01:14,936
+<font color="#ff8000">But I don't need no cure</font>
+
+143
+00:01:14,936 --> 00:01:15,458
+<font color="#ff8000">I'll</font> just stay a victim
+
+144
+00:01:15,458 --> 00:01:15,679
+<font color="#ff8000">I'll just</font> stay a victim
+
+145
+00:01:15,679 --> 00:01:16,272
+<font color="#ff8000">I'll just stay</font> a victim
+
+146
+00:01:16,272 --> 00:01:16,690
+<font color="#ff8000">I'll just stay a</font> victim
+
+147
+00:01:16,690 --> 00:01:17,085
+<font color="#ff8000">I'll just stay a vic</font>tim
+
+148
+00:01:17,085 --> 00:01:17,667
+<font color="#ff8000">I'll just stay a victim</font>
+
+149
+00:01:17,667 --> 00:01:18,235
+<font color="#ff8000">I'll just stay a victim</font>
+
+150
+00:01:18,235 --> 00:01:18,478
+<font color="#ff8000">If</font> I can for sure
+
+151
+00:01:18,478 --> 00:01:18,733
+<font color="#ff8000">If I</font> can for sure
+
+152
+00:01:18,733 --> 00:01:19,257
+<font color="#ff8000">If I can</font> for sure
+
+153
+00:01:19,257 --> 00:01:19,454
+<font color="#ff8000">If I can for</font> sure
+
+154
+00:01:19,454 --> 00:01:21,839
+<font color="#ff8000">If I can for sure</font>
+
+155
+00:01:21,839 --> 00:01:22,171
+<font color="#ff8000">If I can for sure</font>
+
+156
+00:01:22,171 --> 00:01:22,512
+<font color="#ff8000">All</font> the good love
+
+157
+00:01:22,512 --> 00:01:22,733
+<font color="#ff8000">All the</font> good love
+
+158
+00:01:22,733 --> 00:01:22,989
+<font color="#ff8000">All the good</font> love
+
+159
+00:01:22,989 --> 00:01:23,687
+<font color="#ff8000">All the good love</font>
+
+160
+00:01:23,687 --> 00:01:24,217
+<font color="#ff8000">All the good love</font>
+
+161
+00:01:24,217 --> 00:01:24,477
+<font color="#ff8000">When</font> we're all alone
+
+162
+00:01:24,477 --> 00:01:24,733
+<font color="#ff8000">When we're</font> all alone
+
+163
+00:01:24,733 --> 00:01:24,965
+<font color="#ff8000">When we're all</font> alone
+
+164
+00:01:24,965 --> 00:01:25,279
+<font color="#ff8000">When we're all a</font>lone
+
+165
+00:01:25,279 --> 00:01:25,997
+<font color="#ff8000">When we're all alone</font>
+
+166
+00:01:25,997 --> 00:01:26,191
+<font color="#ff8000">When we're all alone</font>
+
+167
+00:01:26,191 --> 00:01:26,470
+<font color="#ff8000">Keep</font> it up girl
+
+168
+00:01:26,470 --> 00:01:26,679
+<font color="#ff8000">Keep it</font> up girl
+
+169
+00:01:26,679 --> 00:01:26,935
+<font color="#ff8000">Keep it up</font> girl
+
+170
+00:01:26,935 --> 00:01:27,760
+<font color="#ff8000">Keep it up girl</font>
+
+171
+00:01:27,760 --> 00:01:28,202
+<font color="#ff8000">Keep it up girl</font>
+
+172
+00:01:28,202 --> 00:01:28,434
+<font color="#ff8000">Yeah,</font> you turn me on
+
+173
+00:01:28,434 --> 00:01:28,690
+<font color="#ff8000">Yeah, you</font> turn me on
+
+174
+00:01:28,690 --> 00:01:29,190
+<font color="#ff8000">Yeah, you turn</font> me on
+
+175
+00:01:29,190 --> 00:01:29,701
+<font color="#ff8000">Yeah, you turn me</font> on
+
+176
+00:01:29,701 --> 00:01:30,445
+<font color="#ff8000">Yeah, you turn me on</font>
+
+177
+00:01:30,445 --> 00:01:30,900
+<font color="#ff8000">Yeah, you turn me on</font>
+
+178
+00:01:30,900 --> 00:01:33,907
+<font color="#ff8000">I'm</font>
+
+179
+00:01:33,907 --> 00:01:33,916
+<font color="#ff8000">I'm</font>
+
+180
+00:01:33,916 --> 00:01:34,208
+<font color="#ff8000">hooked</font> on a feeling
+
+181
+00:01:34,208 --> 00:01:34,452
+<font color="#ff8000">hooked on</font> a feeling
+
+182
+00:01:34,452 --> 00:01:34,708
+<font color="#ff8000">hooked on a</font> feeling
+
+183
+00:01:34,708 --> 00:01:35,243
+<font color="#ff8000">hooked on a feel</font>ing
+
+184
+00:01:35,243 --> 00:01:36,273
+<font color="#ff8000">hooked on a feeling</font>
+
+185
+00:01:36,273 --> 00:01:37,729
+<font color="#ff8000">hooked on a feeling</font>
+
+186
+00:01:37,729 --> 00:01:37,959
+<font color="#ff8000">I'm</font> high on believing
+
+187
+00:01:37,959 --> 00:01:38,191
+<font color="#ff8000">I'm high</font> on believing
+
+188
+00:01:38,191 --> 00:01:38,447
+<font color="#ff8000">I'm high on</font> believing
+
+189
+00:01:38,447 --> 00:01:38,715
+<font color="#ff8000">I'm high on be</font>lieving
+
+190
+00:01:38,715 --> 00:01:39,284
+<font color="#ff8000">I'm high on believ</font>ing
+
+191
+00:01:39,284 --> 00:01:39,958
+<font color="#ff8000">I'm high on believing</font>
+
+192
+00:01:39,958 --> 00:01:41,540
+<font color="#ff8000">I'm high on believing</font>
+
+193
+00:01:41,540 --> 00:01:41,784
+<font color="#ff8000">That</font> you're in love with me
+
+194
+00:01:41,784 --> 00:01:42,249
+<font color="#ff8000">That you're</font> in love with me
+
+195
+00:01:42,249 --> 00:01:42,748
+<font color="#ff8000">That you're in</font> love with me
+
+196
+00:01:42,748 --> 00:01:43,225
+<font color="#ff8000">That you're in love</font> with me
+
+197
+00:01:43,225 --> 00:01:43,737
+<font color="#ff8000">That you're in love with</font> me
+
+198
+00:01:43,737 --> 00:01:46,533
+<font color="#ff8000">That you're in love with me</font>
+
+199
+00:01:46,533 --> 00:01:47,004
+<font color="#ff8000">That you're in love with me</font>
+
+200
+00:01:59,652 --> 00:01:59,893
+<font color="#ff8000">All</font> the good love
+
+201
+00:01:59,893 --> 00:02:00,137
+<font color="#ff8000">All the</font> good love
+
+202
+00:02:00,137 --> 00:02:00,498
+<font color="#ff8000">All the good</font> love
+
+203
+00:02:00,498 --> 00:02:01,160
+<font color="#ff8000">All the good love</font>
+
+204
+00:02:01,160 --> 00:02:01,710
+<font color="#ff8000">All the good love</font>
+
+205
+00:02:01,710 --> 00:02:01,986
+<font color="#ff8000">When</font> we're all alone
+
+206
+00:02:01,986 --> 00:02:02,218
+<font color="#ff8000">When we're</font> all alone
+
+207
+00:02:02,218 --> 00:02:02,482
+<font color="#ff8000">When we're all</font> alone
+
+208
+00:02:02,482 --> 00:02:02,691
+<font color="#ff8000">When we're all a</font>lone
+
+209
+00:02:02,691 --> 00:02:03,691
+<font color="#ff8000">When we're all alone</font>
+
+210
+00:02:03,691 --> 00:02:04,314
+<font color="#ff8000">When we're all alone</font>
+
+211
+00:02:04,314 --> 00:02:04,421
+<font color="#ff8000">Keep</font> it up girl
+
+212
+00:02:04,421 --> 00:02:04,549
+<font color="#ff8000">Keep it</font> up girl
+
+213
+00:02:04,549 --> 00:02:04,793
+<font color="#ff8000">Keep it up</font> girl
+
+214
+00:02:04,793 --> 00:02:05,549
+<font color="#ff8000">Keep it up girl</font>
+
+215
+00:02:05,549 --> 00:02:05,883
+<font color="#ff8000">Keep it up girl</font>
+
+216
+00:02:05,883 --> 00:02:06,098
+<font color="#ff8000">Yeah,</font> you turn me on
+
+217
+00:02:06,098 --> 00:02:06,354
+<font color="#ff8000">Yeah, you</font> turn me on
+
+218
+00:02:06,354 --> 00:02:06,900
+<font color="#ff8000">Yeah, you turn</font> me on
+
+219
+00:02:06,900 --> 00:02:07,360
+<font color="#ff8000">Yeah, you turn me</font> on
+
+220
+00:02:07,360 --> 00:02:08,499
+<font color="#ff8000">Yeah, you turn me on</font>
+
+221
+00:02:08,499 --> 00:02:08,679
+<font color="#ff8000">Yeah, you turn me on</font>
+
+222
+00:02:08,679 --> 00:02:11,502
+<font color="#ff8000">I'm</font>
+
+223
+00:02:11,502 --> 00:02:11,778
+<font color="#ff8000">I'm</font>
+
+224
+00:02:11,778 --> 00:02:12,044
+<font color="#ff8000">hooked</font> on a feeling
+
+225
+00:02:12,044 --> 00:02:12,311
+<font color="#ff8000">hooked on</font> a feeling
+
+226
+00:02:12,311 --> 00:02:12,555
+<font color="#ff8000">hooked on a</font> feeling
+
+227
+00:02:12,555 --> 00:02:13,113
+<font color="#ff8000">hooked on a feel</font>ing
+
+228
+00:02:13,113 --> 00:02:13,784
+<font color="#ff8000">hooked on a feeling</font>
+
+229
+00:02:13,784 --> 00:02:15,615
+<font color="#ff8000">hooked on a feeling</font>
+
+230
+00:02:15,615 --> 00:02:15,841
+<font color="#ff8000">I'm</font> high on believing
+
+231
+00:02:15,841 --> 00:02:16,062
+<font color="#ff8000">I'm high</font> on believing
+
+232
+00:02:16,062 --> 00:02:16,330
+<font color="#ff8000">I'm high on</font> believing
+
+233
+00:02:16,330 --> 00:02:16,620
+<font color="#ff8000">I'm high on be</font>lieving
+
+234
+00:02:16,620 --> 00:02:17,155
+<font color="#ff8000">I'm high on believ</font>ing
+
+235
+00:02:17,155 --> 00:02:17,945
+<font color="#ff8000">I'm high on believing</font>
+
+236
+00:02:17,945 --> 00:02:19,392
+<font color="#ff8000">I'm high on believing</font>
+
+237
+00:02:19,392 --> 00:02:19,641
+<font color="#ff8000">That</font> you're in love with me
+
+238
+00:02:19,641 --> 00:02:20,152
+<font color="#ff8000">That you're</font> in love with me
+
+239
+00:02:20,152 --> 00:02:20,652
+<font color="#ff8000">That you're in</font> love with me
+
+240
+00:02:20,652 --> 00:02:21,129
+<font color="#ff8000">That you're in love</font> with me
+
+241
+00:02:21,129 --> 00:02:21,617
+<font color="#ff8000">That you're in love with</font> me
+
+242
+00:02:21,617 --> 00:02:23,047
+<font color="#ff8000">That you're in love with me</font>
+
+243
+00:02:23,047 --> 00:02:23,640
+<font color="#ff8000">That you're in love with me</font>
+
+244
+00:02:23,640 --> 00:02:23,854
+<font color="#ff8000">I'm</font> hooked on a feeling
+
+245
+00:02:23,854 --> 00:02:24,133
+<font color="#ff8000">I'm hooked</font> on a feeling
+
+246
+00:02:24,133 --> 00:02:24,342
+<font color="#ff8000">I'm hooked on</font> a feeling
+
+247
+00:02:24,342 --> 00:02:24,621
+<font color="#ff8000">I'm hooked on a</font> feeling
+
+248
+00:02:24,621 --> 00:02:25,019
+<font color="#ff8000">I'm hooked on a feel</font>ing
+
+249
+00:02:25,019 --> 00:02:25,877
+<font color="#ff8000">I'm hooked on a feeling</font>
+
+250
+00:02:25,877 --> 00:02:27,149
+<font color="#ff8000">I'm hooked on a feeling</font>
+
+251
+00:02:27,149 --> 00:02:27,367
+<font color="#ff8000">And</font> I'm high on believing
+
+252
+00:02:27,367 --> 00:02:27,612
+<font color="#ff8000">And I'm</font> high on believing
+
+253
+00:02:27,612 --> 00:02:28,135
+<font color="#ff8000">And I'm high</font> on believing
+
+254
+00:02:28,135 --> 00:02:28,367
+<font color="#ff8000">And I'm high on</font> believing
+
+255
+00:02:28,367 --> 00:02:28,623
+<font color="#ff8000">And I'm high on be</font>lieving
+
+256
+00:02:28,623 --> 00:02:29,042
+<font color="#ff8000">And I'm high on believ</font>ing
+
+257
+00:02:29,042 --> 00:02:29,856
+<font color="#ff8000">And I'm high on believing</font>
+
+258
+00:02:29,856 --> 00:02:31,405
+<font color="#ff8000">And I'm high on believing</font>
+
+259
+00:02:31,405 --> 00:02:31,670
+<font color="#ff8000">That</font> you're in love with me
+
+260
+00:02:31,670 --> 00:02:32,170
+<font color="#ff8000">That you're</font> in love with me
+
+261
+00:02:32,170 --> 00:02:32,646
+<font color="#ff8000">That you're in</font> love with me
+
+262
+00:02:32,646 --> 00:02:33,111
+<font color="#ff8000">That you're in love</font> with me
+
+263
+00:02:33,111 --> 00:02:33,646
+<font color="#ff8000">That you're in love with</font> me
+
+264
+00:02:33,646 --> 00:02:34,867
+<font color="#ff8000">That you're in love with me</font>
+
+265
+00:02:34,867 --> 00:02:35,161
+<font color="#ff8000">That you're in love with me</font>
+
+266
+00:02:35,161 --> 00:02:35,379
+<font color="#ff8000">I</font> said I'm hooked on a feeling
+
+267
+00:02:35,379 --> 00:02:35,635
+<font color="#ff8000">I said</font> I'm hooked on a feeling
+
+268
+00:02:35,635 --> 00:02:35,902
+<font color="#ff8000">I said I'm</font> hooked on a feeling
+
+269
+00:02:35,902 --> 00:02:36,134
+<font color="#ff8000">I said I'm hooked</font> on a feeling
+
+270
+00:02:36,134 --> 00:02:36,367
+<font color="#ff8000">I said I'm hooked on</font> a feeling
+
+271
+00:02:36,367 --> 00:02:36,623
+<font color="#ff8000">I said I'm hooked on a</font> feeling
+
+272
+00:02:36,623 --> 00:02:37,041
+<font color="#ff8000">I said I'm hooked on a feel</font>ing
+
+273
+00:02:37,041 --> 00:02:37,553
+<font color="#ff8000">I said I'm hooked on a feeling</font>
+
+274
+00:02:37,553 --> 00:02:39,136
+<font color="#ff8000">I said I'm hooked on a feeling</font>
+
+275
+00:02:39,136 --> 00:02:39,368
+<font color="#ff8000">And</font> I'm high on believing
+
+276
+00:02:39,368 --> 00:02:39,600
+<font color="#ff8000">And I'm</font> high on believing
+
+277
+00:02:39,600 --> 00:02:40,158
+<font color="#ff8000">And I'm high</font> on believing
+
+278
+00:02:40,158 --> 00:02:40,379
+<font color="#ff8000">And I'm high on</font> believing
+
+279
+00:02:40,379 --> 00:02:40,635
+<font color="#ff8000">And I'm high on be</font>lieving
+
+280
+00:02:40,635 --> 00:02:41,054
+<font color="#ff8000">And I'm high on believ</font>ing
+
+281
+00:02:41,054 --> 00:02:41,903
+<font color="#ff8000">And I'm high on believing</font>
+
+282
+00:02:41,903 --> 00:02:43,379
+<font color="#ff8000">And I'm high on believing</font>
+
+283
+00:02:43,379 --> 00:02:43,635
+<font color="#ff8000">That</font> you're in love with me
+
+284
+00:02:43,635 --> 00:02:44,123
+<font color="#ff8000">That you're</font> in love with me
+
+285
+00:02:44,123 --> 00:02:44,588
+<font color="#ff8000">That you're in</font> love with me
+
+286
+00:02:44,588 --> 00:02:45,100
+<font color="#ff8000">That you're in love</font> with me
+
+287
+00:02:45,100 --> 00:02:45,623
+<font color="#ff8000">That you're in love with</font> me
+
+288
+00:02:45,623 --> 00:02:46,809
+<font color="#ff8000">That you're in love with me</font>

@@ -65,7 +65,7 @@ def form_items(scene, strip, pieces):
     Create SubRipItems for each piece
     """
     
-    fps = scene.render.fps/scene.render.fps_base
+    fps = scene.render.fps / scene.render.fps_base
     start = strip.frame_final_start / fps
     end = strip.frame_final_end / fps
     
@@ -93,17 +93,22 @@ def form_items(scene, strip, pieces):
     
     new_pieces = list(reversed(new_pieces))
     sub_list = []
+    step = 1 / fps
+    
     for i in range(len(new_pieces)):
-        start_time = end - ((1 / fps) * (i + 1))
-        end_time = start_time + (1 / fps)
-        
+        if not i == len(new_pieces) - 1:
+            start_time = end - (step * i) - step
+            end_time = start_time + step
+        else:
+            end_time = end - (step * i)
+            start_time = start
+
         sub_item = SubRipItem()
-        
-        sub_item.start.from_millis((start_time * 1000) + 1)
-        sub_item.end.from_millis((end_time * 1000) + 1)
+        sub_item.start.from_millis(start_time * 1000)
+        sub_item.end.from_millis(end_time * 1000)
         sub_item.text = new_pieces[i]
-        
         sub_item.name = ''
+        
         if i == 0:
             sub_item.name = '[locked end]'
         if i == len(new_pieces) - 1:

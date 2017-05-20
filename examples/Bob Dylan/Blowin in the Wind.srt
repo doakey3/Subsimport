@@ -1,0 +1,1025 @@
+1
+00:00:03,167 --> 00:00:03,867
+<font color="#ff8000">How</font> many roads must a man walk down
+
+2
+00:00:03,867 --> 00:00:04,052
+<font color="#ff8000">How man</font>y roads must a man walk down
+
+3
+00:00:04,052 --> 00:00:04,436
+<font color="#ff8000">How many</font> roads must a man walk down
+
+4
+00:00:04,436 --> 00:00:05,192
+<font color="#ff8000">How many roads</font> must a man walk down
+
+5
+00:00:05,192 --> 00:00:05,541
+<font color="#ff8000">How many roads must</font> a man walk down
+
+6
+00:00:05,541 --> 00:00:05,755
+<font color="#ff8000">How many roads must a</font> man walk down
+
+7
+00:00:05,755 --> 00:00:06,483
+<font color="#ff8000">How many roads must a man</font> walk down
+
+8
+00:00:06,483 --> 00:00:06,901
+<font color="#ff8000">How many roads must a man walk</font> down
+
+9
+00:00:06,901 --> 00:00:08,251
+<font color="#ff8000">How many roads must a man walk down</font>
+
+10
+00:00:08,251 --> 00:00:08,430
+<font color="#ff8000">Be</font>fore you call him a man?
+
+11
+00:00:08,430 --> 00:00:09,551
+<font color="#ff8000">Before</font> you call him a man?
+
+12
+00:00:09,551 --> 00:00:09,795
+<font color="#ff8000">Before you</font> call him a man?
+
+13
+00:00:09,795 --> 00:00:10,597
+<font color="#ff8000">Before you call</font> him a man?
+
+14
+00:00:10,597 --> 00:00:10,723
+<font color="#ff8000">Before you call him</font> a man?
+
+15
+00:00:10,723 --> 00:00:11,050
+<font color="#ff8000">Before you call him a</font> man?
+
+16
+00:00:11,050 --> 00:00:11,708
+<font color="#ff8000">Before you call him a man?</font>
+
+17
+00:00:13,892 --> 00:00:14,599
+<font color="#ff8000">How</font> many seas must the white dove sail
+
+18
+00:00:14,599 --> 00:00:14,689
+<font color="#ff8000">How man</font>y seas must the white dove sail
+
+19
+00:00:14,689 --> 00:00:15,041
+<font color="#ff8000">How many</font> seas must the white dove sail
+
+20
+00:00:15,041 --> 00:00:15,785
+<font color="#ff8000">How many seas</font> must the white dove sail
+
+21
+00:00:15,785 --> 00:00:16,099
+<font color="#ff8000">How many seas must</font> the white dove sail
+
+22
+00:00:16,099 --> 00:00:16,291
+<font color="#ff8000">How many seas must the</font> white dove sail
+
+23
+00:00:16,291 --> 00:00:16,971
+<font color="#ff8000">How many seas must the white</font> dove sail
+
+24
+00:00:16,971 --> 00:00:17,413
+<font color="#ff8000">How many seas must the white dove</font> sail
+
+25
+00:00:17,413 --> 00:00:18,755
+<font color="#ff8000">How many seas must the white dove sail</font>
+
+26
+00:00:18,755 --> 00:00:19,005
+<font color="#ff8000">Be</font>fore she sleeps in the sand?
+
+27
+00:00:19,005 --> 00:00:20,017
+<font color="#ff8000">Before</font> she sleeps in the sand?
+
+28
+00:00:20,017 --> 00:00:20,365
+<font color="#ff8000">Before she</font> sleeps in the sand?
+
+29
+00:00:20,365 --> 00:00:21,063
+<font color="#ff8000">Before she sleeps</font> in the sand?
+
+30
+00:00:21,063 --> 00:00:21,226
+<font color="#ff8000">Before she sleeps in</font> the sand?
+
+31
+00:00:21,226 --> 00:00:21,435
+<font color="#ff8000">Before she sleeps in the</font> sand?
+
+32
+00:00:21,435 --> 00:00:22,417
+<font color="#ff8000">Before she sleeps in the sand?</font>
+
+33
+00:00:23,837 --> 00:00:24,006
+<font color="#ff8000">Yes,</font> and how many times
+must the cannon balls fly
+
+34
+00:00:24,006 --> 00:00:24,285
+<font color="#ff8000">Yes, and</font> how many times
+must the cannon balls fly
+
+35
+00:00:24,285 --> 00:00:25,180
+<font color="#ff8000">Yes, and how</font> many times
+must the cannon balls fly
+
+36
+00:00:25,180 --> 00:00:25,291
+<font color="#ff8000">Yes, and how man</font>y times
+must the cannon balls fly
+
+37
+00:00:25,291 --> 00:00:25,598
+<font color="#ff8000">Yes, and how many</font> times
+must the cannon balls fly
+
+38
+00:00:25,598 --> 00:00:26,401
+<font color="#ff8000">Yes, and how many times</font>
+must the cannon balls fly
+
+39
+00:00:26,401 --> 00:00:26,714
+<font color="#ff8000">Yes, and how many times
+must</font> the cannon balls fly
+
+40
+00:00:26,714 --> 00:00:26,924
+<font color="#ff8000">Yes, and how many times
+must the</font> cannon balls fly
+
+41
+00:00:26,924 --> 00:00:27,075
+<font color="#ff8000">Yes, and how many times
+must the can</font>non balls fly
+
+42
+00:00:27,075 --> 00:00:27,461
+<font color="#ff8000">Yes, and how many times
+must the cannon</font> balls fly
+
+43
+00:00:27,461 --> 00:00:28,075
+<font color="#ff8000">Yes, and how many times
+must the cannon balls</font> fly
+
+44
+00:00:28,075 --> 00:00:29,527
+<font color="#ff8000">Yes, and how many times
+must the cannon balls fly</font>
+
+45
+00:00:29,527 --> 00:00:29,670
+<font color="#ff8000">Be</font>fore they're forever banned?
+
+46
+00:00:29,670 --> 00:00:30,525
+<font color="#ff8000">Before</font> they're forever banned?
+
+47
+00:00:30,525 --> 00:00:31,053
+<font color="#ff8000">Before they're</font> forever banned?
+
+48
+00:00:31,053 --> 00:00:31,797
+<font color="#ff8000">Before they're for</font>ever banned?
+
+49
+00:00:31,797 --> 00:00:31,949
+<font color="#ff8000">Before they're forev</font>er banned?
+
+50
+00:00:31,949 --> 00:00:32,186
+<font color="#ff8000">Before they're forever</font> banned?
+
+51
+00:00:32,186 --> 00:00:33,542
+<font color="#ff8000">Before they're forever banned?</font>
+
+52
+00:00:34,833 --> 00:00:35,051
+<font color="#ff8000">The</font> answer, my friend,
+is blowing in the wind
+
+53
+00:00:35,051 --> 00:00:35,807
+<font color="#ff8000">The an</font>swer, my friend,
+is blowing in the wind
+
+54
+00:00:35,807 --> 00:00:36,016
+<font color="#ff8000">The answer,</font> my friend,
+is blowing in the wind
+
+55
+00:00:36,016 --> 00:00:36,341
+<font color="#ff8000">The answer, my</font> friend,
+is blowing in the wind
+
+56
+00:00:36,341 --> 00:00:37,457
+<font color="#ff8000">The answer, my friend,</font>
+is blowing in the wind
+
+57
+00:00:37,457 --> 00:00:37,853
+<font color="#ff8000">The answer, my friend,
+is</font> blowing in the wind
+
+58
+00:00:37,853 --> 00:00:38,004
+<font color="#ff8000">The answer, my friend,
+is blow</font>ing in the wind
+
+59
+00:00:38,004 --> 00:00:38,333
+<font color="#ff8000">The answer, my friend,
+is blowing</font> in the wind
+
+60
+00:00:38,333 --> 00:00:38,829
+<font color="#ff8000">The answer, my friend,
+is blowing in</font> the wind
+
+61
+00:00:38,829 --> 00:00:39,015
+<font color="#ff8000">The answer, my friend,
+is blowing in the</font> wind
+
+62
+00:00:39,015 --> 00:00:40,167
+<font color="#ff8000">The answer, my friend,
+is blowing in the wind</font>
+
+63
+00:00:40,167 --> 00:00:40,424
+<font color="#ff8000">The</font> answer is blowing in the wind
+
+64
+00:00:40,424 --> 00:00:41,226
+<font color="#ff8000">The an</font>swer is blowing in the wind
+
+65
+00:00:41,226 --> 00:00:41,390
+<font color="#ff8000">The answer</font> is blowing in the wind
+
+66
+00:00:41,390 --> 00:00:41,808
+<font color="#ff8000">The answer is</font> blowing in the wind
+
+67
+00:00:41,808 --> 00:00:41,967
+<font color="#ff8000">The answer is blow</font>ing in the wind
+
+68
+00:00:41,967 --> 00:00:42,462
+<font color="#ff8000">The answer is blowing</font> in the wind
+
+69
+00:00:42,462 --> 00:00:42,691
+<font color="#ff8000">The answer is blowing in</font> the wind
+
+70
+00:00:42,691 --> 00:00:42,865
+<font color="#ff8000">The answer is blowing in the</font> wind
+
+71
+00:00:42,865 --> 00:00:44,208
+<font color="#ff8000">The answer is blowing in the wind</font>
+
+72
+00:00:54,792 --> 00:00:54,935
+<font color="#ff8000">Yes,</font> and how many years
+can a mountain exist
+
+73
+00:00:54,935 --> 00:00:55,297
+<font color="#ff8000">Yes, and</font> how many years
+can a mountain exist
+
+74
+00:00:55,297 --> 00:00:56,192
+<font color="#ff8000">Yes, and how</font> many years
+can a mountain exist
+
+75
+00:00:56,192 --> 00:00:56,254
+<font color="#ff8000">Yes, and how man</font>y years
+can a mountain exist
+
+76
+00:00:56,254 --> 00:00:56,622
+<font color="#ff8000">Yes, and how many</font> years
+can a mountain exist
+
+77
+00:00:56,622 --> 00:00:57,525
+<font color="#ff8000">Yes, and how many years</font>
+can a mountain exist
+
+78
+00:00:57,525 --> 00:00:57,635
+<font color="#ff8000">Yes, and how many years
+can</font> a mountain exist
+
+79
+00:00:57,635 --> 00:00:57,832
+<font color="#ff8000">Yes, and how many years
+can a</font> mountain exist
+
+80
+00:00:57,832 --> 00:00:58,496
+<font color="#ff8000">Yes, and how many years
+can a moun</font>tain exist
+
+81
+00:00:58,496 --> 00:00:58,637
+<font color="#ff8000">Yes, and how many years
+can a mountain</font> exist
+
+82
+00:00:58,637 --> 00:00:58,955
+<font color="#ff8000">Yes, and how many years
+can a mountain ex</font>ist
+
+83
+00:00:58,955 --> 00:01:00,500
+<font color="#ff8000">Yes, and how many years
+can a mountain exist</font>
+
+84
+00:01:00,500 --> 00:01:00,676
+<font color="#ff8000">Be</font>fore it is washed to the sea?
+
+85
+00:01:00,676 --> 00:01:01,594
+<font color="#ff8000">Before</font> it is washed to the sea?
+
+86
+00:01:01,594 --> 00:01:01,721
+<font color="#ff8000">Before it</font> is washed to the sea?
+
+87
+00:01:01,721 --> 00:01:02,117
+<font color="#ff8000">Before it is</font> washed to the sea?
+
+88
+00:01:02,117 --> 00:01:02,873
+<font color="#ff8000">Before it is washed</font> to the sea?
+
+89
+00:01:02,873 --> 00:01:03,012
+<font color="#ff8000">Before it is washed to</font> the sea?
+
+90
+00:01:03,012 --> 00:01:03,210
+<font color="#ff8000">Before it is washed to the</font> sea?
+
+91
+00:01:03,210 --> 00:01:04,833
+<font color="#ff8000">Before it is washed to the sea?</font>
+
+92
+00:01:05,542 --> 00:01:05,733
+<font color="#ff8000">Yes,</font> and how many years
+can some people exist
+
+93
+00:01:05,733 --> 00:01:06,163
+<font color="#ff8000">Yes, and</font> how many years
+can some people exist
+
+94
+00:01:06,163 --> 00:01:06,953
+<font color="#ff8000">Yes, and how</font> many years
+can some people exist
+
+95
+00:01:06,953 --> 00:01:07,104
+<font color="#ff8000">Yes, and how man</font>y years
+can some people exist
+
+96
+00:01:07,104 --> 00:01:07,418
+<font color="#ff8000">Yes, and how many</font> years
+can some people exist
+
+97
+00:01:07,418 --> 00:01:08,302
+<font color="#ff8000">Yes, and how many years</font>
+can some people exist
+
+98
+00:01:08,302 --> 00:01:08,546
+<font color="#ff8000">Yes, and how many years
+can</font> some people exist
+
+99
+00:01:08,546 --> 00:01:08,883
+<font color="#ff8000">Yes, and how many years
+can some</font> people exist
+
+100
+00:01:08,883 --> 00:01:09,522
+<font color="#ff8000">Yes, and how many years
+can some peo</font>ple exist
+
+101
+00:01:09,522 --> 00:01:09,673
+<font color="#ff8000">Yes, and how many years
+can some people</font> exist
+
+102
+00:01:09,673 --> 00:01:09,895
+<font color="#ff8000">Yes, and how many years
+can some people ex</font>ist
+
+103
+00:01:09,895 --> 00:01:11,167
+<font color="#ff8000">Yes, and how many years
+can some people exist</font>
+
+104
+00:01:11,167 --> 00:01:11,440
+<font color="#ff8000">Be</font>fore they're allowed to be free?
+
+105
+00:01:11,440 --> 00:01:12,285
+<font color="#ff8000">Before</font> they're allowed to be free?
+
+106
+00:01:12,285 --> 00:01:12,593
+<font color="#ff8000">Before they're</font> allowed to be free?
+
+107
+00:01:12,593 --> 00:01:12,766
+<font color="#ff8000">Before they're al</font>lowed to be free?
+
+108
+00:01:12,766 --> 00:01:13,475
+<font color="#ff8000">Before they're allowed</font> to be free?
+
+109
+00:01:13,475 --> 00:01:13,684
+<font color="#ff8000">Before they're allowed to</font> be free?
+
+110
+00:01:13,684 --> 00:01:13,928
+<font color="#ff8000">Before they're allowed to be</font> free?
+
+111
+00:01:13,928 --> 00:01:15,125
+<font color="#ff8000">Before they're allowed to be free?</font>
+
+112
+00:01:16,208 --> 00:01:16,457
+<font color="#ff8000">Yes,</font> and how many times
+can a man turn his head
+
+113
+00:01:16,457 --> 00:01:16,736
+<font color="#ff8000">Yes, and</font> how many times
+can a man turn his head
+
+114
+00:01:16,736 --> 00:01:17,620
+<font color="#ff8000">Yes, and how</font> many times
+can a man turn his head
+
+115
+00:01:17,620 --> 00:01:17,737
+<font color="#ff8000">Yes, and how man</font>y times
+can a man turn his head
+
+116
+00:01:17,737 --> 00:01:17,969
+<font color="#ff8000">Yes, and how many</font> times
+can a man turn his head
+
+117
+00:01:17,969 --> 00:01:18,838
+<font color="#ff8000">Yes, and how many times</font>
+can a man turn his head
+
+118
+00:01:18,838 --> 00:01:18,978
+<font color="#ff8000">Yes, and how many times
+can</font> a man turn his head
+
+119
+00:01:18,978 --> 00:01:19,164
+<font color="#ff8000">Yes, and how many times
+can a</font> man turn his head
+
+120
+00:01:19,164 --> 00:01:20,082
+<font color="#ff8000">Yes, and how many times
+can a man</font> turn his head
+
+121
+00:01:20,082 --> 00:01:20,268
+<font color="#ff8000">Yes, and how many times
+can a man turn</font> his head
+
+122
+00:01:20,268 --> 00:01:20,605
+<font color="#ff8000">Yes, and how many times
+can a man turn his</font> head
+
+123
+00:01:20,605 --> 00:01:21,458
+<font color="#ff8000">Yes, and how many times
+can a man turn his head</font>
+
+124
+00:01:21,458 --> 00:01:21,823
+<font color="#ff8000">And</font> pretend that he just doesn't see?
+
+125
+00:01:21,823 --> 00:01:21,974
+<font color="#ff8000">And pre</font>tend that he just doesn't see?
+
+126
+00:01:21,974 --> 00:01:22,834
+<font color="#ff8000">And pretend</font> that he just doesn't see?
+
+127
+00:01:22,834 --> 00:01:22,997
+<font color="#ff8000">And pretend that</font> he just doesn't see?
+
+128
+00:01:22,997 --> 00:01:23,276
+<font color="#ff8000">And pretend that he</font> just doesn't see?
+
+129
+00:01:23,276 --> 00:01:24,090
+<font color="#ff8000">And pretend that he just</font> doesn't see?
+
+130
+00:01:24,090 --> 00:01:24,264
+<font color="#ff8000">And pretend that he just does</font>n't see?
+
+131
+00:01:24,264 --> 00:01:24,636
+<font color="#ff8000">And pretend that he just doesn't</font> see?
+
+132
+00:01:24,636 --> 00:01:26,167
+<font color="#ff8000">And pretend that he just doesn't see?</font>
+
+133
+00:01:27,125 --> 00:01:27,344
+<font color="#ff8000">The</font> answer, my friend,
+is blowing in the wind
+
+134
+00:01:27,344 --> 00:01:28,073
+<font color="#ff8000">The an</font>swer, my friend,
+is blowing in the wind
+
+135
+00:01:28,073 --> 00:01:28,354
+<font color="#ff8000">The answer,</font> my friend,
+is blowing in the wind
+
+136
+00:01:28,354 --> 00:01:28,691
+<font color="#ff8000">The answer, my</font> friend,
+is blowing in the wind
+
+137
+00:01:28,691 --> 00:01:29,854
+<font color="#ff8000">The answer, my friend,</font>
+is blowing in the wind
+
+138
+00:01:29,854 --> 00:01:30,214
+<font color="#ff8000">The answer, my friend,
+is</font> blowing in the wind
+
+139
+00:01:30,214 --> 00:01:30,400
+<font color="#ff8000">The answer, my friend,
+is blow</font>ing in the wind
+
+140
+00:01:30,400 --> 00:01:30,728
+<font color="#ff8000">The answer, my friend,
+is blowing</font> in the wind
+
+141
+00:01:30,728 --> 00:01:31,156
+<font color="#ff8000">The answer, my friend,
+is blowing in</font> the wind
+
+142
+00:01:31,156 --> 00:01:31,400
+<font color="#ff8000">The answer, my friend,
+is blowing in the</font> wind
+
+143
+00:01:31,400 --> 00:01:32,619
+<font color="#ff8000">The answer, my friend,
+is blowing in the wind</font>
+
+144
+00:01:32,619 --> 00:01:32,835
+<font color="#ff8000">The</font> answer is blowing in the wind
+
+145
+00:01:32,835 --> 00:01:33,638
+<font color="#ff8000">The an</font>swer is blowing in the wind
+
+146
+00:01:33,638 --> 00:01:33,812
+<font color="#ff8000">The answer</font> is blowing in the wind
+
+147
+00:01:33,812 --> 00:01:34,254
+<font color="#ff8000">The answer is</font> blowing in the wind
+
+148
+00:01:34,254 --> 00:01:34,440
+<font color="#ff8000">The answer is blow</font>ing in the wind
+
+149
+00:01:34,440 --> 00:01:35,021
+<font color="#ff8000">The answer is blowing</font> in the wind
+
+150
+00:01:35,021 --> 00:01:35,247
+<font color="#ff8000">The answer is blowing in</font> the wind
+
+151
+00:01:35,247 --> 00:01:35,498
+<font color="#ff8000">The answer is blowing in the</font> wind
+
+152
+00:01:35,498 --> 00:01:36,958
+<font color="#ff8000">The answer is blowing in the wind</font>
+
+153
+00:01:47,167 --> 00:01:47,465
+<font color="#ff8000">Yes,</font> and how many times
+must a man look up
+
+154
+00:01:47,465 --> 00:01:47,675
+<font color="#ff8000">Yes, and</font> how many times
+must a man look up
+
+155
+00:01:47,675 --> 00:01:48,631
+<font color="#ff8000">Yes, and how</font> many times
+must a man look up
+
+156
+00:01:48,631 --> 00:01:48,757
+<font color="#ff8000">Yes, and how man</font>y times
+must a man look up
+
+157
+00:01:48,757 --> 00:01:49,654
+<font color="#ff8000">Yes, and how many</font> times
+must a man look up
+
+158
+00:01:49,654 --> 00:01:50,528
+<font color="#ff8000">Yes, and how many times</font>
+must a man look up
+
+159
+00:01:50,528 --> 00:01:50,851
+<font color="#ff8000">Yes, and how many times
+must</font> a man look up
+
+160
+00:01:50,851 --> 00:01:51,037
+<font color="#ff8000">Yes, and how many times
+must a</font> man look up
+
+161
+00:01:51,037 --> 00:01:51,700
+<font color="#ff8000">Yes, and how many times
+must a man</font> look up
+
+162
+00:01:51,700 --> 00:01:51,886
+<font color="#ff8000">Yes, and how many times
+must a man look</font> up
+
+163
+00:01:51,886 --> 00:01:53,016
+<font color="#ff8000">Yes, and how many times
+must a man look up</font>
+
+164
+00:01:53,016 --> 00:01:53,193
+<font color="#ff8000">Be</font>fore he can see the sky?
+
+165
+00:01:53,193 --> 00:01:54,136
+<font color="#ff8000">Before</font> he can see the sky?
+
+166
+00:01:54,136 --> 00:01:54,287
+<font color="#ff8000">Before he</font> can see the sky?
+
+167
+00:01:54,287 --> 00:01:54,590
+<font color="#ff8000">Before he can</font> see the sky?
+
+168
+00:01:54,590 --> 00:01:55,721
+<font color="#ff8000">Before he can see</font> the sky?
+
+169
+00:01:55,721 --> 00:01:55,878
+<font color="#ff8000">Before he can see the</font> sky?
+
+170
+00:01:55,878 --> 00:01:57,375
+<font color="#ff8000">Before he can see the sky?</font>
+
+171
+00:01:58,179 --> 00:01:58,390
+<font color="#ff8000">Yes,</font> and how many
+ears must one man have
+
+172
+00:01:58,390 --> 00:01:58,682
+<font color="#ff8000">Yes, and</font> how many
+ears must one man have
+
+173
+00:01:58,682 --> 00:01:59,566
+<font color="#ff8000">Yes, and how</font> many
+ears must one man have
+
+174
+00:01:59,566 --> 00:01:59,729
+<font color="#ff8000">Yes, and how man</font>y
+ears must one man have
+
+175
+00:01:59,729 --> 00:01:59,915
+<font color="#ff8000">Yes, and how many</font>
+ears must one man have
+
+176
+00:01:59,915 --> 00:02:01,137
+<font color="#ff8000">Yes, and how many
+ears</font> must one man have
+
+177
+00:02:01,137 --> 00:02:01,498
+<font color="#ff8000">Yes, and how many
+ears must</font> one man have
+
+178
+00:02:01,498 --> 00:02:02,218
+<font color="#ff8000">Yes, and how many
+ears must one</font> man have
+
+179
+00:02:02,218 --> 00:02:02,730
+<font color="#ff8000">Yes, and how many
+ears must one man</font> have
+
+180
+00:02:02,730 --> 00:02:03,996
+<font color="#ff8000">Yes, and how many
+ears must one man have</font>
+
+181
+00:02:03,996 --> 00:02:04,211
+<font color="#ff8000">Be</font>fore he can hear people cry?
+
+182
+00:02:04,211 --> 00:02:05,080
+<font color="#ff8000">Before</font> he can hear people cry?
+
+183
+00:02:05,080 --> 00:02:05,232
+<font color="#ff8000">Before he</font> can hear people cry?
+
+184
+00:02:05,232 --> 00:02:05,395
+<font color="#ff8000">Before he can</font> hear people cry?
+
+185
+00:02:05,395 --> 00:02:06,336
+<font color="#ff8000">Before he can hear</font> people cry?
+
+186
+00:02:06,336 --> 00:02:06,522
+<font color="#ff8000">Before he can hear peo</font>ple cry?
+
+187
+00:02:06,522 --> 00:02:06,812
+<font color="#ff8000">Before he can hear people</font> cry?
+
+188
+00:02:06,812 --> 00:02:09,000
+<font color="#ff8000">Before he can hear people cry?</font>
+
+189
+00:02:09,000 --> 00:02:09,253
+<font color="#ff8000">Yes,</font> and how many deaths
+will it take 'til he knows
+
+190
+00:02:09,253 --> 00:02:09,521
+<font color="#ff8000">Yes, and</font> how many deaths
+will it take 'til he knows
+
+191
+00:02:09,521 --> 00:02:10,486
+<font color="#ff8000">Yes, and how</font> many deaths
+will it take 'til he knows
+
+192
+00:02:10,486 --> 00:02:10,625
+<font color="#ff8000">Yes, and how man</font>y deaths
+will it take 'til he knows
+
+193
+00:02:10,625 --> 00:02:10,893
+<font color="#ff8000">Yes, and how many</font> deaths
+will it take 'til he knows
+
+194
+00:02:10,893 --> 00:02:11,743
+<font color="#ff8000">Yes, and how many deaths</font>
+will it take 'til he knows
+
+195
+00:02:11,743 --> 00:02:11,917
+<font color="#ff8000">Yes, and how many deaths
+will</font> it take 'til he knows
+
+196
+00:02:11,917 --> 00:02:12,184
+<font color="#ff8000">Yes, and how many deaths
+will it</font> take 'til he knows
+
+197
+00:02:12,184 --> 00:02:13,102
+<font color="#ff8000">Yes, and how many deaths
+will it take</font> 'til he knows
+
+198
+00:02:13,102 --> 00:02:13,258
+<font color="#ff8000">Yes, and how many deaths
+will it take 'til</font> he knows
+
+199
+00:02:13,258 --> 00:02:13,440
+<font color="#ff8000">Yes, and how many deaths
+will it take 'til he</font> knows
+
+200
+00:02:13,440 --> 00:02:14,562
+<font color="#ff8000">Yes, and how many deaths
+will it take 'til he knows</font>
+
+201
+00:02:14,562 --> 00:02:14,893
+<font color="#ff8000">That</font> too many people have died?
+
+202
+00:02:14,893 --> 00:02:15,544
+<font color="#ff8000">That too</font> many people have died?
+
+203
+00:02:15,544 --> 00:02:15,677
+<font color="#ff8000">That too man</font>y people have died?
+
+204
+00:02:15,677 --> 00:02:16,055
+<font color="#ff8000">That too many</font> people have died?
+
+205
+00:02:16,055 --> 00:02:16,566
+<font color="#ff8000">That too many peo</font>ple have died?
+
+206
+00:02:16,566 --> 00:02:16,706
+<font color="#ff8000">That too many people</font> have died?
+
+207
+00:02:16,706 --> 00:02:16,915
+<font color="#ff8000">That too many people have</font> died?
+
+208
+00:02:16,915 --> 00:02:19,333
+<font color="#ff8000">That too many people have died?</font>
+
+209
+00:02:20,042 --> 00:02:20,293
+<font color="#ff8000">The</font> answer, my friend,
+is blowing in the wind
+
+210
+00:02:20,293 --> 00:02:21,095
+<font color="#ff8000">The an</font>swer, my friend,
+is blowing in the wind
+
+211
+00:02:21,095 --> 00:02:21,258
+<font color="#ff8000">The answer,</font> my friend,
+is blowing in the wind
+
+212
+00:02:21,258 --> 00:02:21,641
+<font color="#ff8000">The answer, my</font> friend,
+is blowing in the wind
+
+213
+00:02:21,641 --> 00:02:22,757
+<font color="#ff8000">The answer, my friend,</font>
+is blowing in the wind
+
+214
+00:02:22,757 --> 00:02:23,129
+<font color="#ff8000">The answer, my friend,
+is</font> blowing in the wind
+
+215
+00:02:23,129 --> 00:02:23,327
+<font color="#ff8000">The answer, my friend,
+is blow</font>ing in the wind
+
+216
+00:02:23,327 --> 00:02:23,680
+<font color="#ff8000">The answer, my friend,
+is blowing</font> in the wind
+
+217
+00:02:23,680 --> 00:02:24,152
+<font color="#ff8000">The answer, my friend,
+is blowing in</font> the wind
+
+218
+00:02:24,152 --> 00:02:24,338
+<font color="#ff8000">The answer, my friend,
+is blowing in the</font> wind
+
+219
+00:02:24,338 --> 00:02:25,476
+<font color="#ff8000">The answer, my friend,
+is blowing in the wind</font>
+
+220
+00:02:25,476 --> 00:02:25,768
+<font color="#ff8000">The</font> answer is blowing in the wind
+
+221
+00:02:25,768 --> 00:02:26,524
+<font color="#ff8000">The an</font>swer is blowing in the wind
+
+222
+00:02:26,524 --> 00:02:26,698
+<font color="#ff8000">The answer</font> is blowing in the wind
+
+223
+00:02:26,698 --> 00:02:27,210
+<font color="#ff8000">The answer is</font> blowing in the wind
+
+224
+00:02:27,210 --> 00:02:27,407
+<font color="#ff8000">The answer is blow</font>ing in the wind
+
+225
+00:02:27,407 --> 00:02:27,919
+<font color="#ff8000">The answer is blowing</font> in the wind
+
+226
+00:02:27,919 --> 00:02:28,244
+<font color="#ff8000">The answer is blowing in</font> the wind
+
+227
+00:02:28,244 --> 00:02:28,442
+<font color="#ff8000">The answer is blowing in the</font> wind
+
+228
+00:02:28,442 --> 00:02:30,167
+<font color="#ff8000">The answer is blowing in the wind</font>

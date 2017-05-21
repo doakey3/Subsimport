@@ -1,0 +1,1235 @@
+1
+00:00:03,167 --> 00:00:03,604
+<font color="#ff8000">Come</font> gather around people
+
+2
+00:00:03,604 --> 00:00:03,902
+<font color="#ff8000">Come gath</font>er around people
+
+3
+00:00:03,902 --> 00:00:04,044
+<font color="#ff8000">Come gather</font> around people
+
+4
+00:00:04,044 --> 00:00:04,167
+<font color="#ff8000">Come gather a</font>round people
+
+5
+00:00:04,167 --> 00:00:04,569
+<font color="#ff8000">Come gather around</font> people
+
+6
+00:00:04,569 --> 00:00:04,778
+<font color="#ff8000">Come gather around peo</font>ple
+
+7
+00:00:04,778 --> 00:00:05,421
+<font color="#ff8000">Come gather around people</font>
+
+8
+00:00:05,421 --> 00:00:05,604
+<font color="#ff8000">Wher</font>ever you roam
+
+9
+00:00:05,604 --> 00:00:05,860
+<font color="#ff8000">Wherev</font>er you roam
+
+10
+00:00:05,860 --> 00:00:06,316
+<font color="#ff8000">Wherever</font> you roam
+
+11
+00:00:06,316 --> 00:00:06,731
+<font color="#ff8000">Wherever you</font> roam
+
+12
+00:00:06,731 --> 00:00:08,323
+<font color="#ff8000">Wherever you roam</font>
+
+13
+00:00:08,323 --> 00:00:08,565
+<font color="#ff8000">And</font> admit that the waters
+
+14
+00:00:08,565 --> 00:00:08,960
+<font color="#ff8000">And ad</font>mit that the waters
+
+15
+00:00:08,960 --> 00:00:09,344
+<font color="#ff8000">And admit</font> that the waters
+
+16
+00:00:09,344 --> 00:00:09,678
+<font color="#ff8000">And admit that</font> the waters
+
+17
+00:00:09,678 --> 00:00:10,006
+<font color="#ff8000">And admit that the</font> waters
+
+18
+00:00:10,006 --> 00:00:10,320
+<font color="#ff8000">And admit that the wa</font>ters
+
+19
+00:00:10,320 --> 00:00:10,887
+<font color="#ff8000">And admit that the waters</font>
+
+20
+00:00:10,887 --> 00:00:11,077
+<font color="#ff8000">A</font>round you have grown
+
+21
+00:00:11,077 --> 00:00:11,589
+<font color="#ff8000">Around</font> you have grown
+
+22
+00:00:11,589 --> 00:00:11,798
+<font color="#ff8000">Around you</font> have grown
+
+23
+00:00:11,798 --> 00:00:12,123
+<font color="#ff8000">Around you have</font> grown
+
+24
+00:00:12,123 --> 00:00:12,711
+<font color="#ff8000">Around you have grown</font>
+
+25
+00:00:12,711 --> 00:00:12,960
+<font color="#ff8000">And</font> accept it that soon
+
+26
+00:00:12,960 --> 00:00:13,251
+<font color="#ff8000">And ac</font>cept it that soon
+
+27
+00:00:13,251 --> 00:00:13,600
+<font color="#ff8000">And accept</font> it that soon
+
+28
+00:00:13,600 --> 00:00:13,890
+<font color="#ff8000">And accept it</font> that soon
+
+29
+00:00:13,890 --> 00:00:14,216
+<font color="#ff8000">And accept it that</font> soon
+
+30
+00:00:14,216 --> 00:00:14,705
+<font color="#ff8000">And accept it that soon</font>
+
+31
+00:00:14,705 --> 00:00:15,111
+<font color="#ff8000">You'll</font> be drenched to the bone
+
+32
+00:00:15,111 --> 00:00:15,402
+<font color="#ff8000">You'll be</font> drenched to the bone
+
+33
+00:00:15,402 --> 00:00:16,122
+<font color="#ff8000">You'll be drenched</font> to the bone
+
+34
+00:00:16,122 --> 00:00:16,262
+<font color="#ff8000">You'll be drenched to</font> the bone
+
+35
+00:00:16,262 --> 00:00:16,436
+<font color="#ff8000">You'll be drenched to the</font> bone
+
+36
+00:00:16,436 --> 00:00:19,143
+<font color="#ff8000">You'll be drenched to the bone</font>
+
+37
+00:00:19,143 --> 00:00:19,290
+<font color="#ff8000">If</font> your time to you
+
+38
+00:00:19,290 --> 00:00:19,661
+<font color="#ff8000">If your</font> time to you
+
+39
+00:00:19,661 --> 00:00:20,528
+<font color="#ff8000">If your time</font> to you
+
+40
+00:00:20,528 --> 00:00:20,773
+<font color="#ff8000">If your time to</font> you
+
+41
+00:00:20,773 --> 00:00:21,110
+<font color="#ff8000">If your time to you</font>
+
+42
+00:00:21,110 --> 00:00:21,388
+<font color="#ff8000">Is</font> worth saving
+
+43
+00:00:21,388 --> 00:00:21,795
+<font color="#ff8000">Is worth</font> saving
+
+44
+00:00:21,795 --> 00:00:22,028
+<font color="#ff8000">Is worth sav</font>ing
+
+45
+00:00:22,028 --> 00:00:23,744
+<font color="#ff8000">Is worth saving</font>
+
+46
+00:00:23,744 --> 00:00:23,895
+<font color="#ff8000">Then</font> you better start swimming
+
+47
+00:00:23,895 --> 00:00:24,142
+<font color="#ff8000">Then you</font> better start swimming
+
+48
+00:00:24,142 --> 00:00:24,318
+<font color="#ff8000">Then you bet</font>ter start swimming
+
+49
+00:00:24,318 --> 00:00:24,549
+<font color="#ff8000">Then you better</font> start swimming
+
+50
+00:00:24,549 --> 00:00:24,991
+<font color="#ff8000">Then you better start</font> swimming
+
+51
+00:00:24,991 --> 00:00:25,177
+<font color="#ff8000">Then you better start swim</font>ming
+
+52
+00:00:25,177 --> 00:00:25,353
+<font color="#ff8000">Then you better start swimming</font>
+
+53
+00:00:25,353 --> 00:00:25,566
+<font color="#ff8000">Or</font> you'll sink like a stone
+
+54
+00:00:25,566 --> 00:00:25,984
+<font color="#ff8000">Or you'll</font> sink like a stone
+
+55
+00:00:25,984 --> 00:00:26,217
+<font color="#ff8000">Or you'll sink</font> like a stone
+
+56
+00:00:26,217 --> 00:00:26,442
+<font color="#ff8000">Or you'll sink like</font> a stone
+
+57
+00:00:26,442 --> 00:00:26,752
+<font color="#ff8000">Or you'll sink like a</font> stone
+
+58
+00:00:26,752 --> 00:00:27,849
+<font color="#ff8000">Or you'll sink like a stone</font>
+
+59
+00:00:27,849 --> 00:00:27,924
+<font color="#ff8000">For</font> the times they are a changing.
+
+60
+00:00:27,924 --> 00:00:28,161
+<font color="#ff8000">For the</font> times they are a changing.
+
+61
+00:00:28,161 --> 00:00:29,277
+<font color="#ff8000">For the times</font> they are a changing.
+
+62
+00:00:29,277 --> 00:00:29,524
+<font color="#ff8000">For the times they</font> are a changing.
+
+63
+00:00:29,524 --> 00:00:30,117
+<font color="#ff8000">For the times they are</font> a changing.
+
+64
+00:00:30,117 --> 00:00:30,443
+<font color="#ff8000">For the times they are a</font> changing.
+
+65
+00:00:30,443 --> 00:00:31,483
+<font color="#ff8000">For the times they are a chang</font>ing.
+
+66
+00:00:31,483 --> 00:00:33,733
+<font color="#ff8000">For the times they are a changing.</font>
+
+67
+00:00:39,661 --> 00:00:40,006
+<font color="#ff8000">Come</font> writers and critics
+
+68
+00:00:40,006 --> 00:00:40,297
+<font color="#ff8000">Come writ</font>ers and critics
+
+69
+00:00:40,297 --> 00:00:40,762
+<font color="#ff8000">Come writers</font> and critics
+
+70
+00:00:40,762 --> 00:00:41,064
+<font color="#ff8000">Come writers and</font> critics
+
+71
+00:00:41,064 --> 00:00:41,274
+<font color="#ff8000">Come writers and crit</font>ics
+
+72
+00:00:41,274 --> 00:00:41,684
+<font color="#ff8000">Come writers and critics</font>
+
+73
+00:00:41,684 --> 00:00:41,980
+<font color="#ff8000">Who</font> prophesize with your pen
+
+74
+00:00:41,980 --> 00:00:42,250
+<font color="#ff8000">Who proph</font>esize with your pen
+
+75
+00:00:42,250 --> 00:00:42,494
+<font color="#ff8000">Who prophe</font>size with your pen
+
+76
+00:00:42,494 --> 00:00:42,977
+<font color="#ff8000">Who prophesize</font> with your pen
+
+77
+00:00:42,977 --> 00:00:43,130
+<font color="#ff8000">Who prophesize with</font> your pen
+
+78
+00:00:43,130 --> 00:00:43,424
+<font color="#ff8000">Who prophesize with your</font> pen
+
+79
+00:00:43,424 --> 00:00:44,967
+<font color="#ff8000">Who prophesize with your pen</font>
+
+80
+00:00:44,967 --> 00:00:45,299
+<font color="#ff8000">And</font> keep your eyes wide
+
+81
+00:00:45,299 --> 00:00:45,566
+<font color="#ff8000">And keep</font> your eyes wide
+
+82
+00:00:45,566 --> 00:00:45,892
+<font color="#ff8000">And keep your</font> eyes wide
+
+83
+00:00:45,892 --> 00:00:46,380
+<font color="#ff8000">And keep your eyes</font> wide
+
+84
+00:00:46,380 --> 00:00:46,767
+<font color="#ff8000">And keep your eyes wide</font>
+
+85
+00:00:46,767 --> 00:00:47,019
+<font color="#ff8000">The</font> chance won't come again
+
+86
+00:00:47,019 --> 00:00:47,438
+<font color="#ff8000">The chance</font> won't come again
+
+87
+00:00:47,438 --> 00:00:47,728
+<font color="#ff8000">The chance won't</font> come again
+
+88
+00:00:47,728 --> 00:00:48,065
+<font color="#ff8000">The chance won't come</font> again
+
+89
+00:00:48,065 --> 00:00:48,321
+<font color="#ff8000">The chance won't come a</font>gain
+
+90
+00:00:48,321 --> 00:00:49,043
+<font color="#ff8000">The chance won't come again</font>
+
+91
+00:00:49,043 --> 00:00:49,356
+<font color="#ff8000">And</font> don't speak too soon
+
+92
+00:00:49,356 --> 00:00:49,681
+<font color="#ff8000">And don't</font> speak too soon
+
+93
+00:00:49,681 --> 00:00:49,972
+<font color="#ff8000">And don't speak</font> too soon
+
+94
+00:00:49,972 --> 00:00:50,297
+<font color="#ff8000">And don't speak too</font> soon
+
+95
+00:00:50,297 --> 00:00:50,787
+<font color="#ff8000">And don't speak too soon</font>
+
+96
+00:00:50,787 --> 00:00:51,020
+<font color="#ff8000">For</font> the wheel's still in spin
+
+97
+00:00:51,020 --> 00:00:51,334
+<font color="#ff8000">For the</font> wheel's still in spin
+
+98
+00:00:51,334 --> 00:00:52,020
+<font color="#ff8000">For the wheel's</font> still in spin
+
+99
+00:00:52,020 --> 00:00:52,148
+<font color="#ff8000">For the wheel's still</font> in spin
+
+100
+00:00:52,148 --> 00:00:52,415
+<font color="#ff8000">For the wheel's still in</font> spin
+
+101
+00:00:52,415 --> 00:00:54,099
+<font color="#ff8000">For the wheel's still in spin</font>
+
+102
+00:00:54,099 --> 00:00:54,247
+<font color="#ff8000">And</font> there's no telling who
+
+103
+00:00:54,247 --> 00:00:54,642
+<font color="#ff8000">And there's</font> no telling who
+
+104
+00:00:54,642 --> 00:00:54,979
+<font color="#ff8000">And there's no</font> telling who
+
+105
+00:00:54,979 --> 00:00:55,165
+<font color="#ff8000">And there's no tell</font>ing who
+
+106
+00:00:55,165 --> 00:00:55,723
+<font color="#ff8000">And there's no telling</font> who
+
+107
+00:00:55,723 --> 00:00:56,152
+<font color="#ff8000">And there's no telling who</font>
+
+108
+00:00:56,152 --> 00:00:56,368
+<font color="#ff8000">That</font> it's naming
+
+109
+00:00:56,368 --> 00:00:56,798
+<font color="#ff8000">That it's</font> naming
+
+110
+00:00:56,798 --> 00:00:56,996
+<font color="#ff8000">That it's nam</font>ing
+
+111
+00:00:56,996 --> 00:00:58,558
+<font color="#ff8000">That it's naming</font>
+
+112
+00:00:58,558 --> 00:00:58,780
+<font color="#ff8000">For</font> the loser now
+
+113
+00:00:58,780 --> 00:00:59,024
+<font color="#ff8000">For the</font> loser now
+
+114
+00:00:59,024 --> 00:00:59,291
+<font color="#ff8000">For the los</font>er now
+
+115
+00:00:59,291 --> 00:00:59,774
+<font color="#ff8000">For the loser</font> now
+
+116
+00:00:59,774 --> 00:01:00,333
+<font color="#ff8000">For the loser now</font>
+
+117
+00:01:00,333 --> 00:01:00,941
+<font color="#ff8000">Will</font> be later to win
+
+118
+00:01:00,941 --> 00:01:01,173
+<font color="#ff8000">Will be</font> later to win
+
+119
+00:01:01,173 --> 00:01:01,348
+<font color="#ff8000">Will be lat</font>er to win
+
+120
+00:01:01,348 --> 00:01:01,859
+<font color="#ff8000">Will be later</font> to win
+
+121
+00:01:01,859 --> 00:01:02,010
+<font color="#ff8000">Will be later to</font> win
+
+122
+00:01:02,010 --> 00:01:02,670
+<font color="#ff8000">Will be later to win</font>
+
+123
+00:01:02,670 --> 00:01:02,871
+<font color="#ff8000">For</font> the times they are a changing.
+
+124
+00:01:02,871 --> 00:01:03,068
+<font color="#ff8000">For the</font> times they are a changing.
+
+125
+00:01:03,068 --> 00:01:04,161
+<font color="#ff8000">For the times</font> they are a changing.
+
+126
+00:01:04,161 --> 00:01:04,312
+<font color="#ff8000">For the times they</font> are a changing.
+
+127
+00:01:04,312 --> 00:01:05,114
+<font color="#ff8000">For the times they are</font> a changing.
+
+128
+00:01:05,114 --> 00:01:05,347
+<font color="#ff8000">For the times they are a</font> changing.
+
+129
+00:01:05,347 --> 00:01:05,965
+<font color="#ff8000">For the times they are a chang</font>ing.
+
+130
+00:01:05,965 --> 00:01:08,400
+<font color="#ff8000">For the times they are a changing.</font>
+
+131
+00:01:18,400 --> 00:01:18,893
+<font color="#ff8000">Come</font> senators, congressmen
+
+132
+00:01:18,893 --> 00:01:19,056
+<font color="#ff8000">Come sen</font>ators, congressmen
+
+133
+00:01:19,056 --> 00:01:19,253
+<font color="#ff8000">Come sena</font>tors, congressmen
+
+134
+00:01:19,253 --> 00:01:19,962
+<font color="#ff8000">Come senators,</font> congressmen
+
+135
+00:01:19,962 --> 00:01:20,230
+<font color="#ff8000">Come senators, con</font>gressmen
+
+136
+00:01:20,230 --> 00:01:20,451
+<font color="#ff8000">Come senators, congress</font>men
+
+137
+00:01:20,451 --> 00:01:20,763
+<font color="#ff8000">Come senators, congressmen</font>
+
+138
+00:01:20,763 --> 00:01:21,335
+<font color="#ff8000">Please</font> heed the call
+
+139
+00:01:21,335 --> 00:01:21,508
+<font color="#ff8000">Please heed</font> the call
+
+140
+00:01:21,508 --> 00:01:21,776
+<font color="#ff8000">Please heed the</font> call
+
+141
+00:01:21,776 --> 00:01:23,563
+<font color="#ff8000">Please heed the call</font>
+
+142
+00:01:23,563 --> 00:01:24,041
+<font color="#ff8000">Don't</font> stand in the doorway
+
+143
+00:01:24,041 --> 00:01:24,402
+<font color="#ff8000">Don't stand</font> in the doorway
+
+144
+00:01:24,402 --> 00:01:24,739
+<font color="#ff8000">Don't stand in</font> the doorway
+
+145
+00:01:24,739 --> 00:01:24,994
+<font color="#ff8000">Don't stand in the</font> doorway
+
+146
+00:01:24,994 --> 00:01:25,332
+<font color="#ff8000">Don't stand in the door</font>way
+
+147
+00:01:25,332 --> 00:01:25,638
+<font color="#ff8000">Don't stand in the doorway</font>
+
+148
+00:01:25,638 --> 00:01:25,970
+<font color="#ff8000">Don't</font> block up the hall
+
+149
+00:01:25,970 --> 00:01:26,206
+<font color="#ff8000">Don't block</font> up the hall
+
+150
+00:01:26,206 --> 00:01:26,738
+<font color="#ff8000">Don't block up</font> the hall
+
+151
+00:01:26,738 --> 00:01:26,971
+<font color="#ff8000">Don't block up the</font> hall
+
+152
+00:01:26,971 --> 00:01:27,882
+<font color="#ff8000">Don't block up the hall</font>
+
+153
+00:01:27,882 --> 00:01:28,287
+<font color="#ff8000">For</font> he that gets hurt
+
+154
+00:01:28,287 --> 00:01:28,431
+<font color="#ff8000">For he</font> that gets hurt
+
+155
+00:01:28,431 --> 00:01:28,780
+<font color="#ff8000">For he that</font> gets hurt
+
+156
+00:01:28,780 --> 00:01:29,152
+<font color="#ff8000">For he that gets</font> hurt
+
+157
+00:01:29,152 --> 00:01:29,649
+<font color="#ff8000">For he that gets hurt</font>
+
+158
+00:01:29,649 --> 00:01:29,842
+<font color="#ff8000">Will</font> be he who has stalled
+
+159
+00:01:29,842 --> 00:01:30,133
+<font color="#ff8000">Will be</font> he who has stalled
+
+160
+00:01:30,133 --> 00:01:30,679
+<font color="#ff8000">Will be he</font> who has stalled
+
+161
+00:01:30,679 --> 00:01:30,865
+<font color="#ff8000">Will be he who</font> has stalled
+
+162
+00:01:30,865 --> 00:01:31,133
+<font color="#ff8000">Will be he who has</font> stalled
+
+163
+00:01:31,133 --> 00:01:32,741
+<font color="#ff8000">Will be he who has stalled</font>
+
+164
+00:01:32,741 --> 00:01:32,943
+<font color="#ff8000">There's</font> a battle outside raging
+
+165
+00:01:32,943 --> 00:01:33,292
+<font color="#ff8000">There's a</font> battle outside raging
+
+166
+00:01:33,292 --> 00:01:33,471
+<font color="#ff8000">There's a bat</font>tle outside raging
+
+167
+00:01:33,471 --> 00:01:34,426
+<font color="#ff8000">There's a battle</font> outside raging
+
+168
+00:01:34,426 --> 00:01:34,961
+<font color="#ff8000">There's a battle out</font>side raging
+
+169
+00:01:34,961 --> 00:01:35,554
+<font color="#ff8000">There's a battle outside</font> raging
+
+170
+00:01:35,554 --> 00:01:35,856
+<font color="#ff8000">There's a battle outside rag</font>ing
+
+171
+00:01:35,856 --> 00:01:36,639
+<font color="#ff8000">There's a battle outside raging</font>
+
+172
+00:01:37,066 --> 00:01:37,434
+<font color="#ff8000">will</font> soon shake your windows
+
+173
+00:01:37,434 --> 00:01:37,771
+<font color="#ff8000">will soon</font> shake your windows
+
+174
+00:01:37,771 --> 00:01:38,096
+<font color="#ff8000">will soon shake</font> your windows
+
+175
+00:01:38,096 --> 00:01:38,399
+<font color="#ff8000">will soon shake your</font> windows
+
+176
+00:01:38,399 --> 00:01:38,747
+<font color="#ff8000">will soon shake your win</font>dows
+
+177
+00:01:38,747 --> 00:01:39,267
+<font color="#ff8000">will soon shake your windows</font>
+
+178
+00:01:39,267 --> 00:01:39,550
+<font color="#ff8000">And</font> rattle your walls
+
+179
+00:01:39,550 --> 00:01:39,805
+<font color="#ff8000">And rat</font>tle your walls
+
+180
+00:01:39,805 --> 00:01:40,177
+<font color="#ff8000">And rattle</font> your walls
+
+181
+00:01:40,177 --> 00:01:40,503
+<font color="#ff8000">And rattle your</font> walls
+
+182
+00:01:40,503 --> 00:01:41,285
+<font color="#ff8000">And rattle your walls</font>
+
+183
+00:01:41,285 --> 00:01:41,442
+<font color="#ff8000">For</font> the times they are a changing.
+
+184
+00:01:41,442 --> 00:01:41,669
+<font color="#ff8000">For the</font> times they are a changing.
+
+185
+00:01:41,669 --> 00:01:42,623
+<font color="#ff8000">For the times</font> they are a changing.
+
+186
+00:01:42,623 --> 00:01:42,745
+<font color="#ff8000">For the times they</font> are a changing.
+
+187
+00:01:42,745 --> 00:01:43,561
+<font color="#ff8000">For the times they are</font> a changing.
+
+188
+00:01:43,561 --> 00:01:43,662
+<font color="#ff8000">For the times they are a</font> changing.
+
+189
+00:01:43,662 --> 00:01:44,344
+<font color="#ff8000">For the times they are a chang</font>ing.
+
+190
+00:01:44,344 --> 00:01:46,733
+<font color="#ff8000">For the times they are a changing.</font>
+
+191
+00:01:51,742 --> 00:01:52,079
+<font color="#ff8000">Come</font> mothers and fathers
+
+192
+00:01:52,079 --> 00:01:52,276
+<font color="#ff8000">Come moth</font>ers and fathers
+
+193
+00:01:52,276 --> 00:01:52,858
+<font color="#ff8000">Come mothers</font> and fathers
+
+194
+00:01:52,858 --> 00:01:53,090
+<font color="#ff8000">Come mothers and</font> fathers
+
+195
+00:01:53,090 --> 00:01:53,334
+<font color="#ff8000">Come mothers and fa</font>thers
+
+196
+00:01:53,334 --> 00:01:54,008
+<font color="#ff8000">Come mothers and fathers</font>
+
+197
+00:01:54,008 --> 00:01:54,273
+<font color="#ff8000">Through</font>out the land
+
+198
+00:01:54,273 --> 00:01:54,786
+<font color="#ff8000">Throughout</font> the land
+
+199
+00:01:54,786 --> 00:01:54,972
+<font color="#ff8000">Throughout the</font> land
+
+200
+00:01:54,972 --> 00:01:56,777
+<font color="#ff8000">Throughout the land</font>
+
+201
+00:01:56,777 --> 00:01:57,135
+<font color="#ff8000">And</font> don't criticize
+
+202
+00:01:57,135 --> 00:01:57,704
+<font color="#ff8000">And don't</font> criticize
+
+203
+00:01:57,704 --> 00:01:57,890
+<font color="#ff8000">And don't crit</font>icize
+
+204
+00:01:57,890 --> 00:01:58,182
+<font color="#ff8000">And don't criti</font>cize
+
+205
+00:01:58,182 --> 00:01:58,707
+<font color="#ff8000">And don't criticize</font>
+
+206
+00:01:58,707 --> 00:01:58,945
+<font color="#ff8000">What</font> you can't understand
+
+207
+00:01:58,945 --> 00:01:59,270
+<font color="#ff8000">What you</font> can't understand
+
+208
+00:01:59,270 --> 00:01:59,607
+<font color="#ff8000">What you can't</font> understand
+
+209
+00:01:59,607 --> 00:01:59,852
+<font color="#ff8000">What you can't un</font>derstand
+
+210
+00:01:59,852 --> 00:02:00,165
+<font color="#ff8000">What you can't under</font>stand
+
+211
+00:02:00,165 --> 00:02:01,100
+<font color="#ff8000">What you can't understand</font>
+
+212
+00:02:01,100 --> 00:02:01,398
+<font color="#ff8000">Your</font> sons and your daughters
+
+213
+00:02:01,398 --> 00:02:01,746
+<font color="#ff8000">Your sons</font> and your daughters
+
+214
+00:02:01,746 --> 00:02:02,049
+<font color="#ff8000">Your sons and</font> your daughters
+
+215
+00:02:02,049 --> 00:02:02,363
+<font color="#ff8000">Your sons and your</font> daughters
+
+216
+00:02:02,363 --> 00:02:02,525
+<font color="#ff8000">Your sons and your daugh</font>ters
+
+217
+00:02:02,525 --> 00:02:03,133
+<font color="#ff8000">Your sons and your daughters</font>
+
+218
+00:02:03,133 --> 00:02:03,303
+<font color="#ff8000">Are</font> beyond your command
+
+219
+00:02:03,303 --> 00:02:03,423
+<font color="#ff8000">Are be</font>yond your command
+
+220
+00:02:03,423 --> 00:02:03,956
+<font color="#ff8000">Are beyond</font> your command
+
+221
+00:02:03,956 --> 00:02:04,165
+<font color="#ff8000">Are beyond your</font> command
+
+222
+00:02:04,165 --> 00:02:04,340
+<font color="#ff8000">Are beyond your com</font>mand
+
+223
+00:02:04,340 --> 00:02:05,876
+<font color="#ff8000">Are beyond your command</font>
+
+224
+00:02:05,876 --> 00:02:06,395
+<font color="#ff8000">Your</font> old road is
+
+225
+00:02:06,395 --> 00:02:06,720
+<font color="#ff8000">Your old</font> road is
+
+226
+00:02:06,720 --> 00:02:07,267
+<font color="#ff8000">Your old road</font> is
+
+227
+00:02:07,267 --> 00:02:07,411
+<font color="#ff8000">Your old road is</font>
+
+228
+00:02:07,411 --> 00:02:07,841
+<font color="#ff8000">Rap</font>idly aging
+
+229
+00:02:07,841 --> 00:02:08,104
+<font color="#ff8000">Rapid</font>ly aging
+
+230
+00:02:08,104 --> 00:02:08,653
+<font color="#ff8000">Rapidly</font> aging
+
+231
+00:02:08,653 --> 00:02:09,045
+<font color="#ff8000">Rapidly ag</font>ing
+
+232
+00:02:09,045 --> 00:02:10,229
+<font color="#ff8000">Rapidly aging</font>
+
+233
+00:02:10,229 --> 00:02:10,731
+<font color="#ff8000">Please</font> get out of the new one
+
+234
+00:02:10,731 --> 00:02:10,916
+<font color="#ff8000">Please get</font> out of the new one
+
+235
+00:02:10,916 --> 00:02:11,172
+<font color="#ff8000">Please get out</font> of the new one
+
+236
+00:02:11,172 --> 00:02:11,393
+<font color="#ff8000">Please get out of</font> the new one
+
+237
+00:02:11,393 --> 00:02:11,604
+<font color="#ff8000">Please get out of the</font> new one
+
+238
+00:02:11,604 --> 00:02:11,870
+<font color="#ff8000">Please get out of the new</font> one
+
+239
+00:02:11,870 --> 00:02:12,136
+<font color="#ff8000">Please get out of the new one</font>
+
+240
+00:02:12,136 --> 00:02:12,392
+<font color="#ff8000">If</font> you can't lend your hand
+
+241
+00:02:12,392 --> 00:02:12,590
+<font color="#ff8000">If you</font> can't lend your hand
+
+242
+00:02:12,590 --> 00:02:12,973
+<font color="#ff8000">If you can't</font> lend your hand
+
+243
+00:02:12,973 --> 00:02:13,334
+<font color="#ff8000">If you can't lend</font> your hand
+
+244
+00:02:13,334 --> 00:02:13,624
+<font color="#ff8000">If you can't lend your</font> hand
+
+245
+00:02:13,624 --> 00:02:14,459
+<font color="#ff8000">If you can't lend your hand</font>
+
+246
+00:02:14,459 --> 00:02:14,659
+<font color="#ff8000">For</font> the times they are a changing.
+
+247
+00:02:14,659 --> 00:02:14,868
+<font color="#ff8000">For the</font> times they are a changing.
+
+248
+00:02:14,868 --> 00:02:15,763
+<font color="#ff8000">For the times</font> they are a changing.
+
+249
+00:02:15,763 --> 00:02:16,066
+<font color="#ff8000">For the times they</font> are a changing.
+
+250
+00:02:16,066 --> 00:02:16,717
+<font color="#ff8000">For the times they are</font> a changing.
+
+251
+00:02:16,717 --> 00:02:16,996
+<font color="#ff8000">For the times they are a</font> changing.
+
+252
+00:02:16,996 --> 00:02:18,007
+<font color="#ff8000">For the times they are a chang</font>ing.
+
+253
+00:02:18,007 --> 00:02:20,533
+<font color="#ff8000">For the times they are a changing.</font>
+
+254
+00:02:36,200 --> 00:02:36,414
+<font color="#ff8000">The</font> line it is drawn
+
+255
+00:02:36,414 --> 00:02:36,992
+<font color="#ff8000">The line</font> it is drawn
+
+256
+00:02:36,992 --> 00:02:37,134
+<font color="#ff8000">The line it</font> is drawn
+
+257
+00:02:37,134 --> 00:02:37,503
+<font color="#ff8000">The line it is</font> drawn
+
+258
+00:02:37,503 --> 00:02:38,284
+<font color="#ff8000">The line it is drawn</font>
+
+259
+00:02:38,284 --> 00:02:38,473
+<font color="#ff8000">The</font> curse it is cast
+
+260
+00:02:38,473 --> 00:02:38,958
+<font color="#ff8000">The curse</font> it is cast
+
+261
+00:02:38,958 --> 00:02:39,022
+<font color="#ff8000">The curse it</font> is cast
+
+262
+00:02:39,022 --> 00:02:39,427
+<font color="#ff8000">The curse it is</font> cast
+
+263
+00:02:39,427 --> 00:02:41,333
+<font color="#ff8000">The curse it is cast</font>
+
+264
+00:02:41,333 --> 00:02:41,637
+<font color="#ff8000">The</font> slow one now
+
+265
+00:02:41,637 --> 00:02:42,000
+<font color="#ff8000">The slow</font> one now
+
+266
+00:02:42,000 --> 00:02:42,625
+<font color="#ff8000">The slow one</font> now
+
+267
+00:02:42,625 --> 00:02:43,333
+<font color="#ff8000">The slow one now</font>
+
+268
+00:02:43,333 --> 00:02:43,837
+<font color="#ff8000">Will</font> later be fast
+
+269
+00:02:43,837 --> 00:02:44,035
+<font color="#ff8000">Will lat</font>er be fast
+
+270
+00:02:44,035 --> 00:02:44,303
+<font color="#ff8000">Will later</font> be fast
+
+271
+00:02:44,303 --> 00:02:44,651
+<font color="#ff8000">Will later be</font> fast
+
+272
+00:02:44,651 --> 00:02:45,294
+<font color="#ff8000">Will later be fast</font>
+
+273
+00:02:45,294 --> 00:02:45,629
+<font color="#ff8000">As</font> the present now
+
+274
+00:02:45,629 --> 00:02:45,908
+<font color="#ff8000">As the</font> present now
+
+275
+00:02:45,908 --> 00:02:46,129
+<font color="#ff8000">As the pres</font>ent now
+
+276
+00:02:46,129 --> 00:02:46,547
+<font color="#ff8000">As the present</font> now
+
+277
+00:02:46,547 --> 00:02:47,491
+<font color="#ff8000">As the present now</font>
+
+278
+00:02:47,491 --> 00:02:47,849
+<font color="#ff8000">Will</font> later be past
+
+279
+00:02:47,849 --> 00:02:48,047
+<font color="#ff8000">Will lat</font>er be past
+
+280
+00:02:48,047 --> 00:02:48,430
+<font color="#ff8000">Will later</font> be past
+
+281
+00:02:48,430 --> 00:02:48,686
+<font color="#ff8000">Will later be</font> past
+
+282
+00:02:48,686 --> 00:02:50,444
+<font color="#ff8000">Will later be past</font>
+
+283
+00:02:50,444 --> 00:02:50,852
+<font color="#ff8000">The</font> order is rapidly fading.
+
+284
+00:02:50,852 --> 00:02:51,150
+<font color="#ff8000">The or</font>der is rapidly fading.
+
+285
+00:02:51,150 --> 00:02:51,467
+<font color="#ff8000">The order</font> is rapidly fading.
+
+286
+00:02:51,467 --> 00:02:51,949
+<font color="#ff8000">The order is</font> rapidly fading.
+
+287
+00:02:51,949 --> 00:02:52,170
+<font color="#ff8000">The order is rap</font>idly fading.
+
+288
+00:02:52,170 --> 00:02:52,414
+<font color="#ff8000">The order is rapid</font>ly fading.
+
+289
+00:02:52,414 --> 00:02:53,007
+<font color="#ff8000">The order is rapidly</font> fading.
+
+290
+00:02:53,007 --> 00:02:53,286
+<font color="#ff8000">The order is rapidly fad</font>ing.
+
+291
+00:02:53,286 --> 00:02:54,168
+<font color="#ff8000">The order is rapidly fading.</font>
+
+292
+00:02:54,563 --> 00:02:54,811
+<font color="#ff8000">And</font> the first one now
+
+293
+00:02:54,811 --> 00:02:55,195
+<font color="#ff8000">And the</font> first one now
+
+294
+00:02:55,195 --> 00:02:55,578
+<font color="#ff8000">And the first</font> one now
+
+295
+00:02:55,578 --> 00:02:56,078
+<font color="#ff8000">And the first one</font> now
+
+296
+00:02:56,078 --> 00:02:56,644
+<font color="#ff8000">And the first one now</font>
+
+297
+00:02:56,644 --> 00:02:57,055
+<font color="#ff8000">Will</font> later be last
+
+298
+00:02:57,055 --> 00:02:57,276
+<font color="#ff8000">Will lat</font>er be last
+
+299
+00:02:57,276 --> 00:02:57,578
+<font color="#ff8000">Will later</font> be last
+
+300
+00:02:57,578 --> 00:02:57,868
+<font color="#ff8000">Will later be</font> last
+
+301
+00:02:57,868 --> 00:02:58,700
+<font color="#ff8000">Will later be last</font>
+
+302
+00:02:58,700 --> 00:02:58,848
+<font color="#ff8000">For</font> the times they are a changing.
+
+303
+00:02:58,848 --> 00:02:59,127
+<font color="#ff8000">For the</font> times they are a changing.
+
+304
+00:02:59,127 --> 00:03:00,191
+<font color="#ff8000">For the times</font> they are a changing.
+
+305
+00:03:00,191 --> 00:03:00,388
+<font color="#ff8000">For the times they</font> are a changing.
+
+306
+00:03:00,388 --> 00:03:01,151
+<font color="#ff8000">For the times they are</font> a changing.
+
+307
+00:03:01,151 --> 00:03:01,400
+<font color="#ff8000">For the times they are a</font> changing.
+
+308
+00:03:01,400 --> 00:03:02,388
+<font color="#ff8000">For the times they are a chang</font>ing.
+
+309
+00:03:02,388 --> 00:03:05,700
+<font color="#ff8000">For the times they are a changing.</font>

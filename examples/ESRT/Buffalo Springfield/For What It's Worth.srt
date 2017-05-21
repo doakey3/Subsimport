@@ -1,0 +1,1202 @@
+1
+00:00:10,425 --> 00:00:10,680
+<font color="#ff8000">There's</font> something
+happening here
+
+2
+00:00:10,680 --> 00:00:11,006
+<font color="#ff8000">There's some</font>thing
+happening here
+
+3
+00:00:11,006 --> 00:00:11,354
+<font color="#ff8000">There's something</font>
+happening here
+
+4
+00:00:11,354 --> 00:00:11,645
+<font color="#ff8000">There's something
+hap</font>pening here
+
+5
+00:00:11,645 --> 00:00:11,947
+<font color="#ff8000">There's something
+happen</font>ing here
+
+6
+00:00:11,947 --> 00:00:12,250
+<font color="#ff8000">There's something
+happening</font> here
+
+7
+00:00:12,250 --> 00:00:13,533
+<font color="#ff8000">There's something
+happening here</font>
+
+8
+00:00:14,292 --> 00:00:14,420
+<font color="#ff8000">Uh</font> what it is ain't exactly clear
+
+9
+00:00:14,420 --> 00:00:14,491
+<font color="#ff8000">Uh what</font> it is ain't exactly clear
+
+10
+00:00:14,491 --> 00:00:14,986
+<font color="#ff8000">Uh what it</font> is ain't exactly clear
+
+11
+00:00:14,986 --> 00:00:15,614
+<font color="#ff8000">Uh what it is</font> ain't exactly clear
+
+12
+00:00:15,614 --> 00:00:15,904
+<font color="#ff8000">Uh what it is ain't</font> exactly clear
+
+13
+00:00:15,904 --> 00:00:16,218
+<font color="#ff8000">Uh what it is ain't ex</font>actly clear
+
+14
+00:00:16,218 --> 00:00:16,509
+<font color="#ff8000">Uh what it is ain't exact</font>ly clear
+
+15
+00:00:16,509 --> 00:00:17,102
+<font color="#ff8000">Uh what it is ain't exactly</font> clear
+
+16
+00:00:17,102 --> 00:00:18,275
+<font color="#ff8000">Uh what it is ain't exactly clear</font>
+
+17
+00:00:19,292 --> 00:00:19,563
+<font color="#ff8000">There's</font> a man with
+a gun over there
+
+18
+00:00:19,563 --> 00:00:19,877
+<font color="#ff8000">There's a</font> man with
+a gun over there
+
+19
+00:00:19,877 --> 00:00:20,481
+<font color="#ff8000">There's a man</font> with
+a gun over there
+
+20
+00:00:20,481 --> 00:00:20,748
+<font color="#ff8000">There's a man with</font>
+a gun over there
+
+21
+00:00:20,748 --> 00:00:21,062
+<font color="#ff8000">There's a man with
+a</font> gun over there
+
+22
+00:00:21,062 --> 00:00:21,353
+<font color="#ff8000">There's a man with
+a gun</font> over there
+
+23
+00:00:21,353 --> 00:00:21,667
+<font color="#ff8000">There's a man with
+a gun ov</font>er there
+
+24
+00:00:21,667 --> 00:00:21,992
+<font color="#ff8000">There's a man with
+a gun over</font> there
+
+25
+00:00:21,992 --> 00:00:23,192
+<font color="#ff8000">There's a man with
+a gun over there</font>
+
+26
+00:00:23,967 --> 00:00:24,173
+<font color="#ff8000">Uh</font> telling me I got to beware
+
+27
+00:00:24,173 --> 00:00:24,312
+<font color="#ff8000">Uh tell</font>ing me I got to beware
+
+28
+00:00:24,312 --> 00:00:24,754
+<font color="#ff8000">Uh telling</font> me I got to beware
+
+29
+00:00:24,754 --> 00:00:25,649
+<font color="#ff8000">Uh telling me</font> I got to beware
+
+30
+00:00:25,649 --> 00:00:25,975
+<font color="#ff8000">Uh telling me I</font> got to beware
+
+31
+00:00:25,975 --> 00:00:26,265
+<font color="#ff8000">Uh telling me I got</font> to beware
+
+32
+00:00:26,265 --> 00:00:26,533
+<font color="#ff8000">Uh telling me I got to</font> beware
+
+33
+00:00:26,533 --> 00:00:26,847
+<font color="#ff8000">Uh telling me I got to be</font>ware
+
+34
+00:00:26,847 --> 00:00:27,883
+<font color="#ff8000">Uh telling me I got to beware</font>
+
+35
+00:00:28,583 --> 00:00:28,674
+<font color="#ff8000">I</font> think it's time we stop,
+children, what's that sound
+
+36
+00:00:28,674 --> 00:00:28,806
+<font color="#ff8000">I think</font> it's time we stop,
+children, what's that sound
+
+37
+00:00:28,806 --> 00:00:28,986
+<font color="#ff8000">I think it's</font> time we stop,
+children, what's that sound
+
+38
+00:00:28,986 --> 00:00:29,284
+<font color="#ff8000">I think it's time</font> we stop,
+children, what's that sound
+
+39
+00:00:29,284 --> 00:00:29,598
+<font color="#ff8000">I think it's time we</font> stop,
+children, what's that sound
+
+40
+00:00:29,598 --> 00:00:30,156
+<font color="#ff8000">I think it's time we stop,</font>
+children, what's that sound
+
+41
+00:00:30,156 --> 00:00:30,493
+<font color="#ff8000">I think it's time we stop,
+chil</font>dren, what's that sound
+
+42
+00:00:30,493 --> 00:00:30,784
+<font color="#ff8000">I think it's time we stop,
+children,</font> what's that sound
+
+43
+00:00:30,784 --> 00:00:31,086
+<font color="#ff8000">I think it's time we stop,
+children, what's</font> that sound
+
+44
+00:00:31,086 --> 00:00:31,411
+<font color="#ff8000">I think it's time we stop,
+children, what's that</font> sound
+
+45
+00:00:31,411 --> 00:00:32,058
+<font color="#ff8000">I think it's time we stop,
+children, what's that sound</font>
+
+46
+00:00:32,058 --> 00:00:32,190
+<font color="#ff8000">Eve</font>rybody look
+what's going down
+
+47
+00:00:32,190 --> 00:00:32,283
+<font color="#ff8000">Every</font>body look
+what's going down
+
+48
+00:00:32,283 --> 00:00:32,423
+<font color="#ff8000">Everybod</font>y look
+what's going down
+
+49
+00:00:32,423 --> 00:00:32,655
+<font color="#ff8000">Everybody</font> look
+what's going down
+
+50
+00:00:32,655 --> 00:00:32,934
+<font color="#ff8000">Everybody look</font>
+what's going down
+
+51
+00:00:32,934 --> 00:00:33,260
+<font color="#ff8000">Everybody look
+what's</font> going down
+
+52
+00:00:33,260 --> 00:00:33,516
+<font color="#ff8000">Everybody look
+what's go</font>ing down
+
+53
+00:00:33,516 --> 00:00:33,818
+<font color="#ff8000">Everybody look
+what's going</font> down
+
+54
+00:00:33,818 --> 00:00:36,292
+<font color="#ff8000">Everybody look
+what's going down</font>
+
+55
+00:00:44,483 --> 00:00:44,781
+<font color="#ff8000">There's</font> battle
+lines being drawn
+
+56
+00:00:44,781 --> 00:00:45,177
+<font color="#ff8000">There's bat</font>tle
+lines being drawn
+
+57
+00:00:45,177 --> 00:00:45,397
+<font color="#ff8000">There's battle</font>
+lines being drawn
+
+58
+00:00:45,397 --> 00:00:46,014
+<font color="#ff8000">There's battle
+lines</font> being drawn
+
+59
+00:00:46,014 --> 00:00:46,281
+<font color="#ff8000">There's battle
+lines be</font>ing drawn
+
+60
+00:00:46,281 --> 00:00:46,595
+<font color="#ff8000">There's battle
+lines being</font> drawn
+
+61
+00:00:46,595 --> 00:00:48,275
+<font color="#ff8000">There's battle
+lines being drawn</font>
+
+62
+00:00:48,275 --> 00:00:48,417
+<font color="#ff8000">And</font> nobody's right if
+everybody's wrong
+
+63
+00:00:48,417 --> 00:00:48,596
+<font color="#ff8000">And no</font>body's right if
+everybody's wrong
+
+64
+00:00:48,596 --> 00:00:48,840
+<font color="#ff8000">And nobod</font>y's right if
+everybody's wrong
+
+65
+00:00:48,840 --> 00:00:49,015
+<font color="#ff8000">And nobody's</font> right if
+everybody's wrong
+
+66
+00:00:49,015 --> 00:00:49,980
+<font color="#ff8000">And nobody's right</font> if
+everybody's wrong
+
+67
+00:00:49,980 --> 00:00:50,259
+<font color="#ff8000">And nobody's right if</font>
+everybody's wrong
+
+68
+00:00:50,259 --> 00:00:50,538
+<font color="#ff8000">And nobody's right if
+eve</font>rybody's wrong
+
+69
+00:00:50,538 --> 00:00:50,851
+<font color="#ff8000">And nobody's right if
+every</font>body's wrong
+
+70
+00:00:50,851 --> 00:00:51,162
+<font color="#ff8000">And nobody's right if
+everybod</font>y's wrong
+
+71
+00:00:51,162 --> 00:00:51,542
+<font color="#ff8000">And nobody's right if
+everybody's</font> wrong
+
+72
+00:00:51,542 --> 00:00:52,867
+<font color="#ff8000">And nobody's right if
+everybody's wrong</font>
+
+73
+00:00:54,200 --> 00:00:54,562
+<font color="#ff8000">Young</font> people speaking
+their minds
+
+74
+00:00:54,562 --> 00:00:54,841
+<font color="#ff8000">Young peo</font>ple speaking
+their minds
+
+75
+00:00:54,841 --> 00:00:55,178
+<font color="#ff8000">Young people</font> speaking
+their minds
+
+76
+00:00:55,178 --> 00:00:55,469
+<font color="#ff8000">Young people speak</font>ing
+their minds
+
+77
+00:00:55,469 --> 00:00:55,771
+<font color="#ff8000">Young people speaking</font>
+their minds
+
+78
+00:00:55,771 --> 00:00:56,120
+<font color="#ff8000">Young people speaking
+their</font> minds
+
+79
+00:00:56,120 --> 00:00:58,116
+<font color="#ff8000">Young people speaking
+their minds</font>
+
+80
+00:00:58,116 --> 00:00:58,198
+<font color="#ff8000">Are</font> getting so much
+resistance from behind
+
+81
+00:00:58,198 --> 00:00:58,285
+<font color="#ff8000">Are get</font>ting so much
+resistance from behind
+
+82
+00:00:58,285 --> 00:00:58,736
+<font color="#ff8000">Are getting</font> so much
+resistance from behind
+
+83
+00:00:58,736 --> 00:00:59,352
+<font color="#ff8000">Are getting so</font> much
+resistance from behind
+
+84
+00:00:59,352 --> 00:00:59,642
+<font color="#ff8000">Are getting so much</font>
+resistance from behind
+
+85
+00:00:59,642 --> 00:00:59,966
+<font color="#ff8000">Are getting so much
+re</font>sistance from behind
+
+86
+00:00:59,966 --> 00:01:00,258
+<font color="#ff8000">Are getting so much
+resist</font>ance from behind
+
+87
+00:01:00,258 --> 00:01:01,191
+<font color="#ff8000">Are getting so much
+resistance</font> from behind
+
+88
+00:01:01,191 --> 00:01:01,830
+<font color="#ff8000">Are getting so much
+resistance from</font> behind
+
+89
+00:01:01,830 --> 00:01:02,376
+<font color="#ff8000">Are getting so much
+resistance from be</font>hind
+
+90
+00:01:02,376 --> 00:01:02,867
+<font color="#ff8000">Are getting so much
+resistance from behind</font>
+
+91
+00:01:02,867 --> 00:01:02,987
+<font color="#ff8000">It's</font> time we stop,
+hey, what's that sound
+
+92
+00:01:02,987 --> 00:01:03,207
+<font color="#ff8000">It's time</font> we stop,
+hey, what's that sound
+
+93
+00:01:03,207 --> 00:01:03,498
+<font color="#ff8000">It's time we</font> stop,
+hey, what's that sound
+
+94
+00:01:03,498 --> 00:01:04,102
+<font color="#ff8000">It's time we stop,</font>
+hey, what's that sound
+
+95
+00:01:04,102 --> 00:01:04,730
+<font color="#ff8000">It's time we stop,
+hey,</font> what's that sound
+
+96
+00:01:04,730 --> 00:01:05,021
+<font color="#ff8000">It's time we stop,
+hey, what's</font> that sound
+
+97
+00:01:05,021 --> 00:01:05,346
+<font color="#ff8000">It's time we stop,
+hey, what's that</font> sound
+
+98
+00:01:05,346 --> 00:01:05,858
+<font color="#ff8000">It's time we stop,
+hey, what's that sound</font>
+
+99
+00:01:05,858 --> 00:01:06,079
+<font color="#ff8000">Eve</font>rybody look
+what's going down
+
+100
+00:01:06,079 --> 00:01:06,241
+<font color="#ff8000">Every</font>body look
+what's going down
+
+101
+00:01:06,241 --> 00:01:06,381
+<font color="#ff8000">Everybod</font>y look
+what's going down
+
+102
+00:01:06,381 --> 00:01:06,567
+<font color="#ff8000">Everybody</font> look
+what's going down
+
+103
+00:01:06,567 --> 00:01:06,823
+<font color="#ff8000">Everybody look</font>
+what's going down
+
+104
+00:01:06,823 --> 00:01:07,125
+<font color="#ff8000">Everybody look
+what's</font> going down
+
+105
+00:01:07,125 --> 00:01:07,388
+<font color="#ff8000">Everybody look
+what's go</font>ing down
+
+106
+00:01:07,388 --> 00:01:07,713
+<font color="#ff8000">Everybody look
+what's going</font> down
+
+107
+00:01:07,713 --> 00:01:10,667
+<font color="#ff8000">Everybody look
+what's going down</font>
+
+108
+00:01:18,650 --> 00:01:19,128
+<font color="#ff8000">What</font> a field-day for the heat
+
+109
+00:01:19,128 --> 00:01:19,236
+<font color="#ff8000">What a</font> field-day for the heat
+
+110
+00:01:19,236 --> 00:01:19,565
+<font color="#ff8000">What a field</font>-day for the heat
+
+111
+00:01:19,565 --> 00:01:19,880
+<font color="#ff8000">What a field-day</font> for the heat
+
+112
+00:01:19,880 --> 00:01:20,379
+<font color="#ff8000">What a field-day for</font> the heat
+
+113
+00:01:20,379 --> 00:01:20,519
+<font color="#ff8000">What a field-day for the</font> heat
+
+114
+00:01:20,519 --> 00:01:21,675
+<font color="#ff8000">What a field-day for the heat</font>
+
+115
+00:01:22,650 --> 00:01:22,874
+<font color="#ff8000">A</font> thousand people
+in the street
+
+116
+00:01:22,874 --> 00:01:23,444
+<font color="#ff8000">A thou</font>sand people
+in the street
+
+117
+00:01:23,444 --> 00:01:24,153
+<font color="#ff8000">A thousand</font> people
+in the street
+
+118
+00:01:24,153 --> 00:01:24,432
+<font color="#ff8000">A thousand peo</font>ple
+in the street
+
+119
+00:01:24,432 --> 00:01:24,758
+<font color="#ff8000">A thousand people</font>
+in the street
+
+120
+00:01:24,758 --> 00:01:25,013
+<font color="#ff8000">A thousand people
+in</font> the street
+
+121
+00:01:25,013 --> 00:01:25,327
+<font color="#ff8000">A thousand people
+in the</font> street
+
+122
+00:01:25,327 --> 00:01:26,575
+<font color="#ff8000">A thousand people
+in the street</font>
+
+123
+00:01:27,225 --> 00:01:27,330
+<font color="#ff8000">Sing</font>ing songs and
+they're carrying signs
+
+124
+00:01:27,330 --> 00:01:27,795
+<font color="#ff8000">Singing</font> songs and
+they're carrying signs
+
+125
+00:01:27,795 --> 00:01:28,691
+<font color="#ff8000">Singing songs</font> and
+they're carrying signs
+
+126
+00:01:28,691 --> 00:01:28,865
+<font color="#ff8000">Singing songs and</font>
+they're carrying signs
+
+127
+00:01:28,865 --> 00:01:29,039
+<font color="#ff8000">Singing songs and
+they're</font> carrying signs
+
+128
+00:01:29,039 --> 00:01:29,307
+<font color="#ff8000">Singing songs and
+they're car</font>rying signs
+
+129
+00:01:29,307 --> 00:01:29,597
+<font color="#ff8000">Singing songs and
+they're carry</font>ing signs
+
+130
+00:01:29,597 --> 00:01:29,923
+<font color="#ff8000">Singing songs and
+they're carrying</font> signs
+
+131
+00:01:29,923 --> 00:01:30,950
+<font color="#ff8000">Singing songs and
+they're carrying signs</font>
+
+132
+00:01:32,050 --> 00:01:32,279
+<font color="#ff8000">Most</font>ly say, hooray for our side
+
+133
+00:01:32,279 --> 00:01:32,663
+<font color="#ff8000">Mostly</font> say, hooray for our side
+
+134
+00:01:32,663 --> 00:01:33,232
+<font color="#ff8000">Mostly say,</font> hooray for our side
+
+135
+00:01:33,232 --> 00:01:33,860
+<font color="#ff8000">Mostly say, hoo</font>ray for our side
+
+136
+00:01:33,860 --> 00:01:34,174
+<font color="#ff8000">Mostly say, hooray</font> for our side
+
+137
+00:01:34,174 --> 00:01:34,723
+<font color="#ff8000">Mostly say, hooray for</font> our side
+
+138
+00:01:34,723 --> 00:01:35,104
+<font color="#ff8000">Mostly say, hooray for our</font> side
+
+139
+00:01:35,104 --> 00:01:36,500
+<font color="#ff8000">Mostly say, hooray for our side</font>
+
+140
+00:01:36,500 --> 00:01:36,883
+<font color="#ff8000">It's</font> time we stop,
+hey, what's that sound
+
+141
+00:01:36,883 --> 00:01:37,200
+<font color="#ff8000">It's time</font> we stop,
+hey, what's that sound
+
+142
+00:01:37,200 --> 00:01:37,503
+<font color="#ff8000">It's time we</font> stop,
+hey, what's that sound
+
+143
+00:01:37,503 --> 00:01:38,073
+<font color="#ff8000">It's time we stop,</font>
+hey, what's that sound
+
+144
+00:01:38,073 --> 00:01:38,688
+<font color="#ff8000">It's time we stop,
+hey,</font> what's that sound
+
+145
+00:01:38,688 --> 00:01:38,979
+<font color="#ff8000">It's time we stop,
+hey, what's</font> that sound
+
+146
+00:01:38,979 --> 00:01:39,293
+<font color="#ff8000">It's time we stop,
+hey, what's that</font> sound
+
+147
+00:01:39,293 --> 00:01:39,900
+<font color="#ff8000">It's time we stop,
+hey, what's that sound</font>
+
+148
+00:01:39,900 --> 00:01:40,079
+<font color="#ff8000">Eve</font>rybody look
+what's going down
+
+149
+00:01:40,079 --> 00:01:40,183
+<font color="#ff8000">Every</font>body look
+what's going down
+
+150
+00:01:40,183 --> 00:01:40,311
+<font color="#ff8000">Everybod</font>y look
+what's going down
+
+151
+00:01:40,311 --> 00:01:40,485
+<font color="#ff8000">Everybody</font> look
+what's going down
+
+152
+00:01:40,485 --> 00:01:40,788
+<font color="#ff8000">Everybody look</font>
+what's going down
+
+153
+00:01:40,788 --> 00:01:41,102
+<font color="#ff8000">Everybody look
+what's</font> going down
+
+154
+00:01:41,102 --> 00:01:41,381
+<font color="#ff8000">Everybody look
+what's go</font>ing down
+
+155
+00:01:41,381 --> 00:01:41,695
+<font color="#ff8000">Everybody look
+what's going</font> down
+
+156
+00:01:41,695 --> 00:01:44,667
+<font color="#ff8000">Everybody look
+what's going down</font>
+
+157
+00:01:52,000 --> 00:01:52,549
+<font color="#ff8000">Par</font>anoia strikes deep
+
+158
+00:01:52,549 --> 00:01:53,212
+<font color="#ff8000">Para</font>noia strikes deep
+
+159
+00:01:53,212 --> 00:01:53,503
+<font color="#ff8000">Paranoi</font>a strikes deep
+
+160
+00:01:53,503 --> 00:01:53,816
+<font color="#ff8000">Paranoia</font> strikes deep
+
+161
+00:01:53,816 --> 00:01:54,433
+<font color="#ff8000">Paranoia strikes</font> deep
+
+162
+00:01:54,433 --> 00:01:55,608
+<font color="#ff8000">Paranoia strikes deep</font>
+
+163
+00:01:56,775 --> 00:01:57,139
+<font color="#ff8000">In</font>to your life it will creep
+
+164
+00:01:57,139 --> 00:01:57,523
+<font color="#ff8000">Into</font> your life it will creep
+
+165
+00:01:57,523 --> 00:01:58,035
+<font color="#ff8000">Into your</font> life it will creep
+
+166
+00:01:58,035 --> 00:01:58,476
+<font color="#ff8000">Into your life</font> it will creep
+
+167
+00:01:58,476 --> 00:01:58,790
+<font color="#ff8000">Into your life it</font> will creep
+
+168
+00:01:58,790 --> 00:01:59,220
+<font color="#ff8000">Into your life it will</font> creep
+
+169
+00:01:59,220 --> 00:02:00,333
+<font color="#ff8000">Into your life it will creep</font>
+
+170
+00:02:01,350 --> 00:02:01,668
+<font color="#ff8000">It</font> starts when
+you're always afraid
+
+171
+00:02:01,668 --> 00:02:02,237
+<font color="#ff8000">It starts</font> when
+you're always afraid
+
+172
+00:02:02,237 --> 00:02:02,540
+<font color="#ff8000">It starts when</font>
+you're always afraid
+
+173
+00:02:02,540 --> 00:02:02,865
+<font color="#ff8000">It starts when
+you're</font> always afraid
+
+174
+00:02:02,865 --> 00:02:03,121
+<font color="#ff8000">It starts when
+you're al</font>ways afraid
+
+175
+00:02:03,121 --> 00:02:03,458
+<font color="#ff8000">It starts when
+you're always</font> afraid
+
+176
+00:02:03,458 --> 00:02:03,737
+<font color="#ff8000">It starts when
+you're always a</font>fraid
+
+177
+00:02:03,737 --> 00:02:04,950
+<font color="#ff8000">It starts when
+you're always afraid</font>
+
+178
+00:02:05,725 --> 00:02:05,939
+<font color="#ff8000">Step</font> out of line, the
+man come and take you away
+
+179
+00:02:05,939 --> 00:02:06,346
+<font color="#ff8000">Step out</font> of line, the
+man come and take you away
+
+180
+00:02:06,346 --> 00:02:06,508
+<font color="#ff8000">Step out of</font> line, the
+man come and take you away
+
+181
+00:02:06,508 --> 00:02:07,310
+<font color="#ff8000">Step out of line,</font> the
+man come and take you away
+
+182
+00:02:07,310 --> 00:02:07,433
+<font color="#ff8000">Step out of line, the</font>
+man come and take you away
+
+183
+00:02:07,433 --> 00:02:07,787
+<font color="#ff8000">Step out of line, the
+man</font> come and take you away
+
+184
+00:02:07,787 --> 00:02:08,624
+<font color="#ff8000">Step out of line, the
+man come</font> and take you away
+
+185
+00:02:08,624 --> 00:02:08,926
+<font color="#ff8000">Step out of line, the
+man come and</font> take you away
+
+186
+00:02:08,926 --> 00:02:09,229
+<font color="#ff8000">Step out of line, the
+man come and take</font> you away
+
+187
+00:02:09,229 --> 00:02:09,519
+<font color="#ff8000">Step out of line, the
+man come and take you</font> away
+
+188
+00:02:09,519 --> 00:02:09,833
+<font color="#ff8000">Step out of line, the
+man come and take you a</font>way
+
+189
+00:02:09,833 --> 00:02:10,708
+<font color="#ff8000">Step out of line, the
+man come and take you away</font>
+
+190
+00:02:10,708 --> 00:02:10,904
+<font color="#ff8000">We</font> better stop, hey,
+what's that sound
+
+191
+00:02:10,904 --> 00:02:11,206
+<font color="#ff8000">We bet</font>ter stop, hey,
+what's that sound
+
+192
+00:02:11,206 --> 00:02:11,323
+<font color="#ff8000">We better</font> stop, hey,
+what's that sound
+
+193
+00:02:11,323 --> 00:02:11,927
+<font color="#ff8000">We better stop,</font> hey,
+what's that sound
+
+194
+00:02:11,927 --> 00:02:12,497
+<font color="#ff8000">We better stop, hey,</font>
+what's that sound
+
+195
+00:02:12,497 --> 00:02:12,811
+<font color="#ff8000">We better stop, hey,
+what's</font> that sound
+
+196
+00:02:12,811 --> 00:02:13,137
+<font color="#ff8000">We better stop, hey,
+what's that</font> sound
+
+197
+00:02:13,137 --> 00:02:13,700
+<font color="#ff8000">We better stop, hey,
+what's that sound</font>
+
+198
+00:02:13,700 --> 00:02:13,869
+<font color="#ff8000">Eve</font>rybody look
+what's going down
+
+199
+00:02:13,869 --> 00:02:13,974
+<font color="#ff8000">Every</font>body look
+what's going down
+
+200
+00:02:13,974 --> 00:02:14,136
+<font color="#ff8000">Everybod</font>y look
+what's going down
+
+201
+00:02:14,136 --> 00:02:14,334
+<font color="#ff8000">Everybody</font> look
+what's going down
+
+202
+00:02:14,334 --> 00:02:14,613
+<font color="#ff8000">Everybody look</font>
+what's going down
+
+203
+00:02:14,613 --> 00:02:14,915
+<font color="#ff8000">Everybody look
+what's</font> going down
+
+204
+00:02:14,915 --> 00:02:15,171
+<font color="#ff8000">Everybody look
+what's go</font>ing down
+
+205
+00:02:15,171 --> 00:02:15,508
+<font color="#ff8000">Everybody look
+what's going</font> down
+
+206
+00:02:15,508 --> 00:02:16,042
+<font color="#ff8000">Everybody look
+what's going down</font>
+
+207
+00:02:16,042 --> 00:02:16,636
+<font color="#ff8000">Stop,</font> hey, what's that sound
+
+208
+00:02:16,636 --> 00:02:17,217
+<font color="#ff8000">Stop, hey,</font> what's that sound
+
+209
+00:02:17,217 --> 00:02:17,531
+<font color="#ff8000">Stop, hey, what's</font> that sound
+
+210
+00:02:17,531 --> 00:02:17,821
+<font color="#ff8000">Stop, hey, what's that</font> sound
+
+211
+00:02:17,821 --> 00:02:18,400
+<font color="#ff8000">Stop, hey, what's that sound</font>
+
+212
+00:02:18,400 --> 00:02:18,527
+<font color="#ff8000">Eve</font>rybody look
+what's going...
+
+213
+00:02:18,527 --> 00:02:18,690
+<font color="#ff8000">Every</font>body look
+what's going...
+
+214
+00:02:18,690 --> 00:02:18,853
+<font color="#ff8000">Everybod</font>y look
+what's going...
+
+215
+00:02:18,853 --> 00:02:19,051
+<font color="#ff8000">Everybody</font> look
+what's going...
+
+216
+00:02:19,051 --> 00:02:19,330
+<font color="#ff8000">Everybody look</font>
+what's going...
+
+217
+00:02:19,330 --> 00:02:19,620
+<font color="#ff8000">Everybody look
+what's</font> going...
+
+218
+00:02:19,620 --> 00:02:19,899
+<font color="#ff8000">Everybody look
+what's go</font>ing...
+
+219
+00:02:19,899 --> 00:02:20,188
+<font color="#ff8000">Everybody look
+what's going...</font>
+
+220
+00:02:20,188 --> 00:02:20,380
+<font color="#ff8000">You</font> better
+
+221
+00:02:20,380 --> 00:02:20,624
+<font color="#ff8000">You bet</font>ter
+
+222
+00:02:20,624 --> 00:02:20,776
+<font color="#ff8000">You better</font>
+
+223
+00:02:20,776 --> 00:02:21,369
+<font color="#ff8000">Stop,</font> now, what's that sound
+
+224
+00:02:21,369 --> 00:02:21,985
+<font color="#ff8000">Stop, now,</font> what's that sound
+
+225
+00:02:21,985 --> 00:02:22,253
+<font color="#ff8000">Stop, now, what's</font> that sound
+
+226
+00:02:22,253 --> 00:02:22,555
+<font color="#ff8000">Stop, now, what's that</font> sound
+
+227
+00:02:22,555 --> 00:02:23,125
+<font color="#ff8000">Stop, now, what's that sound</font>
+
+228
+00:02:23,125 --> 00:02:23,276
+<font color="#ff8000">Eve</font>rybody look
+what's going...
+
+229
+00:02:23,276 --> 00:02:23,392
+<font color="#ff8000">Every</font>body look
+what's going...
+
+230
+00:02:23,392 --> 00:02:23,543
+<font color="#ff8000">Everybod</font>y look
+what's going...
+
+231
+00:02:23,543 --> 00:02:23,741
+<font color="#ff8000">Everybody</font> look
+what's going...
+
+232
+00:02:23,741 --> 00:02:24,031
+<font color="#ff8000">Everybody look</font>
+what's going...
+
+233
+00:02:24,031 --> 00:02:24,345
+<font color="#ff8000">Everybody look
+what's</font> going...
+
+234
+00:02:24,345 --> 00:02:24,624
+<font color="#ff8000">Everybody look
+what's go</font>ing...
+
+235
+00:02:24,624 --> 00:02:24,901
+<font color="#ff8000">Everybody look
+what's going...</font>
+
+236
+00:02:24,901 --> 00:02:25,070
+<font color="#ff8000">You</font> better
+
+237
+00:02:25,070 --> 00:02:25,334
+<font color="#ff8000">You bet</font>ter
+
+238
+00:02:25,334 --> 00:02:25,463
+<font color="#ff8000">You better</font>
+
+239
+00:02:25,463 --> 00:02:26,070
+<font color="#ff8000">Stop,</font> children,
+what's that sound
+
+240
+00:02:26,070 --> 00:02:26,349
+<font color="#ff8000">Stop, chil</font>dren,
+what's that sound
+
+241
+00:02:26,349 --> 00:02:26,651
+<font color="#ff8000">Stop, children,</font>
+what's that sound
+
+242
+00:02:26,651 --> 00:02:26,931
+<font color="#ff8000">Stop, children,
+what's</font> that sound
+
+243
+00:02:26,931 --> 00:02:27,221
+<font color="#ff8000">Stop, children,
+what's that</font> sound
+
+244
+00:02:27,221 --> 00:02:27,767
+<font color="#ff8000">Stop, children,
+what's that sound</font>
+
+245
+00:02:27,767 --> 00:02:27,977
+<font color="#ff8000">Eve</font>rybody look
+what's going down...
+
+246
+00:02:27,977 --> 00:02:28,117
+<font color="#ff8000">Every</font>body look
+what's going down...
+
+247
+00:02:28,117 --> 00:02:28,267
+<font color="#ff8000">Everybod</font>y look
+what's going down...
+
+248
+00:02:28,267 --> 00:02:28,442
+<font color="#ff8000">Everybody</font> look
+what's going down...
+
+249
+00:02:28,442 --> 00:02:28,721
+<font color="#ff8000">Everybody look</font>
+what's going down...
+
+250
+00:02:28,721 --> 00:02:29,035
+<font color="#ff8000">Everybody look
+what's</font> going down...
+
+251
+00:02:29,035 --> 00:02:29,302
+<font color="#ff8000">Everybody look
+what's go</font>ing down...
+
+252
+00:02:29,302 --> 00:02:29,604
+<font color="#ff8000">Everybody look
+what's going</font> down...
+
+253
+00:02:29,604 --> 00:02:30,742
+<font color="#ff8000">Everybody look
+what's going down...</font>

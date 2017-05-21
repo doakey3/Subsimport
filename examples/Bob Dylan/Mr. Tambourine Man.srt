@@ -1,0 +1,2827 @@
+1
+00:00:06,000 --> 00:00:06,830
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+2
+00:00:06,830 --> 00:00:07,190
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+3
+00:00:07,190 --> 00:00:07,430
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+4
+00:00:07,430 --> 00:00:07,980
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+5
+00:00:07,980 --> 00:00:08,170
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+6
+00:00:08,170 --> 00:00:08,500
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+7
+00:00:08,500 --> 00:00:09,080
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+8
+00:00:09,080 --> 00:00:09,280
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+9
+00:00:09,280 --> 00:00:09,590
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+10
+00:00:09,590 --> 00:00:10,120
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+11
+00:00:10,120 --> 00:00:10,320
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+12
+00:00:10,320 --> 00:00:11,190
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+13
+00:00:11,190 --> 00:00:11,430
+<font color="#ff8000">I'm</font> not sleepy and there
+is no place I'm going to
+
+14
+00:00:11,430 --> 00:00:11,810
+<font color="#ff8000">I'm not</font> sleepy and there
+is no place I'm going to
+
+15
+00:00:11,810 --> 00:00:11,980
+<font color="#ff8000">I'm not sleep</font>y and there
+is no place I'm going to
+
+16
+00:00:11,980 --> 00:00:12,610
+<font color="#ff8000">I'm not sleepy</font> and there
+is no place I'm going to
+
+17
+00:00:12,610 --> 00:00:12,810
+<font color="#ff8000">I'm not sleepy and</font> there
+is no place I'm going to
+
+18
+00:00:12,810 --> 00:00:13,150
+<font color="#ff8000">I'm not sleepy and there</font>
+is no place I'm going to
+
+19
+00:00:13,150 --> 00:00:13,600
+<font color="#ff8000">I'm not sleepy and there
+is</font> no place I'm going to
+
+20
+00:00:13,600 --> 00:00:13,860
+<font color="#ff8000">I'm not sleepy and there
+is no</font> place I'm going to
+
+21
+00:00:13,860 --> 00:00:14,290
+<font color="#ff8000">I'm not sleepy and there
+is no place</font> I'm going to
+
+22
+00:00:14,290 --> 00:00:14,790
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm</font> going to
+
+23
+00:00:14,790 --> 00:00:15,010
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm go</font>ing to
+
+24
+00:00:15,010 --> 00:00:15,340
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going</font> to
+
+25
+00:00:15,340 --> 00:00:16,540
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going to</font>
+
+26
+00:00:17,290 --> 00:00:18,230
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+27
+00:00:18,230 --> 00:00:18,630
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+28
+00:00:18,630 --> 00:00:18,870
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+29
+00:00:18,870 --> 00:00:19,510
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+30
+00:00:19,510 --> 00:00:19,680
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+31
+00:00:19,680 --> 00:00:20,120
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+32
+00:00:20,120 --> 00:00:20,600
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+33
+00:00:20,600 --> 00:00:20,820
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+34
+00:00:20,820 --> 00:00:21,150
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+35
+00:00:21,150 --> 00:00:21,620
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+36
+00:00:21,620 --> 00:00:21,850
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+37
+00:00:21,850 --> 00:00:22,700
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+38
+00:00:22,700 --> 00:00:22,970
+<font color="#ff8000">In</font> the jingle jangle morning
+I'll come following you
+
+39
+00:00:22,970 --> 00:00:23,310
+<font color="#ff8000">In the</font> jingle jangle morning
+I'll come following you
+
+40
+00:00:23,310 --> 00:00:23,600
+<font color="#ff8000">In the jin</font>gle jangle morning
+I'll come following you
+
+41
+00:00:23,600 --> 00:00:23,960
+<font color="#ff8000">In the jingle</font> jangle morning
+I'll come following you
+
+42
+00:00:23,960 --> 00:00:24,470
+<font color="#ff8000">In the jingle jan</font>gle morning
+I'll come following you
+
+43
+00:00:24,470 --> 00:00:24,700
+<font color="#ff8000">In the jingle jangle</font> morning
+I'll come following you
+
+44
+00:00:24,700 --> 00:00:25,020
+<font color="#ff8000">In the jingle jangle morn</font>ing
+I'll come following you
+
+45
+00:00:25,020 --> 00:00:25,620
+<font color="#ff8000">In the jingle jangle morning</font>
+I'll come following you
+
+46
+00:00:25,620 --> 00:00:25,820
+<font color="#ff8000">In the jingle jangle morning
+I'll</font> come following you
+
+47
+00:00:25,820 --> 00:00:26,200
+<font color="#ff8000">In the jingle jangle morning
+I'll come</font> following you
+
+48
+00:00:26,200 --> 00:00:27,320
+<font color="#ff8000">In the jingle jangle morning
+I'll come fol</font>lowing you
+
+49
+00:00:27,320 --> 00:00:27,460
+<font color="#ff8000">In the jingle jangle morning
+I'll come follow</font>ing you
+
+50
+00:00:27,460 --> 00:00:27,790
+<font color="#ff8000">In the jingle jangle morning
+I'll come following</font> you
+
+51
+00:00:27,790 --> 00:00:29,970
+<font color="#ff8000">In the jingle jangle morning
+I'll come following you</font>
+
+52
+00:00:31,270 --> 00:00:31,510
+<font color="#ff8000">Though</font> I know that evenings
+empire has returned into sand
+
+53
+00:00:31,510 --> 00:00:31,810
+<font color="#ff8000">Though I</font> know that evenings
+empire has returned into sand
+
+54
+00:00:31,810 --> 00:00:32,400
+<font color="#ff8000">Though I know</font> that evenings
+empire has returned into sand
+
+55
+00:00:32,400 --> 00:00:32,619
+<font color="#ff8000">Though I know that</font> evenings
+empire has returned into sand
+
+56
+00:00:32,619 --> 00:00:32,900
+<font color="#ff8000">Though I know that eve</font>nings
+empire has returned into sand
+
+57
+00:00:32,900 --> 00:00:33,330
+<font color="#ff8000">Though I know that evenings</font>
+empire has returned into sand
+
+58
+00:00:33,330 --> 00:00:33,650
+<font color="#ff8000">Though I know that evenings
+em</font>pire has returned into sand
+
+59
+00:00:33,650 --> 00:00:34,380
+<font color="#ff8000">Though I know that evenings
+empire</font> has returned into sand
+
+60
+00:00:34,380 --> 00:00:34,900
+<font color="#ff8000">Though I know that evenings
+empire has</font> returned into sand
+
+61
+00:00:34,900 --> 00:00:35,100
+<font color="#ff8000">Though I know that evenings
+empire has re</font>turned into sand
+
+62
+00:00:35,100 --> 00:00:35,530
+<font color="#ff8000">Though I know that evenings
+empire has returned</font> into sand
+
+63
+00:00:35,530 --> 00:00:35,790
+<font color="#ff8000">Though I know that evenings
+empire has returned in</font>to sand
+
+64
+00:00:35,790 --> 00:00:36,150
+<font color="#ff8000">Though I know that evenings
+empire has returned into</font> sand
+
+65
+00:00:36,150 --> 00:00:37,700
+<font color="#ff8000">Though I know that evenings
+empire has returned into sand</font>
+
+66
+00:00:37,700 --> 00:00:37,930
+<font color="#ff8000">Van</font>ished from my hand
+
+67
+00:00:37,930 --> 00:00:38,260
+<font color="#ff8000">Vanished</font> from my hand
+
+68
+00:00:38,260 --> 00:00:38,680
+<font color="#ff8000">Vanished from</font> my hand
+
+69
+00:00:38,680 --> 00:00:39,010
+<font color="#ff8000">Vanished from my</font> hand
+
+70
+00:00:39,010 --> 00:00:39,890
+<font color="#ff8000">Vanished from my hand</font>
+
+71
+00:00:39,890 --> 00:00:40,110
+<font color="#ff8000">Left</font> me blindly here to
+stand but still not sleeping
+
+72
+00:00:40,110 --> 00:00:40,460
+<font color="#ff8000">Left me</font> blindly here to
+stand but still not sleeping
+
+73
+00:00:40,460 --> 00:00:40,870
+<font color="#ff8000">Left me blind</font>ly here to
+stand but still not sleeping
+
+74
+00:00:40,870 --> 00:00:41,110
+<font color="#ff8000">Left me blindly</font> here to
+stand but still not sleeping
+
+75
+00:00:41,110 --> 00:00:41,450
+<font color="#ff8000">Left me blindly here</font> to
+stand but still not sleeping
+
+76
+00:00:41,450 --> 00:00:41,780
+<font color="#ff8000">Left me blindly here to</font>
+stand but still not sleeping
+
+77
+00:00:41,780 --> 00:00:42,330
+<font color="#ff8000">Left me blindly here to
+stand</font> but still not sleeping
+
+78
+00:00:42,330 --> 00:00:42,530
+<font color="#ff8000">Left me blindly here to
+stand but</font> still not sleeping
+
+79
+00:00:42,530 --> 00:00:42,890
+<font color="#ff8000">Left me blindly here to
+stand but still</font> not sleeping
+
+80
+00:00:42,890 --> 00:00:43,330
+<font color="#ff8000">Left me blindly here to
+stand but still not</font> sleeping
+
+81
+00:00:43,330 --> 00:00:43,590
+<font color="#ff8000">Left me blindly here to
+stand but still not sleep</font>ing
+
+82
+00:00:43,590 --> 00:00:44,930
+<font color="#ff8000">Left me blindly here to
+stand but still not sleeping</font>
+
+83
+00:00:45,650 --> 00:00:46,130
+<font color="#ff8000">My</font> weariness amazes me,
+I'm branded on my feet
+
+84
+00:00:46,130 --> 00:00:46,380
+<font color="#ff8000">My wea</font>riness amazes me,
+I'm branded on my feet
+
+85
+00:00:46,380 --> 00:00:46,730
+<font color="#ff8000">My weari</font>ness amazes me,
+I'm branded on my feet
+
+86
+00:00:46,730 --> 00:00:47,180
+<font color="#ff8000">My weariness</font> amazes me,
+I'm branded on my feet
+
+87
+00:00:47,180 --> 00:00:47,510
+<font color="#ff8000">My weariness am</font>azes me,
+I'm branded on my feet
+
+88
+00:00:47,510 --> 00:00:48,010
+<font color="#ff8000">My weariness amaz</font>es me,
+I'm branded on my feet
+
+89
+00:00:48,010 --> 00:00:48,180
+<font color="#ff8000">My weariness amazes</font> me,
+I'm branded on my feet
+
+90
+00:00:48,180 --> 00:00:48,560
+<font color="#ff8000">My weariness amazes me,</font>
+I'm branded on my feet
+
+91
+00:00:48,560 --> 00:00:49,070
+<font color="#ff8000">My weariness amazes me,
+I'm</font> branded on my feet
+
+92
+00:00:49,070 --> 00:00:49,420
+<font color="#ff8000">My weariness amazes me,
+I'm brand</font>ed on my feet
+
+93
+00:00:49,420 --> 00:00:49,630
+<font color="#ff8000">My weariness amazes me,
+I'm branded</font> on my feet
+
+94
+00:00:49,630 --> 00:00:50,000
+<font color="#ff8000">My weariness amazes me,
+I'm branded on</font> my feet
+
+95
+00:00:50,000 --> 00:00:50,480
+<font color="#ff8000">My weariness amazes me,
+I'm branded on my</font> feet
+
+96
+00:00:50,480 --> 00:00:51,370
+<font color="#ff8000">My weariness amazes me,
+I'm branded on my feet</font>
+
+97
+00:00:51,370 --> 00:00:51,750
+<font color="#ff8000">I</font> have no one to meet
+
+98
+00:00:51,750 --> 00:00:52,050
+<font color="#ff8000">I have</font> no one to meet
+
+99
+00:00:52,050 --> 00:00:52,380
+<font color="#ff8000">I have no</font> one to meet
+
+100
+00:00:52,380 --> 00:00:52,930
+<font color="#ff8000">I have no one</font> to meet
+
+101
+00:00:52,930 --> 00:00:53,160
+<font color="#ff8000">I have no one to</font> meet
+
+102
+00:00:53,160 --> 00:00:53,970
+<font color="#ff8000">I have no one to meet</font>
+
+103
+00:00:53,970 --> 00:00:54,400
+<font color="#ff8000">And</font> the ancient empty
+street's too dead for dreaming
+
+104
+00:00:54,400 --> 00:00:54,730
+<font color="#ff8000">And the</font> ancient empty
+street's too dead for dreaming
+
+105
+00:00:54,730 --> 00:00:55,110
+<font color="#ff8000">And the an</font>cient empty
+street's too dead for dreaming
+
+106
+00:00:55,110 --> 00:00:55,340
+<font color="#ff8000">And the ancient</font> empty
+street's too dead for dreaming
+
+107
+00:00:55,340 --> 00:00:55,640
+<font color="#ff8000">And the ancient emp</font>ty
+street's too dead for dreaming
+
+108
+00:00:55,640 --> 00:00:55,990
+<font color="#ff8000">And the ancient empty</font>
+street's too dead for dreaming
+
+109
+00:00:55,990 --> 00:00:56,450
+<font color="#ff8000">And the ancient empty
+street's</font> too dead for dreaming
+
+110
+00:00:56,450 --> 00:00:56,610
+<font color="#ff8000">And the ancient empty
+street's too</font> dead for dreaming
+
+111
+00:00:56,610 --> 00:00:57,230
+<font color="#ff8000">And the ancient empty
+street's too dead</font> for dreaming
+
+112
+00:00:57,230 --> 00:00:57,460
+<font color="#ff8000">And the ancient empty
+street's too dead for</font> dreaming
+
+113
+00:00:57,460 --> 00:00:57,730
+<font color="#ff8000">And the ancient empty
+street's too dead for dream</font>ing
+
+114
+00:00:57,730 --> 00:00:59,930
+<font color="#ff8000">And the ancient empty
+street's too dead for dreaming</font>
+
+115
+00:00:59,930 --> 00:01:01,200
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+116
+00:01:01,200 --> 00:01:01,490
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+117
+00:01:01,490 --> 00:01:01,730
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+118
+00:01:01,730 --> 00:01:02,230
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+119
+00:01:02,230 --> 00:01:02,440
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+120
+00:01:02,440 --> 00:01:02,830
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+121
+00:01:02,830 --> 00:01:03,330
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+122
+00:01:03,330 --> 00:01:03,570
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+123
+00:01:03,570 --> 00:01:03,850
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+124
+00:01:03,850 --> 00:01:04,400
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+125
+00:01:04,400 --> 00:01:04,590
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+126
+00:01:04,590 --> 00:01:05,400
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+127
+00:01:05,400 --> 00:01:05,660
+<font color="#ff8000">I'm</font> not sleepy and there
+is no place I'm going to
+
+128
+00:01:05,660 --> 00:01:06,100
+<font color="#ff8000">I'm not</font> sleepy and there
+is no place I'm going to
+
+129
+00:01:06,100 --> 00:01:06,330
+<font color="#ff8000">I'm not sleep</font>y and there
+is no place I'm going to
+
+130
+00:01:06,330 --> 00:01:06,940
+<font color="#ff8000">I'm not sleepy</font> and there
+is no place I'm going to
+
+131
+00:01:06,940 --> 00:01:07,120
+<font color="#ff8000">I'm not sleepy and</font> there
+is no place I'm going to
+
+132
+00:01:07,120 --> 00:01:07,470
+<font color="#ff8000">I'm not sleepy and there</font>
+is no place I'm going to
+
+133
+00:01:07,470 --> 00:01:07,830
+<font color="#ff8000">I'm not sleepy and there
+is</font> no place I'm going to
+
+134
+00:01:07,830 --> 00:01:08,200
+<font color="#ff8000">I'm not sleepy and there
+is no</font> place I'm going to
+
+135
+00:01:08,200 --> 00:01:08,500
+<font color="#ff8000">I'm not sleepy and there
+is no place</font> I'm going to
+
+136
+00:01:08,500 --> 00:01:09,040
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm</font> going to
+
+137
+00:01:09,040 --> 00:01:09,230
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm go</font>ing to
+
+138
+00:01:09,230 --> 00:01:09,610
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going</font> to
+
+139
+00:01:09,610 --> 00:01:10,890
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going to</font>
+
+140
+00:01:11,530 --> 00:01:12,650
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+141
+00:01:12,650 --> 00:01:12,960
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+142
+00:01:12,960 --> 00:01:13,180
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+143
+00:01:13,180 --> 00:01:13,730
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+144
+00:01:13,730 --> 00:01:13,920
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+145
+00:01:13,920 --> 00:01:14,300
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+146
+00:01:14,300 --> 00:01:14,780
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+147
+00:01:14,780 --> 00:01:14,980
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+148
+00:01:14,980 --> 00:01:15,300
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+149
+00:01:15,300 --> 00:01:15,780
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+150
+00:01:15,780 --> 00:01:15,990
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+151
+00:01:15,990 --> 00:01:16,810
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+152
+00:01:16,810 --> 00:01:17,060
+<font color="#ff8000">In</font> the jingle jangle morning
+I'll come following you
+
+153
+00:01:17,060 --> 00:01:17,430
+<font color="#ff8000">In the</font> jingle jangle morning
+I'll come following you
+
+154
+00:01:17,430 --> 00:01:17,730
+<font color="#ff8000">In the jin</font>gle jangle morning
+I'll come following you
+
+155
+00:01:17,730 --> 00:01:18,050
+<font color="#ff8000">In the jingle</font> jangle morning
+I'll come following you
+
+156
+00:01:18,050 --> 00:01:18,560
+<font color="#ff8000">In the jingle jan</font>gle morning
+I'll come following you
+
+157
+00:01:18,560 --> 00:01:18,790
+<font color="#ff8000">In the jingle jangle</font> morning
+I'll come following you
+
+158
+00:01:18,790 --> 00:01:19,130
+<font color="#ff8000">In the jingle jangle morn</font>ing
+I'll come following you
+
+159
+00:01:19,130 --> 00:01:19,700
+<font color="#ff8000">In the jingle jangle morning</font>
+I'll come following you
+
+160
+00:01:19,700 --> 00:01:19,860
+<font color="#ff8000">In the jingle jangle morning
+I'll</font> come following you
+
+161
+00:01:19,860 --> 00:01:20,240
+<font color="#ff8000">In the jingle jangle morning
+I'll come</font> following you
+
+162
+00:01:20,240 --> 00:01:21,280
+<font color="#ff8000">In the jingle jangle morning
+I'll come fol</font>lowing you
+
+163
+00:01:21,280 --> 00:01:21,430
+<font color="#ff8000">In the jingle jangle morning
+I'll come follow</font>ing you
+
+164
+00:01:21,430 --> 00:01:21,780
+<font color="#ff8000">In the jingle jangle morning
+I'll come following</font> you
+
+165
+00:01:21,780 --> 00:01:24,730
+<font color="#ff8000">In the jingle jangle morning
+I'll come following you</font>
+
+166
+00:01:26,970 --> 00:01:27,650
+<font color="#ff8000">Take</font> me on a trip upon
+your magic swirling ship
+
+167
+00:01:27,650 --> 00:01:27,950
+<font color="#ff8000">Take me</font> on a trip upon
+your magic swirling ship
+
+168
+00:01:27,950 --> 00:01:28,310
+<font color="#ff8000">Take me on</font> a trip upon
+your magic swirling ship
+
+169
+00:01:28,310 --> 00:01:28,630
+<font color="#ff8000">Take me on a</font> trip upon
+your magic swirling ship
+
+170
+00:01:28,630 --> 00:01:28,980
+<font color="#ff8000">Take me on a trip</font> upon
+your magic swirling ship
+
+171
+00:01:28,980 --> 00:01:29,250
+<font color="#ff8000">Take me on a trip up</font>on
+your magic swirling ship
+
+172
+00:01:29,250 --> 00:01:29,750
+<font color="#ff8000">Take me on a trip upon</font>
+your magic swirling ship
+
+173
+00:01:29,750 --> 00:01:30,120
+<font color="#ff8000">Take me on a trip upon
+your</font> magic swirling ship
+
+174
+00:01:30,120 --> 00:01:30,380
+<font color="#ff8000">Take me on a trip upon
+your mag</font>ic swirling ship
+
+175
+00:01:30,380 --> 00:01:30,710
+<font color="#ff8000">Take me on a trip upon
+your magic</font> swirling ship
+
+176
+00:01:30,710 --> 00:01:31,040
+<font color="#ff8000">Take me on a trip upon
+your magic swirl</font>ing ship
+
+177
+00:01:31,040 --> 00:01:31,480
+<font color="#ff8000">Take me on a trip upon
+your magic swirling</font> ship
+
+178
+00:01:31,480 --> 00:01:32,410
+<font color="#ff8000">Take me on a trip upon
+your magic swirling ship</font>
+
+179
+00:01:32,410 --> 00:01:32,940
+<font color="#ff8000">My</font> senses have been stripped
+
+180
+00:01:32,940 --> 00:01:33,090
+<font color="#ff8000">My sens</font>es have been stripped
+
+181
+00:01:33,090 --> 00:01:33,450
+<font color="#ff8000">My senses</font> have been stripped
+
+182
+00:01:33,450 --> 00:01:33,840
+<font color="#ff8000">My senses have</font> been stripped
+
+183
+00:01:33,840 --> 00:01:34,230
+<font color="#ff8000">My senses have been</font> stripped
+
+184
+00:01:34,230 --> 00:01:35,210
+<font color="#ff8000">My senses have been stripped</font>
+
+185
+00:01:35,210 --> 00:01:35,530
+<font color="#ff8000">My</font> hands can't feel to grip
+
+186
+00:01:35,530 --> 00:01:36,000
+<font color="#ff8000">My hands</font> can't feel to grip
+
+187
+00:01:36,000 --> 00:01:36,280
+<font color="#ff8000">My hands can't</font> feel to grip
+
+188
+00:01:36,280 --> 00:01:36,670
+<font color="#ff8000">My hands can't feel</font> to grip
+
+189
+00:01:36,670 --> 00:01:36,860
+<font color="#ff8000">My hands can't feel to</font> grip
+
+190
+00:01:36,860 --> 00:01:37,830
+<font color="#ff8000">My hands can't feel to grip</font>
+
+191
+00:01:37,830 --> 00:01:38,210
+<font color="#ff8000">My</font> toes too numb to step
+
+192
+00:01:38,210 --> 00:01:38,730
+<font color="#ff8000">My toes</font> too numb to step
+
+193
+00:01:38,730 --> 00:01:38,910
+<font color="#ff8000">My toes too</font> numb to step
+
+194
+00:01:38,910 --> 00:01:39,290
+<font color="#ff8000">My toes too numb</font> to step
+
+195
+00:01:39,290 --> 00:01:39,550
+<font color="#ff8000">My toes too numb to</font> step
+
+196
+00:01:39,550 --> 00:01:40,630
+<font color="#ff8000">My toes too numb to step</font>
+
+197
+00:01:40,630 --> 00:01:41,080
+<font color="#ff8000">Wait</font> only for my boot
+heels to be wandering
+
+198
+00:01:41,080 --> 00:01:41,410
+<font color="#ff8000">Wait on</font>ly for my boot
+heels to be wandering
+
+199
+00:01:41,410 --> 00:01:41,620
+<font color="#ff8000">Wait only</font> for my boot
+heels to be wandering
+
+200
+00:01:41,620 --> 00:01:41,950
+<font color="#ff8000">Wait only for</font> my boot
+heels to be wandering
+
+201
+00:01:41,950 --> 00:01:42,390
+<font color="#ff8000">Wait only for my</font> boot
+heels to be wandering
+
+202
+00:01:42,390 --> 00:01:42,570
+<font color="#ff8000">Wait only for my boot</font>
+heels to be wandering
+
+203
+00:01:42,570 --> 00:01:43,110
+<font color="#ff8000">Wait only for my boot
+heels</font> to be wandering
+
+204
+00:01:43,110 --> 00:01:43,300
+<font color="#ff8000">Wait only for my boot
+heels to</font> be wandering
+
+205
+00:01:43,300 --> 00:01:43,640
+<font color="#ff8000">Wait only for my boot
+heels to be</font> wandering
+
+206
+00:01:43,640 --> 00:01:44,130
+<font color="#ff8000">Wait only for my boot
+heels to be wan</font>dering
+
+207
+00:01:44,130 --> 00:01:44,290
+<font color="#ff8000">Wait only for my boot
+heels to be wander</font>ing
+
+208
+00:01:44,290 --> 00:01:46,010
+<font color="#ff8000">Wait only for my boot
+heels to be wandering</font>
+
+209
+00:01:46,010 --> 00:01:46,530
+<font color="#ff8000">I'm</font> ready to go anywhere,
+I'm ready for to fade
+
+210
+00:01:46,530 --> 00:01:46,750
+<font color="#ff8000">I'm read</font>y to go anywhere,
+I'm ready for to fade
+
+211
+00:01:46,750 --> 00:01:47,060
+<font color="#ff8000">I'm ready</font> to go anywhere,
+I'm ready for to fade
+
+212
+00:01:47,060 --> 00:01:47,410
+<font color="#ff8000">I'm ready to</font> go anywhere,
+I'm ready for to fade
+
+213
+00:01:47,410 --> 00:01:47,850
+<font color="#ff8000">I'm ready to go</font> anywhere,
+I'm ready for to fade
+
+214
+00:01:47,850 --> 00:01:48,030
+<font color="#ff8000">I'm ready to go an</font>ywhere,
+I'm ready for to fade
+
+215
+00:01:48,030 --> 00:01:48,270
+<font color="#ff8000">I'm ready to go any</font>where,
+I'm ready for to fade
+
+216
+00:01:48,270 --> 00:01:48,710
+<font color="#ff8000">I'm ready to go anywhere,</font>
+I'm ready for to fade
+
+217
+00:01:48,710 --> 00:01:49,270
+<font color="#ff8000">I'm ready to go anywhere,
+I'm</font> ready for to fade
+
+218
+00:01:49,270 --> 00:01:49,460
+<font color="#ff8000">I'm ready to go anywhere,
+I'm read</font>y for to fade
+
+219
+00:01:49,460 --> 00:01:49,770
+<font color="#ff8000">I'm ready to go anywhere,
+I'm ready</font> for to fade
+
+220
+00:01:49,770 --> 00:01:50,100
+<font color="#ff8000">I'm ready to go anywhere,
+I'm ready for</font> to fade
+
+221
+00:01:50,100 --> 00:01:50,510
+<font color="#ff8000">I'm ready to go anywhere,
+I'm ready for to</font> fade
+
+222
+00:01:50,510 --> 00:01:51,700
+<font color="#ff8000">I'm ready to go anywhere,
+I'm ready for to fade</font>
+
+223
+00:01:51,700 --> 00:01:52,050
+<font color="#ff8000">In</font>to my own parade
+
+224
+00:01:52,050 --> 00:01:52,250
+<font color="#ff8000">Into</font> my own parade
+
+225
+00:01:52,250 --> 00:01:52,590
+<font color="#ff8000">Into my</font> own parade
+
+226
+00:01:52,590 --> 00:01:53,020
+<font color="#ff8000">Into my own</font> parade
+
+227
+00:01:53,020 --> 00:01:53,210
+<font color="#ff8000">Into my own pa</font>rade
+
+228
+00:01:53,210 --> 00:01:54,090
+<font color="#ff8000">Into my own parade</font>
+
+229
+00:01:54,090 --> 00:01:54,390
+<font color="#ff8000">Cast</font> your dancing spell my
+way, I promise to go under it
+
+230
+00:01:54,390 --> 00:01:54,600
+<font color="#ff8000">Cast your</font> dancing spell my
+way, I promise to go under it
+
+231
+00:01:54,600 --> 00:01:54,940
+<font color="#ff8000">Cast your danc</font>ing spell my
+way, I promise to go under it
+
+232
+00:01:54,940 --> 00:01:55,240
+<font color="#ff8000">Cast your dancing</font> spell my
+way, I promise to go under it
+
+233
+00:01:55,240 --> 00:01:55,600
+<font color="#ff8000">Cast your dancing spell</font> my
+way, I promise to go under it
+
+234
+00:01:55,600 --> 00:01:55,880
+<font color="#ff8000">Cast your dancing spell my</font>
+way, I promise to go under it
+
+235
+00:01:55,880 --> 00:01:56,330
+<font color="#ff8000">Cast your dancing spell my
+way,</font> I promise to go under it
+
+236
+00:01:56,330 --> 00:01:56,700
+<font color="#ff8000">Cast your dancing spell my
+way, I</font> promise to go under it
+
+237
+00:01:56,700 --> 00:01:56,890
+<font color="#ff8000">Cast your dancing spell my
+way, I prom</font>ise to go under it
+
+238
+00:01:56,890 --> 00:01:57,480
+<font color="#ff8000">Cast your dancing spell my
+way, I promise</font> to go under it
+
+239
+00:01:57,480 --> 00:01:57,630
+<font color="#ff8000">Cast your dancing spell my
+way, I promise to</font> go under it
+
+240
+00:01:57,630 --> 00:01:57,980
+<font color="#ff8000">Cast your dancing spell my
+way, I promise to go</font> under it
+
+241
+00:01:57,980 --> 00:01:58,340
+<font color="#ff8000">Cast your dancing spell my
+way, I promise to go un</font>der it
+
+242
+00:01:58,340 --> 00:01:58,600
+<font color="#ff8000">Cast your dancing spell my
+way, I promise to go under</font> it
+
+243
+00:01:58,600 --> 00:02:00,460
+<font color="#ff8000">Cast your dancing spell my
+way, I promise to go under it</font>
+
+244
+00:02:00,460 --> 00:02:01,440
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+245
+00:02:01,440 --> 00:02:01,700
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+246
+00:02:01,700 --> 00:02:01,940
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+247
+00:02:01,940 --> 00:02:02,540
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+248
+00:02:02,540 --> 00:02:02,740
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+249
+00:02:02,740 --> 00:02:03,090
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+250
+00:02:03,090 --> 00:02:03,580
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+251
+00:02:03,580 --> 00:02:03,770
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+252
+00:02:03,770 --> 00:02:04,100
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+253
+00:02:04,100 --> 00:02:04,670
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+254
+00:02:04,670 --> 00:02:04,840
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+255
+00:02:04,840 --> 00:02:05,630
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+256
+00:02:05,630 --> 00:02:05,880
+<font color="#ff8000">I'm</font> not sleepy and there
+is no place I'm going to
+
+257
+00:02:05,880 --> 00:02:06,280
+<font color="#ff8000">I'm not</font> sleepy and there
+is no place I'm going to
+
+258
+00:02:06,280 --> 00:02:06,500
+<font color="#ff8000">I'm not sleep</font>y and there
+is no place I'm going to
+
+259
+00:02:06,500 --> 00:02:07,060
+<font color="#ff8000">I'm not sleepy</font> and there
+is no place I'm going to
+
+260
+00:02:07,060 --> 00:02:07,250
+<font color="#ff8000">I'm not sleepy and</font> there
+is no place I'm going to
+
+261
+00:02:07,250 --> 00:02:07,620
+<font color="#ff8000">I'm not sleepy and there</font>
+is no place I'm going to
+
+262
+00:02:07,620 --> 00:02:08,050
+<font color="#ff8000">I'm not sleepy and there
+is</font> no place I'm going to
+
+263
+00:02:08,050 --> 00:02:08,320
+<font color="#ff8000">I'm not sleepy and there
+is no</font> place I'm going to
+
+264
+00:02:08,320 --> 00:02:08,620
+<font color="#ff8000">I'm not sleepy and there
+is no place</font> I'm going to
+
+265
+00:02:08,620 --> 00:02:09,110
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm</font> going to
+
+266
+00:02:09,110 --> 00:02:09,280
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm go</font>ing to
+
+267
+00:02:09,280 --> 00:02:09,639
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going</font> to
+
+268
+00:02:09,639 --> 00:02:11,530
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going to</font>
+
+269
+00:02:11,530 --> 00:02:12,530
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+270
+00:02:12,530 --> 00:02:12,830
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+271
+00:02:12,830 --> 00:02:13,060
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+272
+00:02:13,060 --> 00:02:13,670
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+273
+00:02:13,670 --> 00:02:13,850
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+274
+00:02:13,850 --> 00:02:14,170
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+275
+00:02:14,170 --> 00:02:14,750
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+276
+00:02:14,750 --> 00:02:14,940
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+277
+00:02:14,940 --> 00:02:15,230
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+278
+00:02:15,230 --> 00:02:15,750
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+279
+00:02:15,750 --> 00:02:15,940
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+280
+00:02:15,940 --> 00:02:16,830
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+281
+00:02:16,830 --> 00:02:17,040
+<font color="#ff8000">In</font> the jingle jangle morning
+I'll come following you
+
+282
+00:02:17,040 --> 00:02:17,370
+<font color="#ff8000">In the</font> jingle jangle morning
+I'll come following you
+
+283
+00:02:17,370 --> 00:02:17,680
+<font color="#ff8000">In the jin</font>gle jangle morning
+I'll come following you
+
+284
+00:02:17,680 --> 00:02:18,020
+<font color="#ff8000">In the jingle</font> jangle morning
+I'll come following you
+
+285
+00:02:18,020 --> 00:02:18,460
+<font color="#ff8000">In the jingle jan</font>gle morning
+I'll come following you
+
+286
+00:02:18,460 --> 00:02:18,690
+<font color="#ff8000">In the jingle jangle</font> morning
+I'll come following you
+
+287
+00:02:18,690 --> 00:02:18,980
+<font color="#ff8000">In the jingle jangle morn</font>ing
+I'll come following you
+
+288
+00:02:18,980 --> 00:02:19,560
+<font color="#ff8000">In the jingle jangle morning</font>
+I'll come following you
+
+289
+00:02:19,560 --> 00:02:19,700
+<font color="#ff8000">In the jingle jangle morning
+I'll</font> come following you
+
+290
+00:02:19,700 --> 00:02:20,080
+<font color="#ff8000">In the jingle jangle morning
+I'll come</font> following you
+
+291
+00:02:20,080 --> 00:02:21,120
+<font color="#ff8000">In the jingle jangle morning
+I'll come fol</font>lowing you
+
+292
+00:02:21,120 --> 00:02:21,260
+<font color="#ff8000">In the jingle jangle morning
+I'll come follow</font>ing you
+
+293
+00:02:21,260 --> 00:02:21,590
+<font color="#ff8000">In the jingle jangle morning
+I'll come following</font> you
+
+294
+00:02:21,590 --> 00:02:24,430
+<font color="#ff8000">In the jingle jangle morning
+I'll come following you</font>
+
+295
+00:02:26,500 --> 00:02:26,680
+<font color="#ff8000">Though</font> you might hear laughing,
+spinning, swinging madly across the sun
+
+296
+00:02:26,680 --> 00:02:27,030
+<font color="#ff8000">Though you</font> might hear laughing,
+spinning, swinging madly across the sun
+
+297
+00:02:27,030 --> 00:02:27,430
+<font color="#ff8000">Though you might</font> hear laughing,
+spinning, swinging madly across the sun
+
+298
+00:02:27,430 --> 00:02:27,760
+<font color="#ff8000">Though you might hear</font> laughing,
+spinning, swinging madly across the sun
+
+299
+00:02:27,760 --> 00:02:28,020
+<font color="#ff8000">Though you might hear laugh</font>ing,
+spinning, swinging madly across the sun
+
+300
+00:02:28,020 --> 00:02:28,460
+<font color="#ff8000">Though you might hear laughing,</font>
+spinning, swinging madly across the sun
+
+301
+00:02:28,460 --> 00:02:28,630
+<font color="#ff8000">Though you might hear laughing,
+spin</font>ning, swinging madly across the sun
+
+302
+00:02:28,630 --> 00:02:29,400
+<font color="#ff8000">Though you might hear laughing,
+spinning,</font> swinging madly across the sun
+
+303
+00:02:29,400 --> 00:02:29,560
+<font color="#ff8000">Though you might hear laughing,
+spinning, swing</font>ing madly across the sun
+
+304
+00:02:29,560 --> 00:02:29,880
+<font color="#ff8000">Though you might hear laughing,
+spinning, swinging</font> madly across the sun
+
+305
+00:02:29,880 --> 00:02:30,190
+<font color="#ff8000">Though you might hear laughing,
+spinning, swinging mad</font>ly across the sun
+
+306
+00:02:30,190 --> 00:02:30,400
+<font color="#ff8000">Though you might hear laughing,
+spinning, swinging madly</font> across the sun
+
+307
+00:02:30,400 --> 00:02:30,560
+<font color="#ff8000">Though you might hear laughing,
+spinning, swinging madly a</font>cross the sun
+
+308
+00:02:30,560 --> 00:02:30,950
+<font color="#ff8000">Though you might hear laughing,
+spinning, swinging madly across</font> the sun
+
+309
+00:02:30,950 --> 00:02:31,190
+<font color="#ff8000">Though you might hear laughing,
+spinning, swinging madly across the</font> sun
+
+310
+00:02:31,190 --> 00:02:32,080
+<font color="#ff8000">Though you might hear laughing,
+spinning, swinging madly across the sun</font>
+
+311
+00:02:32,080 --> 00:02:32,240
+<font color="#ff8000">It's</font> not aimed at anyone
+
+312
+00:02:32,240 --> 00:02:32,560
+<font color="#ff8000">It's not</font> aimed at anyone
+
+313
+00:02:32,560 --> 00:02:33,110
+<font color="#ff8000">It's not aimed</font> at anyone
+
+314
+00:02:33,110 --> 00:02:33,250
+<font color="#ff8000">It's not aimed at</font> anyone
+
+315
+00:02:33,250 --> 00:02:33,490
+<font color="#ff8000">It's not aimed at a</font>nyone
+
+316
+00:02:33,490 --> 00:02:33,760
+<font color="#ff8000">It's not aimed at any</font>one
+
+317
+00:02:33,760 --> 00:02:34,830
+<font color="#ff8000">It's not aimed at anyone</font>
+
+318
+00:02:34,830 --> 00:02:35,030
+<font color="#ff8000">It's</font> just escaping on the run
+
+319
+00:02:35,030 --> 00:02:35,260
+<font color="#ff8000">It's just</font> escaping on the run
+
+320
+00:02:35,260 --> 00:02:35,560
+<font color="#ff8000">It's just es</font>caping on the run
+
+321
+00:02:35,560 --> 00:02:35,780
+<font color="#ff8000">It's just escap</font>ing on the run
+
+322
+00:02:35,780 --> 00:02:36,060
+<font color="#ff8000">It's just escaping</font> on the run
+
+323
+00:02:36,060 --> 00:02:36,550
+<font color="#ff8000">It's just escaping on</font> the run
+
+324
+00:02:36,550 --> 00:02:36,780
+<font color="#ff8000">It's just escaping on the</font> run
+
+325
+00:02:36,780 --> 00:02:37,620
+<font color="#ff8000">It's just escaping on the run</font>
+
+326
+00:02:37,620 --> 00:02:37,850
+<font color="#ff8000">And</font> but for the sky there
+are no fences facing
+
+327
+00:02:37,850 --> 00:02:38,210
+<font color="#ff8000">And but</font> for the sky there
+are no fences facing
+
+328
+00:02:38,210 --> 00:02:38,540
+<font color="#ff8000">And but for</font> the sky there
+are no fences facing
+
+329
+00:02:38,540 --> 00:02:38,850
+<font color="#ff8000">And but for the</font> sky there
+are no fences facing
+
+330
+00:02:38,850 --> 00:02:39,320
+<font color="#ff8000">And but for the sky</font> there
+are no fences facing
+
+331
+00:02:39,320 --> 00:02:39,590
+<font color="#ff8000">And but for the sky there</font>
+are no fences facing
+
+332
+00:02:39,590 --> 00:02:39,920
+<font color="#ff8000">And but for the sky there
+are</font> no fences facing
+
+333
+00:02:39,920 --> 00:02:40,400
+<font color="#ff8000">And but for the sky there
+are no</font> fences facing
+
+334
+00:02:40,400 --> 00:02:40,590
+<font color="#ff8000">And but for the sky there
+are no fenc</font>es facing
+
+335
+00:02:40,590 --> 00:02:41,070
+<font color="#ff8000">And but for the sky there
+are no fences</font> facing
+
+336
+00:02:41,070 --> 00:02:41,240
+<font color="#ff8000">And but for the sky there
+are no fences fac</font>ing
+
+337
+00:02:41,240 --> 00:02:43,420
+<font color="#ff8000">And but for the sky there
+are no fences facing</font>
+
+338
+00:02:43,420 --> 00:02:43,760
+<font color="#ff8000">And</font> if you hear vague traces
+of skipping reels of rhyme
+
+339
+00:02:43,760 --> 00:02:44,120
+<font color="#ff8000">And if</font> you hear vague traces
+of skipping reels of rhyme
+
+340
+00:02:44,120 --> 00:02:44,400
+<font color="#ff8000">And if you</font> hear vague traces
+of skipping reels of rhyme
+
+341
+00:02:44,400 --> 00:02:44,750
+<font color="#ff8000">And if you hear</font> vague traces
+of skipping reels of rhyme
+
+342
+00:02:44,750 --> 00:02:45,320
+<font color="#ff8000">And if you hear vague</font> traces
+of skipping reels of rhyme
+
+343
+00:02:45,320 --> 00:02:45,650
+<font color="#ff8000">And if you hear vague trac</font>es
+of skipping reels of rhyme
+
+344
+00:02:45,650 --> 00:02:46,320
+<font color="#ff8000">And if you hear vague traces</font>
+of skipping reels of rhyme
+
+345
+00:02:46,320 --> 00:02:46,680
+<font color="#ff8000">And if you hear vague traces
+of</font> skipping reels of rhyme
+
+346
+00:02:46,680 --> 00:02:46,900
+<font color="#ff8000">And if you hear vague traces
+of skip</font>ping reels of rhyme
+
+347
+00:02:46,900 --> 00:02:47,240
+<font color="#ff8000">And if you hear vague traces
+of skipping</font> reels of rhyme
+
+348
+00:02:47,240 --> 00:02:47,700
+<font color="#ff8000">And if you hear vague traces
+of skipping reels</font> of rhyme
+
+349
+00:02:47,700 --> 00:02:47,920
+<font color="#ff8000">And if you hear vague traces
+of skipping reels of</font> rhyme
+
+350
+00:02:47,920 --> 00:02:48,800
+<font color="#ff8000">And if you hear vague traces
+of skipping reels of rhyme</font>
+
+351
+00:02:48,800 --> 00:02:49,020
+<font color="#ff8000">To</font> your tambourine in time
+
+352
+00:02:49,020 --> 00:02:49,350
+<font color="#ff8000">To your</font> tambourine in time
+
+353
+00:02:49,350 --> 00:02:49,820
+<font color="#ff8000">To your tam</font>bourine in time
+
+354
+00:02:49,820 --> 00:02:49,990
+<font color="#ff8000">To your tambou</font>rine in time
+
+355
+00:02:49,990 --> 00:02:50,250
+<font color="#ff8000">To your tambourine</font> in time
+
+356
+00:02:50,250 --> 00:02:50,630
+<font color="#ff8000">To your tambourine in</font> time
+
+357
+00:02:50,630 --> 00:02:51,460
+<font color="#ff8000">To your tambourine in time</font>
+
+358
+00:02:51,460 --> 00:02:51,700
+<font color="#ff8000">It's</font> just a ragged clown behind
+
+359
+00:02:51,700 --> 00:02:51,910
+<font color="#ff8000">It's just</font> a ragged clown behind
+
+360
+00:02:51,910 --> 00:02:52,170
+<font color="#ff8000">It's just a</font> ragged clown behind
+
+361
+00:02:52,170 --> 00:02:52,360
+<font color="#ff8000">It's just a rag</font>ged clown behind
+
+362
+00:02:52,360 --> 00:02:52,690
+<font color="#ff8000">It's just a ragged</font> clown behind
+
+363
+00:02:52,690 --> 00:02:53,160
+<font color="#ff8000">It's just a ragged clown</font> behind
+
+364
+00:02:53,160 --> 00:02:53,380
+<font color="#ff8000">It's just a ragged clown be</font>hind
+
+365
+00:02:53,380 --> 00:02:54,210
+<font color="#ff8000">It's just a ragged clown behind</font>
+
+366
+00:02:54,210 --> 00:02:54,410
+<font color="#ff8000">I</font> wouldn't pay it any mind
+
+367
+00:02:54,410 --> 00:02:54,560
+<font color="#ff8000">I would</font>n't pay it any mind
+
+368
+00:02:54,560 --> 00:02:54,830
+<font color="#ff8000">I wouldn't</font> pay it any mind
+
+369
+00:02:54,830 --> 00:02:55,160
+<font color="#ff8000">I wouldn't pay</font> it any mind
+
+370
+00:02:55,160 --> 00:02:55,430
+<font color="#ff8000">I wouldn't pay it</font> any mind
+
+371
+00:02:55,430 --> 00:02:55,740
+<font color="#ff8000">I wouldn't pay it a</font>ny mind
+
+372
+00:02:55,740 --> 00:02:55,960
+<font color="#ff8000">I wouldn't pay it any</font> mind
+
+373
+00:02:55,960 --> 00:02:56,910
+<font color="#ff8000">I wouldn't pay it any mind</font>
+
+374
+00:02:56,910 --> 00:02:57,120
+<font color="#ff8000">It's</font> just a shadow you're
+seeing that he's chasing
+
+375
+00:02:57,120 --> 00:02:57,300
+<font color="#ff8000">It's just</font> a shadow you're
+seeing that he's chasing
+
+376
+00:02:57,300 --> 00:02:57,650
+<font color="#ff8000">It's just a</font> shadow you're
+seeing that he's chasing
+
+377
+00:02:57,650 --> 00:02:57,910
+<font color="#ff8000">It's just a shad</font>ow you're
+seeing that he's chasing
+
+378
+00:02:57,910 --> 00:02:58,600
+<font color="#ff8000">It's just a shadow</font> you're
+seeing that he's chasing
+
+379
+00:02:58,600 --> 00:02:58,870
+<font color="#ff8000">It's just a shadow you're</font>
+seeing that he's chasing
+
+380
+00:02:58,870 --> 00:02:59,060
+<font color="#ff8000">It's just a shadow you're
+see</font>ing that he's chasing
+
+381
+00:02:59,060 --> 00:02:59,660
+<font color="#ff8000">It's just a shadow you're
+seeing</font> that he's chasing
+
+382
+00:02:59,660 --> 00:02:59,820
+<font color="#ff8000">It's just a shadow you're
+seeing that</font> he's chasing
+
+383
+00:02:59,820 --> 00:03:00,160
+<font color="#ff8000">It's just a shadow you're
+seeing that he's</font> chasing
+
+384
+00:03:00,160 --> 00:03:00,390
+<font color="#ff8000">It's just a shadow you're
+seeing that he's chas</font>ing
+
+385
+00:03:00,390 --> 00:03:02,760
+<font color="#ff8000">It's just a shadow you're
+seeing that he's chasing</font>
+
+386
+00:03:02,760 --> 00:03:03,710
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+387
+00:03:03,710 --> 00:03:04,030
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+388
+00:03:04,030 --> 00:03:04,370
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+389
+00:03:04,370 --> 00:03:04,890
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+390
+00:03:04,890 --> 00:03:05,070
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+391
+00:03:05,070 --> 00:03:05,430
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+392
+00:03:05,430 --> 00:03:05,970
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+393
+00:03:05,970 --> 00:03:06,140
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+394
+00:03:06,140 --> 00:03:06,470
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+395
+00:03:06,470 --> 00:03:06,960
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+396
+00:03:06,960 --> 00:03:07,140
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+397
+00:03:07,140 --> 00:03:08,020
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+398
+00:03:08,020 --> 00:03:08,220
+<font color="#ff8000">I'm</font> not sleepy and there
+is no place I'm going to
+
+399
+00:03:08,220 --> 00:03:08,650
+<font color="#ff8000">I'm not</font> sleepy and there
+is no place I'm going to
+
+400
+00:03:08,650 --> 00:03:08,870
+<font color="#ff8000">I'm not sleep</font>y and there
+is no place I'm going to
+
+401
+00:03:08,870 --> 00:03:09,460
+<font color="#ff8000">I'm not sleepy</font> and there
+is no place I'm going to
+
+402
+00:03:09,460 --> 00:03:09,640
+<font color="#ff8000">I'm not sleepy and</font> there
+is no place I'm going to
+
+403
+00:03:09,640 --> 00:03:09,940
+<font color="#ff8000">I'm not sleepy and there</font>
+is no place I'm going to
+
+404
+00:03:09,940 --> 00:03:10,330
+<font color="#ff8000">I'm not sleepy and there
+is</font> no place I'm going to
+
+405
+00:03:10,330 --> 00:03:10,680
+<font color="#ff8000">I'm not sleepy and there
+is no</font> place I'm going to
+
+406
+00:03:10,680 --> 00:03:11,000
+<font color="#ff8000">I'm not sleepy and there
+is no place</font> I'm going to
+
+407
+00:03:11,000 --> 00:03:11,480
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm</font> going to
+
+408
+00:03:11,480 --> 00:03:11,670
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm go</font>ing to
+
+409
+00:03:11,670 --> 00:03:12,070
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going</font> to
+
+410
+00:03:12,070 --> 00:03:13,950
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going to</font>
+
+411
+00:03:13,950 --> 00:03:14,910
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+412
+00:03:14,910 --> 00:03:15,180
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+413
+00:03:15,180 --> 00:03:15,550
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+414
+00:03:15,550 --> 00:03:16,080
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+415
+00:03:16,080 --> 00:03:16,270
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+416
+00:03:16,270 --> 00:03:16,660
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+417
+00:03:16,660 --> 00:03:17,170
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+418
+00:03:17,170 --> 00:03:17,400
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+419
+00:03:17,400 --> 00:03:17,680
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+420
+00:03:17,680 --> 00:03:18,190
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+421
+00:03:18,190 --> 00:03:18,390
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+422
+00:03:18,390 --> 00:03:19,230
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+423
+00:03:19,230 --> 00:03:19,460
+<font color="#ff8000">In</font> the jingle jangle morning
+I'll come following you
+
+424
+00:03:19,460 --> 00:03:19,810
+<font color="#ff8000">In the</font> jingle jangle morning
+I'll come following you
+
+425
+00:03:19,810 --> 00:03:20,110
+<font color="#ff8000">In the jin</font>gle jangle morning
+I'll come following you
+
+426
+00:03:20,110 --> 00:03:20,450
+<font color="#ff8000">In the jingle</font> jangle morning
+I'll come following you
+
+427
+00:03:20,450 --> 00:03:20,910
+<font color="#ff8000">In the jingle jan</font>gle morning
+I'll come following you
+
+428
+00:03:20,910 --> 00:03:21,110
+<font color="#ff8000">In the jingle jangle</font> morning
+I'll come following you
+
+429
+00:03:21,110 --> 00:03:21,390
+<font color="#ff8000">In the jingle jangle morn</font>ing
+I'll come following you
+
+430
+00:03:21,390 --> 00:03:21,840
+<font color="#ff8000">In the jingle jangle morning</font>
+I'll come following you
+
+431
+00:03:21,840 --> 00:03:22,130
+<font color="#ff8000">In the jingle jangle morning
+I'll</font> come following you
+
+432
+00:03:22,130 --> 00:03:22,490
+<font color="#ff8000">In the jingle jangle morning
+I'll come</font> following you
+
+433
+00:03:22,490 --> 00:03:23,550
+<font color="#ff8000">In the jingle jangle morning
+I'll come fol</font>lowing you
+
+434
+00:03:23,550 --> 00:03:23,690
+<font color="#ff8000">In the jingle jangle morning
+I'll come follow</font>ing you
+
+435
+00:03:23,690 --> 00:03:23,990
+<font color="#ff8000">In the jingle jangle morning
+I'll come following</font> you
+
+436
+00:03:23,990 --> 00:03:26,570
+<font color="#ff8000">In the jingle jangle morning
+I'll come following you</font>
+
+437
+00:04:08,470 --> 00:04:08,990
+<font color="#ff8000">And</font> take me disappearing through
+the smoke rings of my mind
+
+438
+00:04:08,990 --> 00:04:09,320
+<font color="#ff8000">And take</font> me disappearing through
+the smoke rings of my mind
+
+439
+00:04:09,320 --> 00:04:09,630
+<font color="#ff8000">And take me</font> disappearing through
+the smoke rings of my mind
+
+440
+00:04:09,630 --> 00:04:09,990
+<font color="#ff8000">And take me dis</font>appearing through
+the smoke rings of my mind
+
+441
+00:04:09,990 --> 00:04:10,270
+<font color="#ff8000">And take me disap</font>pearing through
+the smoke rings of my mind
+
+442
+00:04:10,270 --> 00:04:10,490
+<font color="#ff8000">And take me disappear</font>ing through
+the smoke rings of my mind
+
+443
+00:04:10,490 --> 00:04:11,250
+<font color="#ff8000">And take me disappearing</font> through
+the smoke rings of my mind
+
+444
+00:04:11,250 --> 00:04:11,400
+<font color="#ff8000">And take me disappearing through</font>
+the smoke rings of my mind
+
+445
+00:04:11,400 --> 00:04:11,750
+<font color="#ff8000">And take me disappearing through
+the</font> smoke rings of my mind
+
+446
+00:04:11,750 --> 00:04:12,020
+<font color="#ff8000">And take me disappearing through
+the smoke</font> rings of my mind
+
+447
+00:04:12,020 --> 00:04:12,320
+<font color="#ff8000">And take me disappearing through
+the smoke rings</font> of my mind
+
+448
+00:04:12,320 --> 00:04:12,630
+<font color="#ff8000">And take me disappearing through
+the smoke rings of</font> my mind
+
+449
+00:04:12,630 --> 00:04:12,960
+<font color="#ff8000">And take me disappearing through
+the smoke rings of my</font> mind
+
+450
+00:04:12,960 --> 00:04:13,800
+<font color="#ff8000">And take me disappearing through
+the smoke rings of my mind</font>
+
+451
+00:04:13,800 --> 00:04:14,130
+<font color="#ff8000">Down</font> the foggy ruins of time
+
+452
+00:04:14,130 --> 00:04:14,350
+<font color="#ff8000">Down the</font> foggy ruins of time
+
+453
+00:04:14,350 --> 00:04:14,560
+<font color="#ff8000">Down the fog</font>gy ruins of time
+
+454
+00:04:14,560 --> 00:04:14,950
+<font color="#ff8000">Down the foggy</font> ruins of time
+
+455
+00:04:14,950 --> 00:04:15,120
+<font color="#ff8000">Down the foggy ru</font>ins of time
+
+456
+00:04:15,120 --> 00:04:15,400
+<font color="#ff8000">Down the foggy ruins</font> of time
+
+457
+00:04:15,400 --> 00:04:15,590
+<font color="#ff8000">Down the foggy ruins of</font> time
+
+458
+00:04:15,590 --> 00:04:16,600
+<font color="#ff8000">Down the foggy ruins of time</font>
+
+459
+00:04:16,600 --> 00:04:16,940
+<font color="#ff8000">Far</font> past the frozen leaves
+
+460
+00:04:16,940 --> 00:04:17,350
+<font color="#ff8000">Far past</font> the frozen leaves
+
+461
+00:04:17,350 --> 00:04:17,630
+<font color="#ff8000">Far past the</font> frozen leaves
+
+462
+00:04:17,630 --> 00:04:17,990
+<font color="#ff8000">Far past the fro</font>zen leaves
+
+463
+00:04:17,990 --> 00:04:18,279
+<font color="#ff8000">Far past the frozen</font> leaves
+
+464
+00:04:18,279 --> 00:04:19,370
+<font color="#ff8000">Far past the frozen leaves</font>
+
+465
+00:04:19,370 --> 00:04:19,730
+<font color="#ff8000">The</font> haunted frightened trees
+
+466
+00:04:19,730 --> 00:04:20,000
+<font color="#ff8000">The haunt</font>ed frightened trees
+
+467
+00:04:20,000 --> 00:04:20,350
+<font color="#ff8000">The haunted</font> frightened trees
+
+468
+00:04:20,350 --> 00:04:20,529
+<font color="#ff8000">The haunted fright</font>ened trees
+
+469
+00:04:20,529 --> 00:04:20,850
+<font color="#ff8000">The haunted frightened</font> trees
+
+470
+00:04:20,850 --> 00:04:21,970
+<font color="#ff8000">The haunted frightened trees</font>
+
+471
+00:04:21,970 --> 00:04:22,350
+<font color="#ff8000">Out</font> to the windy beach
+
+472
+00:04:22,350 --> 00:04:22,600
+<font color="#ff8000">Out to</font> the windy beach
+
+473
+00:04:22,600 --> 00:04:22,880
+<font color="#ff8000">Out to the</font> windy beach
+
+474
+00:04:22,880 --> 00:04:23,160
+<font color="#ff8000">Out to the wind</font>y beach
+
+475
+00:04:23,160 --> 00:04:23,480
+<font color="#ff8000">Out to the windy</font> beach
+
+476
+00:04:23,480 --> 00:04:24,400
+<font color="#ff8000">Out to the windy beach</font>
+
+477
+00:04:24,400 --> 00:04:24,820
+<font color="#ff8000">Far</font> from the twisted
+reach of crazy sorrow
+
+478
+00:04:24,820 --> 00:04:25,110
+<font color="#ff8000">Far from</font> the twisted
+reach of crazy sorrow
+
+479
+00:04:25,110 --> 00:04:25,450
+<font color="#ff8000">Far from the</font> twisted
+reach of crazy sorrow
+
+480
+00:04:25,450 --> 00:04:25,770
+<font color="#ff8000">Far from the twist</font>ed
+reach of crazy sorrow
+
+481
+00:04:25,770 --> 00:04:26,050
+<font color="#ff8000">Far from the twisted</font>
+reach of crazy sorrow
+
+482
+00:04:26,050 --> 00:04:26,420
+<font color="#ff8000">Far from the twisted
+reach</font> of crazy sorrow
+
+483
+00:04:26,420 --> 00:04:26,810
+<font color="#ff8000">Far from the twisted
+reach of</font> crazy sorrow
+
+484
+00:04:26,810 --> 00:04:27,330
+<font color="#ff8000">Far from the twisted
+reach of craz</font>y sorrow
+
+485
+00:04:27,330 --> 00:04:27,670
+<font color="#ff8000">Far from the twisted
+reach of crazy</font> sorrow
+
+486
+00:04:27,670 --> 00:04:27,890
+<font color="#ff8000">Far from the twisted
+reach of crazy sor</font>row
+
+487
+00:04:27,890 --> 00:04:29,560
+<font color="#ff8000">Far from the twisted
+reach of crazy sorrow</font>
+
+488
+00:04:29,560 --> 00:04:30,070
+<font color="#ff8000">Yes,</font> to dance beneath the diamond sky
+
+489
+00:04:30,070 --> 00:04:30,210
+<font color="#ff8000">Yes, to</font> dance beneath the diamond sky
+
+490
+00:04:30,210 --> 00:04:30,850
+<font color="#ff8000">Yes, to dance</font> beneath the diamond sky
+
+491
+00:04:30,850 --> 00:04:31,060
+<font color="#ff8000">Yes, to dance be</font>neath the diamond sky
+
+492
+00:04:31,060 --> 00:04:31,460
+<font color="#ff8000">Yes, to dance beneath</font> the diamond sky
+
+493
+00:04:31,460 --> 00:04:31,710
+<font color="#ff8000">Yes, to dance beneath the</font> diamond sky
+
+494
+00:04:31,710 --> 00:04:31,900
+<font color="#ff8000">Yes, to dance beneath the dia</font>mond sky
+
+495
+00:04:31,900 --> 00:04:32,200
+<font color="#ff8000">Yes, to dance beneath the diamond</font> sky
+
+496
+00:04:32,200 --> 00:04:32,560
+<font color="#ff8000">Yes, to dance beneath the diamond sky</font>
+
+497
+00:04:32,560 --> 00:04:32,860
+<font color="#ff8000">With</font> one hand waving free
+
+498
+00:04:32,860 --> 00:04:33,080
+<font color="#ff8000">With one</font> hand waving free
+
+499
+00:04:33,080 --> 00:04:33,440
+<font color="#ff8000">With one hand</font> waving free
+
+500
+00:04:33,440 --> 00:04:33,710
+<font color="#ff8000">With one hand wav</font>ing free
+
+501
+00:04:33,710 --> 00:04:34,140
+<font color="#ff8000">With one hand waving</font> free
+
+502
+00:04:34,140 --> 00:04:35,010
+<font color="#ff8000">With one hand waving free</font>
+
+503
+00:04:35,010 --> 00:04:35,180
+<font color="#ff8000">Sil</font>houetted by the sea
+
+504
+00:04:35,180 --> 00:04:35,470
+<font color="#ff8000">Silhou</font>etted by the sea
+
+505
+00:04:35,470 --> 00:04:35,680
+<font color="#ff8000">Silhouet</font>ted by the sea
+
+506
+00:04:35,680 --> 00:04:36,260
+<font color="#ff8000">Silhouetted</font> by the sea
+
+507
+00:04:36,260 --> 00:04:36,590
+<font color="#ff8000">Silhouetted by</font> the sea
+
+508
+00:04:36,590 --> 00:04:36,820
+<font color="#ff8000">Silhouetted by the</font> sea
+
+509
+00:04:36,820 --> 00:04:37,610
+<font color="#ff8000">Silhouetted by the sea</font>
+
+510
+00:04:37,610 --> 00:04:37,830
+<font color="#ff8000">Cir</font>cled by the circus sands
+
+511
+00:04:37,830 --> 00:04:38,180
+<font color="#ff8000">Circled</font> by the circus sands
+
+512
+00:04:38,180 --> 00:04:38,570
+<font color="#ff8000">Circled by</font> the circus sands
+
+513
+00:04:38,570 --> 00:04:38,830
+<font color="#ff8000">Circled by the</font> circus sands
+
+514
+00:04:38,830 --> 00:04:39,070
+<font color="#ff8000">Circled by the circ</font>us sands
+
+515
+00:04:39,070 --> 00:04:39,460
+<font color="#ff8000">Circled by the circus</font> sands
+
+516
+00:04:39,460 --> 00:04:40,280
+<font color="#ff8000">Circled by the circus sands</font>
+
+517
+00:04:40,280 --> 00:04:40,540
+<font color="#ff8000">With</font> all memory and fate
+
+518
+00:04:40,540 --> 00:04:40,970
+<font color="#ff8000">With all</font> memory and fate
+
+519
+00:04:40,970 --> 00:04:41,170
+<font color="#ff8000">With all mem</font>ory and fate
+
+520
+00:04:41,170 --> 00:04:41,420
+<font color="#ff8000">With all memo</font>ry and fate
+
+521
+00:04:41,420 --> 00:04:41,740
+<font color="#ff8000">With all memory</font> and fate
+
+522
+00:04:41,740 --> 00:04:42,230
+<font color="#ff8000">With all memory and</font> fate
+
+523
+00:04:42,230 --> 00:04:42,940
+<font color="#ff8000">With all memory and fate</font>
+
+524
+00:04:42,940 --> 00:04:43,120
+<font color="#ff8000">Driv</font>en deep beneath the waves
+
+525
+00:04:43,120 --> 00:04:43,570
+<font color="#ff8000">Driven</font> deep beneath the waves
+
+526
+00:04:43,570 --> 00:04:44,040
+<font color="#ff8000">Driven deep</font> beneath the waves
+
+527
+00:04:44,040 --> 00:04:44,270
+<font color="#ff8000">Driven deep be</font>neath the waves
+
+528
+00:04:44,270 --> 00:04:44,630
+<font color="#ff8000">Driven deep beneath</font> the waves
+
+529
+00:04:44,630 --> 00:04:44,800
+<font color="#ff8000">Driven deep beneath the</font> waves
+
+530
+00:04:44,800 --> 00:04:45,500
+<font color="#ff8000">Driven deep beneath the waves</font>
+
+531
+00:04:45,500 --> 00:04:45,730
+<font color="#ff8000">Let</font> me forget about
+today until tomorrow
+
+532
+00:04:45,730 --> 00:04:45,980
+<font color="#ff8000">Let me</font> forget about
+today until tomorrow
+
+533
+00:04:45,980 --> 00:04:46,320
+<font color="#ff8000">Let me forg</font>et about
+today until tomorrow
+
+534
+00:04:46,320 --> 00:04:46,540
+<font color="#ff8000">Let me forget</font> about
+today until tomorrow
+
+535
+00:04:46,540 --> 00:04:46,720
+<font color="#ff8000">Let me forget a</font>bout
+today until tomorrow
+
+536
+00:04:46,720 --> 00:04:47,110
+<font color="#ff8000">Let me forget about</font>
+today until tomorrow
+
+537
+00:04:47,110 --> 00:04:47,250
+<font color="#ff8000">Let me forget about
+to</font>day until tomorrow
+
+538
+00:04:47,250 --> 00:04:47,840
+<font color="#ff8000">Let me forget about
+today</font> until tomorrow
+
+539
+00:04:47,840 --> 00:04:48,220
+<font color="#ff8000">Let me forget about
+today un</font>til tomorrow
+
+540
+00:04:48,220 --> 00:04:48,730
+<font color="#ff8000">Let me forget about
+today until</font> tomorrow
+
+541
+00:04:48,730 --> 00:04:49,000
+<font color="#ff8000">Let me forget about
+today until to</font>morrow
+
+542
+00:04:49,000 --> 00:04:49,230
+<font color="#ff8000">Let me forget about
+today until tomor</font>row
+
+543
+00:04:49,230 --> 00:04:51,170
+<font color="#ff8000">Let me forget about
+today until tomorrow</font>
+
+544
+00:04:51,170 --> 00:04:52,010
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+545
+00:04:52,010 --> 00:04:52,310
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+546
+00:04:52,310 --> 00:04:52,590
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+547
+00:04:52,590 --> 00:04:53,130
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+548
+00:04:53,130 --> 00:04:53,330
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+549
+00:04:53,330 --> 00:04:53,580
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+550
+00:04:53,580 --> 00:04:54,110
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+551
+00:04:54,110 --> 00:04:54,340
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+552
+00:04:54,340 --> 00:04:54,630
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+553
+00:04:54,630 --> 00:04:55,100
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+554
+00:04:55,100 --> 00:04:55,280
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+555
+00:04:55,280 --> 00:04:56,070
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+556
+00:04:56,070 --> 00:04:56,330
+<font color="#ff8000">I'm</font> not sleepy and there
+is no place I'm going to
+
+557
+00:04:56,330 --> 00:04:56,730
+<font color="#ff8000">I'm not</font> sleepy and there
+is no place I'm going to
+
+558
+00:04:56,730 --> 00:04:56,950
+<font color="#ff8000">I'm not sleep</font>y and there
+is no place I'm going to
+
+559
+00:04:56,950 --> 00:04:57,480
+<font color="#ff8000">I'm not sleepy</font> and there
+is no place I'm going to
+
+560
+00:04:57,480 --> 00:04:57,690
+<font color="#ff8000">I'm not sleepy and</font> there
+is no place I'm going to
+
+561
+00:04:57,690 --> 00:04:57,980
+<font color="#ff8000">I'm not sleepy and there</font>
+is no place I'm going to
+
+562
+00:04:57,980 --> 00:04:58,360
+<font color="#ff8000">I'm not sleepy and there
+is</font> no place I'm going to
+
+563
+00:04:58,360 --> 00:04:58,720
+<font color="#ff8000">I'm not sleepy and there
+is no</font> place I'm going to
+
+564
+00:04:58,720 --> 00:04:59,000
+<font color="#ff8000">I'm not sleepy and there
+is no place</font> I'm going to
+
+565
+00:04:59,000 --> 00:04:59,510
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm</font> going to
+
+566
+00:04:59,510 --> 00:04:59,730
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm go</font>ing to
+
+567
+00:04:59,730 --> 00:05:00,100
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going</font> to
+
+568
+00:05:00,100 --> 00:05:01,900
+<font color="#ff8000">I'm not sleepy and there
+is no place I'm going to</font>
+
+569
+00:05:01,900 --> 00:05:02,860
+<font color="#ff8000">Hey,</font> Mister Tambourine
+Man, play a song for me
+
+570
+00:05:02,860 --> 00:05:03,150
+<font color="#ff8000">Hey, Mis</font>ter Tambourine
+Man, play a song for me
+
+571
+00:05:03,150 --> 00:05:03,410
+<font color="#ff8000">Hey, Mister</font> Tambourine
+Man, play a song for me
+
+572
+00:05:03,410 --> 00:05:03,990
+<font color="#ff8000">Hey, Mister Tam</font>bourine
+Man, play a song for me
+
+573
+00:05:03,990 --> 00:05:04,170
+<font color="#ff8000">Hey, Mister Tambou</font>rine
+Man, play a song for me
+
+574
+00:05:04,170 --> 00:05:04,470
+<font color="#ff8000">Hey, Mister Tambourine</font>
+Man, play a song for me
+
+575
+00:05:04,470 --> 00:05:05,080
+<font color="#ff8000">Hey, Mister Tambourine
+Man,</font> play a song for me
+
+576
+00:05:05,080 --> 00:05:05,230
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play</font> a song for me
+
+577
+00:05:05,230 --> 00:05:05,510
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a</font> song for me
+
+578
+00:05:05,510 --> 00:05:06,020
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song</font> for me
+
+579
+00:05:06,020 --> 00:05:06,210
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for</font> me
+
+580
+00:05:06,210 --> 00:05:07,060
+<font color="#ff8000">Hey, Mister Tambourine
+Man, play a song for me</font>
+
+581
+00:05:07,060 --> 00:05:07,250
+<font color="#ff8000">In</font> the jingle jangle morning
+I'll come following you
+
+582
+00:05:07,250 --> 00:05:07,600
+<font color="#ff8000">In the</font> jingle jangle morning
+I'll come following you
+
+583
+00:05:07,600 --> 00:05:08,000
+<font color="#ff8000">In the jin</font>gle jangle morning
+I'll come following you
+
+584
+00:05:08,000 --> 00:05:08,360
+<font color="#ff8000">In the jingle</font> jangle morning
+I'll come following you
+
+585
+00:05:08,360 --> 00:05:08,800
+<font color="#ff8000">In the jingle jan</font>gle morning
+I'll come following you
+
+586
+00:05:08,800 --> 00:05:09,020
+<font color="#ff8000">In the jingle jangle</font> morning
+I'll come following you
+
+587
+00:05:09,020 --> 00:05:09,290
+<font color="#ff8000">In the jingle jangle morn</font>ing
+I'll come following you
+
+588
+00:05:09,290 --> 00:05:09,850
+<font color="#ff8000">In the jingle jangle morning</font>
+I'll come following you
+
+589
+00:05:09,850 --> 00:05:09,980
+<font color="#ff8000">In the jingle jangle morning
+I'll</font> come following you
+
+590
+00:05:09,980 --> 00:05:10,340
+<font color="#ff8000">In the jingle jangle morning
+I'll come</font> following you
+
+591
+00:05:10,340 --> 00:05:11,390
+<font color="#ff8000">In the jingle jangle morning
+I'll come fol</font>lowing you
+
+592
+00:05:11,390 --> 00:05:11,530
+<font color="#ff8000">In the jingle jangle morning
+I'll come follow</font>ing you
+
+593
+00:05:11,530 --> 00:05:11,830
+<font color="#ff8000">In the jingle jangle morning
+I'll come following</font> you
+
+594
+00:05:11,830 --> 00:05:14,600
+<font color="#ff8000">In the jingle jangle morning
+I'll come following you</font>

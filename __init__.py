@@ -19,11 +19,13 @@ from .operators.save_syllables import SaveSyllables
 from .operators.split_words import SplitWords
 from .operators.combine_words import CombineWords
 
+from .operators.select import SelectChannelRight, SelectChannelLeft
+
 bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 2, 4),
+    "version": (1, 2, 5),
     "blender": (2, 7, 8),
     "wiki_url": "https://github.com/doakey3/subsimport",
     "tracker_url": "https://github.com/doakey3/subsimport/issues",
@@ -193,6 +195,14 @@ def register():
     
     kmi = km.keymap_items.new("sequencerextra.reset_children", "Z", 'PRESS')
 
+    kmi = km.keymap_items.new(
+        "sequencerextra.select_channel_right", "RIGHT_ARROW", "PRESS", alt=False,
+        ctrl=True, shift=True
+        )
+    kmi = km.keymap_items.new(
+        "sequencerextra.select_channel_left", "LEFT_ARROW", "PRESS", alt=False,
+        ctrl=True, shift=True
+        )
 
 def unregister():
     del bpy.types.Scene.subtitle_edit_channel
@@ -210,7 +220,9 @@ def unregister():
         if kmi.idname in ["sequencerextra.shift_frame_start",
                           "sequencerextra.shift_frame_end",
                           "sequencerextra.shift_frame_start_end",
-                          "sequencerextra.shift_frame_end_start"]:
+                          "sequencerextra.shift_frame_end_start",
+                          "sequencerextra.select_channel_right",
+                          "sequencerextra.select_channel_left"]:
             km.keymap_items.remove(kmi)
 
     bpy.utils.unregister_module(__name__)

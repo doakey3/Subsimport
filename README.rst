@@ -213,6 +213,14 @@ if it means going outside the bounds of their base strips.
     
 .. image:: http://i.imgur.com/XoxELtD.gif
 
+:Ctrl + Shift + Right:
+    Select all strips in the Subtitle Edit Channel to the right of the 
+    current time indicator.
+    
+:Ctrl + Shift + Left:
+    Select all strips in the Subtitle Edit Channel to the left of the 
+    current time indicator
+
 Contributing
 ============
 

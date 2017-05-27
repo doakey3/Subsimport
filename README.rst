@@ -29,9 +29,13 @@ Installation
 Usage
 =====
 
+A `video tutorial`_ is available.
+
 The user interface is located to the right side of the video sequencer.
 
 .. image:: http://i.imgur.com/nNchW3Z.png
+
+.. _video tutorial: https://www.youtube.com/watch?v=R-jis3S6dxU
 
 Subtitle Edit Channel
 ---------------------

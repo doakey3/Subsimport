@@ -25,12 +25,18 @@ def collect_words(scene):
             words.pop(i)
         else:
             i += 1
-            
     words = set(words)
     words = list(sorted(words))
     
     for i in range(len(words)):
         words[i] = remove_punctuation(words[i])
+    
+    i = 0
+    while i < len(words):
+        if words[i] == '':
+            words.pop(i)
+        else:
+            i += 1
     
     return words
 

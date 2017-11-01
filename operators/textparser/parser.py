@@ -13,8 +13,9 @@ def text_to_srt(text, fps):
     sec_time = 0
     for i in range(len(lines)):
         seg = str(i + 1) + '\n'
-        start = seconds_to_srt_timecode(i * fps)
-        sec_time = (i * fps) + fps
+        
+        start = seconds_to_srt_timecode(i + 0.00000001)
+        sec_time = i + 1.00000001
         end = seconds_to_srt_timecode(sec_time) 
         seg += start + ' --> ' + end + '\n'
         

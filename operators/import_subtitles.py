@@ -24,13 +24,14 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
 
     def execute(self, context):
         scene = context.scene
-
+        fps = scene.render.fps/scene.render.fps_base
+        
         file = open(self.filepath, encoding='utf-8', errors='ignore')
         text = file.read()
         file.close()
 
         if self.filepath.endswith('.txt'):
-            text = text_to_srt(text)
+            text = text_to_srt(text, fps)
 
         elif self.filepath.endswith('.lrc'):
             lrc = lrc_parse(text)

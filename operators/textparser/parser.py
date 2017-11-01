@@ -1,7 +1,7 @@
 from .tools.find_even_split import find_even_split
 from .tools.seconds_to_srt_timecode import seconds_to_srt_timecode
 
-def text_to_srt(text):
+def text_to_srt(text, fps):
     """
     Creates an SRT string out of plain text, with 1 second for each 
     segment
@@ -13,8 +13,8 @@ def text_to_srt(text):
     sec_time = 0
     for i in range(len(lines)):
         seg = str(i + 1) + '\n'
-        start = seconds_to_srt_timecode(sec_time)
-        sec_time += 1
+        start = seconds_to_srt_timecode(i * fps)
+        sec_time = (i * fps) + fps
         end = seconds_to_srt_timecode(sec_time) 
         seg += start + ' --> ' + end + '\n'
         

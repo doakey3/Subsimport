@@ -25,7 +25,7 @@ bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 2, 7),
+    "version": (1, 2, 8),
     "blender": (2, 7, 8),
     "wiki_url": "https://github.com/doakey3/subsimport",
     "tracker_url": "https://github.com/doakey3/subsimport/issues",
@@ -36,6 +36,11 @@ class subsimport_UI(bpy.types.Panel):
     bl_space_type = "SEQUENCE_EDITOR"
     bl_region_type = "UI"
     bl_label = "Subsimport"
+    bl_category = "Tools"
+    
+    @classmethod
+    def poll(cls, context):
+        return context.space_data.view_type == 'SEQUENCER'
 
     def draw(self, context):
         scene = context.scene

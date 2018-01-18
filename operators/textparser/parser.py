@@ -20,7 +20,7 @@ def text_to_srt(text, fps):
         seg += start + ' --> ' + end + '\n'
         
         if len(lines[i].rstrip()) > 31:
-            lines[i] = find_even_split(lines[i])
+            lines[i] = find_even_split(lines[i].rstrip())
         
         seg += lines[i] + '\n'
         output.append(seg)

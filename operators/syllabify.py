@@ -16,7 +16,7 @@ def collect_words(scene):
         
     text_strips = get_text_strips(scene)
     for strip in text_strips:
-        strip_words = strip.text.lower().replace('\n', ' ').split(' ')
+        strip_words = strip.text.lower().replace('--', ' ').replace('\n', ' ').split(' ')
         words.extend(strip_words)
     
     i = 0
@@ -78,6 +78,7 @@ class Syllabify(bpy.types.Operator, ExportHelper):
         words = collect_words(scene)
         
         found_words = []
+        not_founds = []
         if scene.use_dictionary_syllabification:
             dictionary = get_dictionary(
                 lang=scene.syllabification_language)
@@ -86,7 +87,12 @@ class Syllabify(bpy.types.Operator, ExportHelper):
                     words[i] = dictionary[words[i]]
                     found_words.append(words[i])
                 except KeyError:
-                    pass
+                    not_founds.append(words[i])
+        if len(not_founds) > 0:
+            print('=================\nNot in Dictionary\n=================')
+            not_founds = list(set(not_founds))
+            for i in range(len(not_founds)):
+                print(not_founds[i].encode('ascii', errors='replace').decode('ascii'))
                     
         if scene.use_algorithmic_syllabification:
             hyphenator = Hyphenator()

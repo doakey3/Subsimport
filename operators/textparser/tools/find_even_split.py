@@ -1,17 +1,27 @@
-def find_even_split(line):
+def make_lines(line, space):
     """
-    Given a string, splits it into two (almost) evenly spaced lines
+    Make a list of lines that are less than or equal to space long
     """
     word_list = line.split(' ')
-    differences = []
-    for i in range(len(word_list)):
-        group1 = ' '.join(word_list[0:i + 1])
-        group2 = ' '.join(word_list[i + 1::])
-        differences.append(abs(len(group1) - len(group2)))
-    index = differences.index(min(differences))
-    for i in range(len(word_list)):
-        if i == index:
-            group1 = ' '.join(word_list[0:i+1])
-            group2 = ' '.join(word_list[i+1::])
-    
-    return ''.join([group1, '\n', group2]).rstrip()
+    lines = []
+    growing_string = ''
+    while len(word_list) > 0:
+        if len((growing_string + ' ' + word_list[0]).strip()) <= space:
+            growing_string += ' ' + word_list[0]
+            growing_string = growing_string.strip()
+        else:
+            lines.append(growing_string.strip())
+            growing_string = word_list[0]
+        word_list.pop(0)
+    lines.append(growing_string)
+    return lines
+
+def find_even_split(line):
+    max_line_length = 31
+    output = make_lines(line, max_line_length)
+    max_lines = len(output)
+    space = max_line_length - 1
+    while len(make_lines(line, space)) == max_lines:
+        space -= 1
+    lines = make_lines(line, space + 1)
+    return '\n'.join(make_lines(line, space + 1))

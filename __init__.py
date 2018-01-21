@@ -37,6 +37,7 @@ class subsimport_UI(bpy.types.Panel):
     bl_region_type = "UI"
     bl_label = "Subsimport"
     bl_category = "Tools"
+    bl_options = {"DEFAULT_CLOSED"}
     
     @classmethod
     def poll(cls, context):

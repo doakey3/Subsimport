@@ -5,11 +5,11 @@ class Hyphenator:
         self.tree = {}
         self.patterns = ""
         self.text_exceptions = ""
-    
+
     def setup_patterns(self):
         for pattern in self.patterns.split():
             self._insert_pattern(pattern)
-        
+
         self.exceptions = {}
         for ex in self.text_exceptions.split():
             # Convert the hyphenated pattern into a point array for use later.

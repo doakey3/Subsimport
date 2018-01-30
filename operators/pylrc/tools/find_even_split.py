@@ -13,5 +13,5 @@ def find_even_split(line):
         if i == index:
             group1 = ' '.join(word_list[0:i+1])
             group2 = ' '.join(word_list[i+1::])
-    
+
     return ''.join([group1, '\n', group2]).rstrip()

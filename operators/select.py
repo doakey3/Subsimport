@@ -13,19 +13,19 @@ class SelectChannelRight(bpy.types.Operator):
             return scn.sequence_editor.sequences
         else:
             return False
-    
+
     def execute(self, context):
         scene = context.scene
         bpy.ops.sequencer.select_all(action="DESELECT")
-        
+
         all_strips = list(sorted(scene.sequence_editor.sequences,
             key=lambda x: x.frame_start))
-        
+
         for strip in all_strips:
             if strip.channel == scene.subtitle_edit_channel:
                 if strip.frame_final_end > scene.frame_current:
                     strip.select = True
-        
+
         return {'FINISHED'}
 
 class SelectChannelLeft(bpy.types.Operator):
@@ -41,17 +41,17 @@ class SelectChannelLeft(bpy.types.Operator):
             return scn.sequence_editor.sequences
         else:
             return False
-    
+
     def execute(self, context):
         scene = context.scene
         bpy.ops.sequencer.select_all(action="DESELECT")
-        
+
         all_strips = list(sorted(scene.sequence_editor.sequences,
             key=lambda x: x.frame_start))
-        
+
         for strip in all_strips:
             if strip.channel == scene.subtitle_edit_channel:
                 if strip.frame_final_start < scene.frame_current:
                     strip.select = True
-        
+
         return {'FINISHED'}

@@ -135,7 +135,7 @@ class SubRipFile(UserList, object):
         self.sort()
         for index, item in enumerate(self):
             item.index = index + 1
-    
+
     @property
     def is_enhanced(self):
         """
@@ -182,16 +182,16 @@ class SubRipFile(UserList, object):
         new_file = cls(**kwargs)
         new_file.read(source.splitlines(True), error_handling=error_handling)
         return new_file
-    
+
     def to_string(self):
         """
         returns the subtitles as a string
         """
         output = []
         for sub in self:
-            output.append(str(sub))        
+            output.append(str(sub))
         return '\n'.join(output)
-    
+
     def remove_overlaps(self):
         """
         Adjusts start times of overlapping subtitles to remove overlap
@@ -201,14 +201,14 @@ class SubRipFile(UserList, object):
             previous_end = self[i - 1].end.to_millis()
             current_start = self[i].start.to_millis()
             current_end = self[i].end.to_millis()
-            
+
             if current_start < previous_end:
                 current_start = previous_end
                 self[i].start.from_millis(current_start)
-            
+
             if current_start >= current_end:
                 self.pop(i)
-            
+
             else:
                 i += 1
 

@@ -25,7 +25,7 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
     def execute(self, context):
         scene = context.scene
         fps = scene.render.fps/scene.render.fps_base
-        
+
         file = open(self.filepath, encoding='utf-8', errors='ignore')
         text = file.read()
         file.close()
@@ -39,44 +39,44 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
 
         subs = SubRipFile().from_string(text)
         subs.remove_overlaps()
-        
+
         scene.use_audio_scrub = True
         scene.use_audio_sync = True
         scene.use_frame_drop = True
-        
+
         try:
             all_strips = list(sorted(scene.sequence_editor.sequences,
                 key=lambda x: x.frame_start))
-            
+
             for strip in all_strips:
                 strip.select = False
-        
+
         except AttributeError:
             pass
 
         if subs.is_enhanced:
-            
+
             bases, tops, color = convert_enhanced(subs)
             color = hexcode_to_color(color)
-            
+
             scene.enhanced_subs_color[0] = color[0]
             scene.enhanced_subs_color[1] = color[1]
             scene.enhanced_subs_color[2] = color[2]
-            
+
             subtitles_to_sequencer(context, bases)
-            
+
             strips = subtitles_to_sequencer(context, tops)
-            
+
             for strip in strips:
                 strip.color[0] = scene.enhanced_subs_color[0]
                 strip.color[1] = scene.enhanced_subs_color[1]
                 strip.color[2] = scene.enhanced_subs_color[2]
-            
+
         else:
             strips = subtitles_to_sequencer(context, subs)
 
         scene.subtitle_edit_channel = strips[0].channel
-        
+
         bpy.ops.sequencer.view_selected()
-        
+
         return {"FINISHED"}

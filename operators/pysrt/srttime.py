@@ -187,25 +187,25 @@ class SubRipTime(ComparableMixin):
             self.hours * 60 * 60 * 1000
             ])
         return total_millis
-    
+
     def from_millis(self, total_millis):
         """
-        Sets the hours, minutes, seconds, & milliseconds from total 
+        Sets the hours, minutes, seconds, & milliseconds from total
         milliseconds
         """
         millis_per_hour = 60 * 60 * 1000
         millis_per_min = 60 * 1000
         millis_per_sec = 1000
-        
+
         hours = int(total_millis / millis_per_hour)
         remainder = total_millis % millis_per_hour
-        
+
         minutes = int(remainder / millis_per_min)
         remainder = remainder % millis_per_min
-        
+
         seconds = int(remainder / millis_per_sec)
         milliseconds = remainder % millis_per_sec
-        
+
         self.hours = hours
         self.minutes = minutes
         self.seconds = seconds

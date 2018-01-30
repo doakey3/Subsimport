@@ -38,7 +38,7 @@ class subsimport_UI(bpy.types.Panel):
     bl_label = "Subsimport"
     bl_category = "Tools"
     bl_options = {"DEFAULT_CLOSED"}
-    
+
     @classmethod
     def poll(cls, context):
         return context.space_data.view_type == 'SEQUENCER'
@@ -46,16 +46,16 @@ class subsimport_UI(bpy.types.Panel):
     def draw(self, context):
         scene = context.scene
         layout = self.layout
-        
+
         row = layout.row()
-        row.prop(scene, 'subtitle_edit_channel', 
+        row.prop(scene, 'subtitle_edit_channel',
             text="Subtitle Edit Channel")
-        
+
         box = layout.box()
         row = box.row(align=False)
         row.prop(scene, 'subtitle_font_size',
                  text='Subtitle Font Size')
-        row.operator('sequencerextra.refresh_font_size', 
+        row.operator('sequencerextra.refresh_font_size',
             icon="FILE_REFRESH")
         row = box.row()
         row.operator('sequencerextra.import_subtitles', icon='ANIM')
@@ -76,11 +76,11 @@ class subsimport_UI(bpy.types.Panel):
         row.operator('sequencerextra.save_syllables', icon="DISK_DRIVE")
         row = box.row()
         row.prop(scene, 'syllable_dictionary_path', icon='TEXT', text="Syll Dict")
-        
+
         row = box.row()
         row.prop(scene, 'enhanced_subs_color',
             text='Highlight')
-        row.operator('sequencerextra.refresh_highlight', 
+        row.operator('sequencerextra.refresh_highlight',
             icon='FILE_REFRESH')
         row = box.row()
         row.operator('sequencerextra.split_words', icon="MOD_EXPLODE")
@@ -100,30 +100,30 @@ def register():
         description="The font size of the added text strips after import",
         default=70,
         min=1)
-    
+
     bpy.types.Scene.syllable_dictionary_path = bpy.props.StringProperty(
         name="Syllable Dictionary Path",
         description="Path to the text file containing words separated by syllables.\nNeeded for accurate splitting of subtitles by syllable.",
         subtype="FILE_PATH",
         )
-    
-    bpy.types.Scene.enhanced_subs_color = bpy.props.FloatVectorProperty(  
+
+    bpy.types.Scene.enhanced_subs_color = bpy.props.FloatVectorProperty(
        subtype='COLOR_GAMMA',
        description="Highlight color of the subtitles in the edit channel",
        size=3,
        default=(1.0, 0.5, 0.0),
        min=0.0, max=1.0,)
-    
+
     bpy.types.Scene.use_dictionary_syllabification = bpy.props.BoolProperty(
         description="Use (Less-Error-Prone) algorithm to syllabify words.",
         default=True
     )
-    
+
     bpy.types.Scene.use_algorithmic_syllabification = bpy.props.BoolProperty(
         description="Use (imperfect) algorithm to syllabify words.\nIf dictionary method is enabled, the algorithm is used for words not found in the dictionary.",
         default=True
     )
-    
+
     language_options = [
         # probably don't need this
         #('grc', 'Ancient Greek', ''),
@@ -135,7 +135,7 @@ def register():
         ('da', 'Danish', ''),
         ('nl', 'Dutch', ''),
         # Better off using en-us until I have a better dictionary
-        #('en-gb', 'English-Great Britain', ''), 
+        #('en-gb', 'English-Great Britain', ''),
         ('en-us', 'English-U.S.', ''),
         ('eo', 'Esperanto', ''),
         ('et', 'Estonian', ''),
@@ -170,19 +170,19 @@ def register():
         ('tr', 'Turkish', ''),
         ('uk', 'Ukrainian', ''),
         ]
-    
+
     bpy.types.Scene.syllabification_language = bpy.props.EnumProperty(
         name="Syllabification Language",
         items=language_options,
         description="Set the language to use when syllabifying",
         default="en-us"
         )
-    
+
     combine_modes = [
         ('esrt', 'ESRT', 'Combine subtitles as enhanced SRT strips'),
         ('elrc', 'ELRC', 'Combine subtitles as enhanced LRC strips')
     ]
-    
+
     bpy.types.Scene.subtitle_combine_mode = bpy.props.EnumProperty(
         name="Subtitle Combine Mode",
         items=combine_modes,
@@ -191,6 +191,8 @@ def register():
         )
 
     kc = bpy.context.window_manager.keyconfigs.addon
+    if not kc:
+        kc = bpy.context.window_manager.keyconfigs.new("Blender Addon")
     km = kc.keymaps.new(name="Sequencer", space_type="SEQUENCE_EDITOR")
     kmi = km.keymap_items.new("sequencerextra.shift_frame_start",
                               "D", 'PRESS')
@@ -198,7 +200,7 @@ def register():
                               "F", 'PRESS')
     kmi = km.keymap_items.new("sequencerextra.shift_frame_start_end", "W", "PRESS")
     kmi = km.keymap_items.new("sequencerextra.shift_frame_end_start", "S", 'PRESS')
-    
+
     kmi = km.keymap_items.new("sequencerextra.reset_children", "Z", 'PRESS')
 
     kmi = km.keymap_items.new(
@@ -219,7 +221,7 @@ def unregister():
     del bpy.types.Scene.use_algorithmic_syllabification
     del bpy.types.Scene.syllabification_language
     del bpy.types.Scene.subtitle_combine_mode
-    
+
     kc = bpy.context.window_manager.keyconfigs.addon
     km = kc.keymaps["Sequencer"]
     for kmi in km.keymap_items:

@@ -16,6 +16,9 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
     bl_idname = 'sequencerextra.import_subtitles'
     bl_description = 'Import subtitles (.txt, .lrc, or .srt) as text strips.'
 
+    reflow_long_lines = bpy.props.BoolProperty(
+        name="Reflow Long Lines", default=False)
+
     filter_glob = bpy.props.StringProperty(
             default="*.srt;*.lrc;*.txt",
             options={'HIDDEN'},
@@ -31,7 +34,7 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
         file.close()
 
         if self.filepath.endswith('.txt'):
-            text = text_to_srt(text, fps)
+            text = text_to_srt(text, fps, self.reflow_long_lines)
 
         elif self.filepath.endswith('.lrc'):
             lrc = lrc_parse(text)

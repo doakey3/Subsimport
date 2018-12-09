@@ -2,7 +2,7 @@ import bpy
 from .hyphenator.get_dictionary import get_dictionary
 import os
 
-class SaveSyllables(bpy.types.Operator):
+class SEQUENCER_OT_save_syllables(bpy.types.Operator):
     bl_label = 'Save'
     bl_idname = 'sequencerextra.save_syllables'
     bl_description = "Add the syllables to the default syllable dictionary"

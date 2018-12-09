@@ -52,7 +52,7 @@ def get_patterns(lang):
     return patterns
 
 
-class Syllabify(bpy.types.Operator, ExportHelper):
+class SEQUENCER_OT_syllabify(bpy.types.Operator, ExportHelper):
     bl_label = 'Syllabify'
     bl_idname = 'sequencerextra.syllabify'
     bl_description = "Create a list of words, separated by syllables.\nNeeded for splitting words with accurate syllable differentiation"

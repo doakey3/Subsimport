@@ -1,7 +1,7 @@
 import bpy
 from .tools.get_text_strips import get_text_strips
 
-class DurationXTwo(bpy.types.Operator):
+class SEQUENCER_OT_duration_x_2(bpy.types.Operator):
     bl_label = 'Dur x 2'
     bl_idname = 'sequencerextra.duration_x_two'
     bl_description = 'Make all text strips in subtitle edit channel twice as long'
@@ -31,7 +31,7 @@ class DurationXTwo(bpy.types.Operator):
 
         return {"FINISHED"}
 
-class DurationXHalf(bpy.types.Operator):
+class SEQUENCER_OT_duration_x_half(bpy.types.Operator):
     bl_label = 'Dur / 2'
     bl_idname = 'sequencerextra.duration_x_half'
     bl_description = 'Make all text strips in subtitle edit channel half as long.\nEach strip must be >=2 frames long for this to work.'

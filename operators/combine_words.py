@@ -142,7 +142,7 @@ def combine_elrc(fps, text_strips, bottom_text_strips):
     return subs
 
 
-class CombineWords(bpy.types.Operator):
+class SEQUENCER_OT_combine_words(bpy.types.Operator):
     bl_label = 'Combine'
     bl_idname = 'sequencerextra.combine_words'
     bl_description = 'Combine subtitles from edit channel with the subtitles in the channel below.'

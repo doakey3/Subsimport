@@ -2,7 +2,7 @@ import bpy
 from .tools.get_base_strip import get_base_strip
 from .tools.get_text_strips import get_text_strips
 
-class ShiftFrameStart(bpy.types.Operator):
+class SEQUENCER_OT_shift_frame_start(bpy.types.Operator):
     bl_idname = "sequencerextra.shift_frame_start"
     bl_label = "Shift Frame Start of Next Text Strip"
     bl_description = "Shifts frame start of text strip to the current frame"
@@ -56,7 +56,7 @@ class ShiftFrameStart(bpy.types.Operator):
         return {"FINISHED"}
 
 
-class ShiftFrameEnd(bpy.types.Operator):
+class SEQUENCER_OT_shift_frame_end(bpy.types.Operator):
     bl_idname = "sequencerextra.shift_frame_end"
     bl_label = "Shift Frame End of Next Text Strip"
     bl_description = "Shifts the frame end of text strip to the current frame"
@@ -110,7 +110,7 @@ class ShiftFrameEnd(bpy.types.Operator):
         return {"FINISHED"}
 
 
-class ShiftFrameStartEnd(bpy.types.Operator):
+class SEQUENCER_OT_shift_frame_start_end(bpy.types.Operator):
     bl_idname = "sequencerextra.shift_frame_start_end"
     bl_label = "Shift Frame End then Frame start of next"
     bl_description = "Like pressing D then F"
@@ -122,7 +122,7 @@ class ShiftFrameStartEnd(bpy.types.Operator):
         return {"FINISHED"}
 
 
-class ShiftFrameEndStart(bpy.types.Operator):
+class SEQUENCER_OT_shift_frame_end_start(bpy.types.Operator):
     bl_idname = "sequencerextra.shift_frame_end_start"
     bl_label = "Shift Frame End then Frame start of next"
     bl_description = "Like pressing F then D"
@@ -133,7 +133,7 @@ class ShiftFrameEndStart(bpy.types.Operator):
 
         return {"FINISHED"}
 
-class ResetChildren(bpy.types.Operator):
+class SEQUENCER_OT_reset_children(bpy.types.Operator):
     bl_idname = "sequencerextra.reset_children"
     bl_label = "Send the children to the final frames of the parent"
     bl_description = "Press Z while the current time indicator is on a parent and the upper strips will be sent to the end of the parent"

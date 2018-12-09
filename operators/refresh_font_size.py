@@ -2,7 +2,7 @@ import bpy
 
 from .tools.get_text_strips import get_text_strips
 
-class RefreshFontSize(bpy.types.Operator):
+class SEQUENCER_OT_refresh_font_size(bpy.types.Operator):
     bl_label = ""
     bl_idname = 'sequencerextra.refresh_font_size'
     bl_description = "Refresh the font size for all text strips on the edit channel"

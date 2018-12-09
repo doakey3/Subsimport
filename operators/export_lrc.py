@@ -8,7 +8,7 @@ from .pylrc.tools.timecode import seconds_to_timecode
 
 from .tools.get_text_strips import get_text_strips
 
-class ExportLRC(bpy.types.Operator, ExportHelper):
+class SEQUENCER_OT_export_lrc(bpy.types.Operator, ExportHelper):
     bl_label = 'Export LRC'
     bl_idname = 'sequencerextra.export_lrc'
     bl_description = 'Export subtitles as LRC\n\nThis format is usually used for music.'

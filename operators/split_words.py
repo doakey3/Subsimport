@@ -119,7 +119,7 @@ def form_items(scene, strip, pieces):
     return sub_list
 
 
-class SplitWords(bpy.types.Operator):
+class SEQUENCER_OT_split_words(bpy.types.Operator):
     bl_label = 'Split'
     bl_idname = 'sequencerextra.split_words'
     bl_description = 'Create new subtitles where each word is separated.\n\nIf a syllable dictionary is provided, words will be further split by their syllables'

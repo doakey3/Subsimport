@@ -7,7 +7,7 @@ from .pysrt.srtfile import SubRipFile
 
 from .tools.get_text_strips import get_text_strips
 
-class ExportSRT(bpy.types.Operator, ExportHelper):
+class SEQUENCER_OT_export_srt(bpy.types.Operator, ExportHelper):
     bl_label = 'Export SRT'
     bl_idname = 'sequencerextra.export_srt'
     bl_description = 'Export subtitles as SRT\n\nThis format is usually used for movies.'

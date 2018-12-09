@@ -1,38 +1,19 @@
 import bpy
-
-from .operators.shortcuts import ShiftFrameStart
-from .operators.shortcuts import ShiftFrameEnd
-from .operators.shortcuts import ShiftFrameStartEnd
-from .operators.shortcuts import ShiftFrameEndStart
-from .operators.shortcuts import ResetChildren
-
-from .operators.duration_adjust import DurationXTwo
-from .operators.duration_adjust import DurationXHalf
-
-from .operators.refresh_font_size import RefreshFontSize
-from .operators.import_subtitles import ImportSubtitles
-from .operators.export_srt import ExportSRT
-from .operators.export_lrc import ExportLRC
-from .operators.refresh_highlight import RefreshHighlight
-from .operators.syllabify import Syllabify
-from .operators.save_syllables import SaveSyllables
-from .operators.split_words import SplitWords
-from .operators.combine_words import CombineWords
-
-from .operators.select import SelectChannelRight, SelectChannelLeft
+from .operators import *
 
 bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 2, 9),
-    "blender": (2, 7, 8),
+    "version": (1, 3, 0),
+    "blender": (2, 80, 0),
     "wiki_url": "https://github.com/doakey3/subsimport",
     "tracker_url": "https://github.com/doakey3/subsimport/issues",
     "category": "Sequencer"
     }
 
-class subsimport_UI(bpy.types.Panel):
+
+class SEQUENCER_PT_ui(bpy.types.Panel):
     bl_space_type = "SEQUENCE_EDITOR"
     bl_region_type = "UI"
     bl_label = "Subsimport"
@@ -72,7 +53,7 @@ class subsimport_UI(bpy.types.Panel):
         row.prop(scene, 'use_algorithmic_syllabification', text="Algorithm")
         row.prop(scene, 'syllabification_language', text='')
         row = box.row()
-        row.operator('sequencerextra.syllabify', icon="ALIGN")
+        row.operator('sequencerextra.syllabify', icon="ALIGN_FLUSH")
         row.operator('sequencerextra.save_syllables', icon="DISK_DRIVE")
         row = box.row()
         row.prop(scene, 'syllable_dictionary_path', icon='TEXT', text="Syll Dict")
@@ -88,9 +69,8 @@ class subsimport_UI(bpy.types.Panel):
         row.operator('sequencerextra.combine_words', icon="MOD_BUILD")
         row.prop(scene, 'subtitle_combine_mode', text='')
 
-def register():
-    bpy.utils.register_module(__name__)
 
+def init_prop():
     bpy.types.Scene.subtitle_edit_channel = bpy.props.IntProperty(
         description="The channel where keyboard shortcuts will act on text strips",
         default=1,
@@ -189,51 +169,61 @@ def register():
         description="How to combine the subtitles",
         default="esrt"
         )
+        
+classes = [
+    SEQUENCER_PT_ui,
+    SEQUENCER_OT_combine_words,
+    SEQUENCER_OT_duration_x_2,
+    SEQUENCER_OT_duration_x_half,
+    SEQUENCER_OT_export_lrc,
+    SEQUENCER_OT_export_srt,
+    SEQUENCER_OT_import_subtitles,
+    SEQUENCER_OT_refresh_font_size,
+    SEQUENCER_OT_refresh_highlight,
+    SEQUENCER_OT_save_syllables,
+    SEQUENCER_OT_select_channel_right,
+    SEQUENCER_OT_select_channel_left,
+    SEQUENCER_OT_shift_frame_start,
+    SEQUENCER_OT_shift_frame_end,
+    SEQUENCER_OT_shift_frame_start_end,
+    SEQUENCER_OT_shift_frame_end_start,
+    SEQUENCER_OT_reset_children,
+    SEQUENCER_OT_split_words,
+    SEQUENCER_OT_syllabify,
+]
+addon_keymaps = []
 
-    kc = bpy.context.window_manager.keyconfigs.addon
-    if not kc:
-        kc = bpy.context.window_manager.keyconfigs.new("Blender Addon")
-    km = kc.keymaps.new(name="Sequencer", space_type="SEQUENCE_EDITOR")
-    kmi = km.keymap_items.new("sequencerextra.shift_frame_start",
-                              "D", 'PRESS')
-    kmi = km.keymap_items.new("sequencerextra.shift_frame_end",
-                              "F", 'PRESS')
+def register():
+    init_prop()
+    from bpy.utils import register_class
+    for cls in classes:
+        register_class(cls)
+
+    wm = bpy.context.window_manager
+    km = wm.keyconfigs.addon.keymaps.new(name="Sequencer", space_type="SEQUENCE_EDITOR", region_type="WINDOW")
+
+    kmi = km.keymap_items.new("sequencerextra.shift_frame_start", "D", 'PRESS')
+    kmi = km.keymap_items.new("sequencerextra.shift_frame_end", "F", 'PRESS')
     kmi = km.keymap_items.new("sequencerextra.shift_frame_start_end", "W", "PRESS")
     kmi = km.keymap_items.new("sequencerextra.shift_frame_end_start", "S", 'PRESS')
 
     kmi = km.keymap_items.new("sequencerextra.reset_children", "Z", 'PRESS')
 
-    kmi = km.keymap_items.new(
-        "sequencerextra.select_channel_right", "RIGHT_ARROW", "PRESS", alt=False,
-        ctrl=True, shift=True
-        )
-    kmi = km.keymap_items.new(
-        "sequencerextra.select_channel_left", "LEFT_ARROW", "PRESS", alt=False,
-        ctrl=True, shift=True
-        )
+    kmi = km.keymap_items.new("sequencerextra.select_channel_right", "RIGHT_ARROW", "PRESS", alt=False, ctrl=True, shift=True)
+    kmi = km.keymap_items.new("sequencerextra.select_channel_left", "LEFT_ARROW", "PRESS", alt=False, ctrl=True, shift=True)
+    
+    addon_keymaps.append(km)
 
 def unregister():
-    del bpy.types.Scene.subtitle_edit_channel
-    del bpy.types.Scene.subtitle_font_size
-    del bpy.types.Scene.enhanced_subs_color
-    del bpy.types.Scene.syllable_dictionary_path
-    del bpy.types.Scene.use_dictionary_syllabification
-    del bpy.types.Scene.use_algorithmic_syllabification
-    del bpy.types.Scene.syllabification_language
-    del bpy.types.Scene.subtitle_combine_mode
+    from bpy.utils import unregister_class
+    for cls in reversed(classes):
+        unregister_class(cls)
+        
+    wm = bpy.context.window_manager
+    for km in addon_keymaps:
+        wm.keyconfigs.addon.keymaps.remove(km)
+    addon_keymaps.clear()
 
-    kc = bpy.context.window_manager.keyconfigs.addon
-    km = kc.keymaps["Sequencer"]
-    for kmi in km.keymap_items:
-        if kmi.idname in ["sequencerextra.shift_frame_start",
-                          "sequencerextra.shift_frame_end",
-                          "sequencerextra.shift_frame_start_end",
-                          "sequencerextra.shift_frame_end_start",
-                          "sequencerextra.select_channel_right",
-                          "sequencerextra.select_channel_left"]:
-            km.keymap_items.remove(kmi)
-
-    bpy.utils.unregister_module(__name__)
 
 if __name__ == "__main__":
     register()

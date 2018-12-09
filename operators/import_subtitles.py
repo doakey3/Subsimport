@@ -11,15 +11,15 @@ from .textparser.parser import text_to_srt
 from .tools.subtitles_to_sequencer import subtitles_to_sequencer
 from .tools.hexcode_to_color import hexcode_to_color
 
-class ImportSubtitles(bpy.types.Operator, ImportHelper):
+class SEQUENCER_OT_import_subtitles(bpy.types.Operator, ImportHelper):
     bl_label = 'Import'
     bl_idname = 'sequencerextra.import_subtitles'
     bl_description = 'Import subtitles (.txt, .lrc, or .srt) as text strips.'
 
-    reflow_long_lines = bpy.props.BoolProperty(
+    reflow_long_lines: bpy.props.BoolProperty(
         name="Reflow Long Lines", default=False)
 
-    filter_glob = bpy.props.StringProperty(
+    filter_glob: bpy.props.StringProperty(
             default="*.srt;*.lrc;*.txt",
             options={'HIDDEN'},
             maxlen=255,
@@ -44,8 +44,7 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
         subs.remove_overlaps()
 
         scene.use_audio_scrub = True
-        scene.use_audio_sync = True
-        scene.use_frame_drop = True
+        scene.sync_mode = 'AUDIO_SYNC'
 
         try:
             all_strips = list(sorted(scene.sequence_editor.sequences,
@@ -79,7 +78,8 @@ class ImportSubtitles(bpy.types.Operator, ImportHelper):
             strips = subtitles_to_sequencer(context, subs)
 
         scene.subtitle_edit_channel = strips[0].channel
-
-        bpy.ops.sequencer.view_selected()
+    
+        # This causes blender 2.8 to crash, not sure why, will ignore for now
+        # bpy.ops.sequencer.view_selected()
 
         return {"FINISHED"}

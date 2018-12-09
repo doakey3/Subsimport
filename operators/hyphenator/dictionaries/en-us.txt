@@ -26235,7 +26235,9 @@ ee ri er
 ee ri est
 ee ri ly
 ee rie
+eeeh
 eeg
+eeh
 eel
 eel grass
 eel like
@@ -36516,8 +36518,10 @@ ha zi ness
 ha zle
 ha zle ton
 ha zy
+haa
 haa gen
 haa land
+haaa
 haab
 haack
 haacke
@@ -81806,6 +81810,7 @@ text
 text book
 texts
 th
+tha
 tha da
 tha gard
 tha las sa

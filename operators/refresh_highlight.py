@@ -2,7 +2,7 @@ import bpy
 
 from .tools.get_text_strips import get_text_strips
 
-class RefreshHighlight(bpy.types.Operator):
+class SEQUENCER_OT_refresh_highlight(bpy.types.Operator):
     bl_label = ""
     bl_idname = 'sequencerextra.refresh_highlight'
     bl_description = "Refresh the color of highlighted words"

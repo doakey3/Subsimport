@@ -1,6 +1,6 @@
 import bpy
 
-class SelectChannelRight(bpy.types.Operator):
+class SEQUENCER_OT_select_channel_right(bpy.types.Operator):
     bl_label = 'Select Channel Right'
     bl_idname = 'sequencerextra.select_channel_right'
     bl_description = 'Select all strips to the right of the CTI on the Subtitle Edit Channel'
@@ -28,7 +28,7 @@ class SelectChannelRight(bpy.types.Operator):
 
         return {'FINISHED'}
 
-class SelectChannelLeft(bpy.types.Operator):
+class SEQUENCER_OT_select_channel_left(bpy.types.Operator):
     bl_label = 'Select Channel Left'
     bl_idname = 'sequencerextra.select_channel_left'
     bl_description = 'Select all strips to the right of the CTI on the Subtitle Edit Channel'

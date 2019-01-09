@@ -13,7 +13,7 @@ bl_info = {
     }
 
 
-class SEQUENCER_PT_ui(bpy.types.Panel):
+class SEQUENCER_PT_subsimport(bpy.types.Panel):
     bl_space_type = "SEQUENCE_EDITOR"
     bl_region_type = "UI"
     bl_label = "Subsimport"
@@ -171,7 +171,7 @@ def init_prop():
         )
         
 classes = [
-    SEQUENCER_PT_ui,
+    SEQUENCER_PT_subsimport,
     SEQUENCER_OT_combine_words,
     SEQUENCER_OT_duration_x_2,
     SEQUENCER_OT_duration_x_half,

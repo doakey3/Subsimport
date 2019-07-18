@@ -31,5 +31,6 @@ class SEQUENCER_OT_refresh_font_data(bpy.types.Operator):
         for strip in text_strips:
             strip.font_size = scene.subtitle_font_size
             strip.font = get_font(scene.subtitle_font)
+            strip.location[1] = scene.subtitle_font_height
 
         return {"FINISHED"}

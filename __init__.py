@@ -40,6 +40,9 @@ class SEQUENCER_PT_subsimport(bpy.types.Panel):
         row.prop(scene, 'subtitle_font_size',
                  text='Font Size')
         row = box.row()
+        row.prop(scene, 'subtitle_font_height',
+                 text='Font Height')
+        row = box.row()
         row.operator('sequencerextra.refresh_font_data',
             icon="FILE_REFRESH")
         box = layout.box()
@@ -89,6 +92,12 @@ def init_prop():
         description="The font size of the added text strips after import",
         default=70,
         min=1)
+
+    bpy.types.Scene.subtitle_font_height = bpy.props.FloatProperty(
+        description="The height of the added text strips after import",
+        default=0.0,
+        min=0.0,
+        max=1.0)
 
     bpy.types.Scene.syllable_dictionary_path = bpy.props.StringProperty(
         name="Syllable Dictionary Path",

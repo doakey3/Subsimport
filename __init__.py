@@ -34,10 +34,15 @@ class SEQUENCER_PT_subsimport(bpy.types.Panel):
 
         box = layout.box()
         row = box.row(align=False)
+        row.prop(scene, 'subtitle_font',
+                 text='Font')
+        row = box.row()
         row.prop(scene, 'subtitle_font_size',
-                 text='Subtitle Font Size')
-        row.operator('sequencerextra.refresh_font_size',
+                 text='Font Size')
+        row = box.row()
+        row.operator('sequencerextra.refresh_font_data',
             icon="FILE_REFRESH")
+        box = layout.box()
         row = box.row()
         row.operator('sequencerextra.import_subtitles', icon='ANIM')
         row = box.row()
@@ -75,6 +80,10 @@ def init_prop():
         description="The channel where keyboard shortcuts will act on text strips",
         default=1,
         min=0)
+
+    bpy.types.Scene.subtitle_font = bpy.props.StringProperty(
+        description="The font of the added text strips after import",
+        subtype="FILE_PATH")
 
     bpy.types.Scene.subtitle_font_size = bpy.props.IntProperty(
         description="The font size of the added text strips after import",
@@ -178,7 +187,7 @@ classes = [
     SEQUENCER_OT_export_lrc,
     SEQUENCER_OT_export_srt,
     SEQUENCER_OT_import_subtitles,
-    SEQUENCER_OT_refresh_font_size,
+    SEQUENCER_OT_refresh_font_data,
     SEQUENCER_OT_refresh_highlight,
     SEQUENCER_OT_save_syllables,
     SEQUENCER_OT_select_channel_right,

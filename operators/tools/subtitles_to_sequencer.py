@@ -1,5 +1,7 @@
 import bpy
+
 from .get_open_channel import get_open_channel
+from .get_font import get_font
 
 def subtitles_to_sequencer(context, subs):
     """Add subtitles to the video sequencer"""
@@ -39,6 +41,7 @@ def subtitles_to_sequencer(context, subs):
             frame_end=strip_end
             )
 
+        text_strip.font = get_font(scene.subtitle_font)
         text_strip.font_size = scene.subtitle_font_size
         text_strip.text = subs[i].text
         text_strip.use_shadow = True

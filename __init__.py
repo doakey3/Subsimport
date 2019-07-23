@@ -5,7 +5,7 @@ bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 3, 0),
+    "version": (1, 3, 1),
     "blender": (2, 80, 0),
     "wiki_url": "https://github.com/doakey3/subsimport",
     "tracker_url": "https://github.com/doakey3/subsimport/issues",
@@ -187,7 +187,7 @@ def init_prop():
         description="How to combine the subtitles",
         default="esrt"
         )
-        
+
 classes = [
     SEQUENCER_PT_subsimport,
     SEQUENCER_OT_combine_words,
@@ -229,14 +229,14 @@ def register():
 
     kmi = km.keymap_items.new("sequencerextra.select_channel_right", "RIGHT_ARROW", "PRESS", alt=False, ctrl=True, shift=True)
     kmi = km.keymap_items.new("sequencerextra.select_channel_left", "LEFT_ARROW", "PRESS", alt=False, ctrl=True, shift=True)
-    
+
     addon_keymaps.append(km)
 
 def unregister():
     from bpy.utils import unregister_class
     for cls in reversed(classes):
         unregister_class(cls)
-        
+
     wm = bpy.context.window_manager
     for km in addon_keymaps:
         wm.keyconfigs.addon.keymaps.remove(km)

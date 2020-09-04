@@ -5,7 +5,7 @@ bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 3, 1),
+    "version": (1, 3, 2),
     "blender": (2, 80, 0),
     "wiki_url": "https://github.com/doakey3/subsimport",
     "tracker_url": "https://github.com/doakey3/subsimport/issues",
@@ -37,11 +37,32 @@ class SEQUENCER_PT_subsimport(bpy.types.Panel):
         row.prop(scene, 'subtitle_font',
                  text='Font')
         row = box.row()
+        row.prop(scene, 'subtitle_font_color',
+                 text="Font Color")
+        row = box.row()
         row.prop(scene, 'subtitle_font_size',
                  text='Font Size')
         row = box.row()
-        row.prop(scene, 'subtitle_font_height',
-                 text='Font Height')
+        row.prop(scene, 'subtitle_font_shadow',
+                 text="Shadow",
+                 toggle=False)
+        row.prop(scene, 'subtitle_font_shadow_color',
+                 text="Shadow Color")
+        row = box.row()
+        row.prop(scene, 'subtitle_font_xloc',
+                 text='Font X Location')
+        row = box.row()
+        row.prop(scene, 'subtitle_font_yloc',
+                 text='Font Y Location')
+        row = box.row()
+        row.prop(scene, 'subtitle_anchor_x',
+                 text='Font Anchor X')
+        row = box.row()
+        row.prop(scene, 'subtitle_anchor_y',
+                 text='Font Anchor Y')
+        row = box.row()
+        row.prop(scene, 'subtitle_wrap_width',
+                 text='Font Wrap Width')
         row = box.row()
         row.operator('sequencerextra.refresh_font_data',
             icon="FILE_REFRESH")
@@ -88,13 +109,65 @@ def init_prop():
         description="The font of the added text strips after import",
         subtype="FILE_PATH")
 
+    bpy.types.Scene.subtitle_font_color = bpy.props.FloatVectorProperty(
+        description="Font Color",
+        subtype='COLOR',
+        size=4,
+        default=(1.0,1.0,1.0,1.0),
+        min=0.0,
+        max=1.0,
+        )
+
     bpy.types.Scene.subtitle_font_size = bpy.props.IntProperty(
         description="The font size of the added text strips after import",
         default=70,
         min=1)
 
-    bpy.types.Scene.subtitle_font_height = bpy.props.FloatProperty(
-        description="The height of the added text strips after import",
+    bpy.types.Scene.subtitle_font_shadow = bpy.props.BoolProperty(
+        description="Enable or disable font shadow",
+        default=False)
+
+    bpy.types.Scene.subtitle_font_shadow_color = bpy.props.FloatVectorProperty(
+        description="Shadow Color",
+        subtype='COLOR',
+        size=4,
+        default=(0.0,0.0,0.0,1.0),
+        min=0.0,
+        max=1.0,
+        )
+
+    bpy.types.Scene.subtitle_font_xloc = bpy.props.FloatProperty(
+        description="The X Location of the added text strips after import",
+        default=0.5,
+        min=0.0,
+        max=1.0)
+
+    bpy.types.Scene.subtitle_font_yloc = bpy.props.FloatProperty(
+        description="The Y Location of the added text strips after import",
+        default=0.0,
+        min=0.0,
+        max=1.0)
+
+    bpy.types.Scene.subtitle_anchor_x = bpy.props.EnumProperty(
+                    name='Anchor Alignment X',
+                    description='X Alignment of Text',
+                    items={
+                    ('LEFT', 'Left', 'Align text left relative to bounds'),
+                    ('CENTER', 'Center', 'Align text center relative to bounds'),
+                    ('RIGHT', 'Right', 'Align text right relative to bounds')},
+                    default='CENTER')
+
+    bpy.types.Scene.subtitle_anchor_y = bpy.props.EnumProperty(
+                    name='Anchor Alignment Y',
+                    description='Y Alignment of Text',
+                    items={
+                    ('TOP', 'Top', 'Align text top relative to bounds'),
+                    ('CENTER', 'Center', 'Align text center relative to bounds'),
+                    ('BOTTOM', 'Bottom', 'Align text bottom relative to bounds')},
+                    default='BOTTOM')
+
+    bpy.types.Scene.subtitle_wrap_width = bpy.props.FloatProperty(
+        description="The wrap width of the text strips after import",
         default=0.0,
         min=0.0,
         max=1.0)

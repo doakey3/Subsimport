@@ -43,7 +43,14 @@ def subtitles_to_sequencer(context, subs):
 
         text_strip.font = get_font(scene.subtitle_font)
         text_strip.font_size = scene.subtitle_font_size
-        text_strip.location[1] = scene.subtitle_font_height
+        text_strip.color = scene.subtitle_font_color
+        text_strip.use_shadow = scene.subtitle_font_shadow
+        text_strip.shadow_color = scene.subtitle_font_shadow_color
+        text_strip.location[0] = scene.subtitle_font_xloc
+        text_strip.location[1] = scene.subtitle_font_yloc
+        text_strip.align_x = scene.subtitle_anchor_x
+        text_strip.align_y = scene.subtitle_anchor_y
+        text_strip.wrap_width = scene.subtitle_wrap_width
         text_strip.text = subs[i].text
         text_strip.use_shadow = True
         text_strip.select = True

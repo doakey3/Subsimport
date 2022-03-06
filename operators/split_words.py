@@ -23,7 +23,10 @@ def break_strip(scene, strip):
     else:
         dictionary = {}
 
-    words = strip.text.replace('\n', ' ').split(' ')
+    if scene.syllabification_language == 'zh-tw' or scene.syllabification_language == 'zh-cn':
+        words = list(strip.text.replace('\n', '　'))
+    else:
+        words = strip.text.replace('\n', ' ').split(' ')
     i = 0
     while i < len(words):
         if words[i].rstrip() == '':
@@ -72,9 +75,13 @@ def form_items(scene, strip, pieces):
     text = strip.text
     lines = text.split('\n')
     empty_text = ''
+    empty_chr = ' '
+    if scene.syllabification_language == 'zh-tw' or scene.syllabification_language == 'zh-cn':
+        empty_chr = '　'
+    
     for i in range(len(lines)):
         for char in range(len(lines[i])):
-            empty_text += ' '
+            empty_text += empty_chr
         empty_text += '\n'
 
     new_pieces = []

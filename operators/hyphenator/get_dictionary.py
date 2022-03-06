@@ -10,7 +10,7 @@ def get_dictionary(dic_path=None, lang='en-us'):
     dictionary = {}
 
     try:
-        f = open(dic_path, 'r')
+        f = open(dic_path, 'r', encoding="utf-8")
         lines = f.readlines()
         f.close()
 

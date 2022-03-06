@@ -23,7 +23,7 @@ class SEQUENCER_OT_save_syllables(bpy.types.Operator):
                 lang=scene.syllabification_language)
 
         path = bpy.path.abspath(scene.syllable_dictionary_path)
-        f = open(path, 'r')
+        f = open(path, 'r',encoding='utf-8')
         words = f.readlines()
         f.close()
 
@@ -39,7 +39,7 @@ class SEQUENCER_OT_save_syllables(bpy.types.Operator):
             module_path, 'hyphenator', 'dictionaries',
             scene.syllabification_language + '.txt')
 
-        f = open(dic_path, 'w')
+        f = open(dic_path, 'w', encoding='utf-8')
         f.write('\n'.join(values))
         f.close()
 

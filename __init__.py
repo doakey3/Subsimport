@@ -5,8 +5,8 @@ bl_info = {
     "name": "Subsimport",
     "description": "Import subtitles into blender",
     "author": "doakey3",
-    "version": (1, 3, 1),
-    "blender": (2, 80, 0),
+    "version": (1, 3, 2),
+    "blender": (3, 2, 0),
     "wiki_url": "https://github.com/doakey3/subsimport",
     "tracker_url": "https://github.com/doakey3/subsimport/issues",
     "category": "Sequencer"

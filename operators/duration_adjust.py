@@ -26,8 +26,8 @@ class SEQUENCER_OT_duration_x_2(bpy.types.Operator):
 
         text_strips = list(reversed(text_strips))
         for strip in text_strips:
-            strip.frame_final_end = strip.frame_final_end * 2
-            strip.frame_final_start = strip.frame_final_start * 2
+            strip.frame_final_end = int(strip.frame_final_end * 2)
+            strip.frame_final_start = int(strip.frame_final_start * 2)
 
         return {"FINISHED"}
 
@@ -58,7 +58,7 @@ class SEQUENCER_OT_duration_x_half(bpy.types.Operator):
         text_strips = get_text_strips(scene)
 
         for strip in text_strips:
-            strip.frame_final_end = strip.frame_final_end / 2
-            strip.frame_final_start = strip.frame_final_start / 2
+            strip.frame_final_end = int(strip.frame_final_end / 2)
+            strip.frame_final_start = int(strip.frame_final_start / 2)
 
         return {"FINISHED"}

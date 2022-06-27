@@ -19,11 +19,11 @@ def subtitles_to_sequencer(context, subs):
     added_strips = []
 
     for i in range(len(subs)):
-        start_time = subs[i].start.to_millis() / 1000
-        strip_start = round(start_time * fps, 0)
+        start_time = int(subs[i].start.to_millis() / 1000)
+        strip_start = int(round(start_time * fps, 0))
 
         end_time = subs[i].end.to_millis() / 1000
-        strip_end = round(end_time * fps, 0)
+        strip_end = int(round(end_time * fps, 0))
         sub_name = str(open_channel) + '_' + str(i + 1)
         try:
             if '[locked start]' in subs[i].name:

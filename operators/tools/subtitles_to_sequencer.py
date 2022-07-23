@@ -37,8 +37,8 @@ def subtitles_to_sequencer(context, subs):
             name=sub_name,
             type='TEXT',
             channel=open_channel,
-            frame_start=strip_start,
-            frame_end=strip_end
+            frame_start=int(strip_start),
+            frame_end=int(strip_end)
             )
 
         text_strip.font = get_font(scene.subtitle_font)

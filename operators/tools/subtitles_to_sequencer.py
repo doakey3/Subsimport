@@ -19,7 +19,7 @@ def subtitles_to_sequencer(context, subs):
     added_strips = []
 
     for i in range(len(subs)):
-        start_time = int(subs[i].start.to_millis() / 1000)
+        start_time = subs[i].start.to_millis() / 1000
         strip_start = int(round(start_time * fps, 0))
 
         end_time = subs[i].end.to_millis() / 1000

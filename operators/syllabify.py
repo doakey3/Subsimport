@@ -15,9 +15,14 @@ def collect_words(scene):
     words = []
 
     text_strips = get_text_strips(scene)
-    for strip in text_strips:
-        strip_words = strip.text.lower().replace('--', ' ').replace('\n', ' ').split(' ')
-        words.extend(strip_words)
+    if scene.syllabification_language == 'zh-tw' or scene.syllabification_language == 'zh-cn':
+        for strip in text_strips:
+            strip_words = list(strip.text.lower().replace('--', ' ').replace('\n', ' '))
+            words.extend(strip_words)
+    else:
+        for strip in text_strips:
+            strip_words = strip.text.lower().replace('--', ' ').replace('\n', ' ').split(' ')
+            words.extend(strip_words)
 
     i = 0
     while i < len(words):
@@ -105,7 +110,7 @@ class SEQUENCER_OT_syllabify(bpy.types.Operator, ExportHelper):
                     words[i] = ' '.join(words[i])
         words = set(words)
         words = sorted(list(words))
-        f = open(self.filepath, 'w')
+        f = open(self.filepath, 'w',encoding='utf-8')
         f.write('\n'.join(words))
         f.close()
 

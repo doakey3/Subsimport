@@ -22,6 +22,7 @@ def write_word_level(text, txt_path):
     text = text.split('\n')
     for line in text:
         split = line.split(' ')
+        """split = list(line)"""
         for word in split:
             words.append(word)
 

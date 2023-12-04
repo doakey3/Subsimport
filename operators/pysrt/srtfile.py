@@ -321,7 +321,7 @@ class SubRipFile(UserList, object):
 
     @classmethod
     def _detect_encoding(cls, path):
-        file_descriptor = open(path, 'rb')
+        file_descriptor = open(path, 'rb', 'utf-8')
         first_chars = file_descriptor.read(BIGGER_BOM)
         file_descriptor.close()
 

@@ -2,6 +2,7 @@ def find_even_split(line):
     """
     Given a string, splits it into two (almost) evenly spaced lines
     """
+    """word_list = line.split(' ')"""
     word_list = line.split(' ')
     differences = []
     for i in range(len(word_list)):

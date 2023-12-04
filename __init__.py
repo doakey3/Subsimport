@@ -135,6 +135,8 @@ def init_prop():
         # Better off using en-us until I have a better dictionary
         #('en-gb', 'English-Great Britain', ''),
         ('en-us', 'English-U.S.', ''),
+		('zh-tw', '繁體中文', ''),
+		('zh-cn', '簡體中文', ''),
         ('eo', 'Esperanto', ''),
         ('et', 'Estonian', ''),
         ('fi', 'Finnish', ''),
